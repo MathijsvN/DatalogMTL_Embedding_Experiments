@@ -1,0 +1,7 @@
+g5(N0,N1) :- Boxplus[3,3] g16(N1,N0).
+g6(N0,N1) :- g3(N0,N1).
+g7(N0,N1) :- g1(N0), g3(N1,N0).
+g8(N0,N1) :- g4(N0,N1), g9(N0,N1).
+g9(N0,N1) :- g2(N0,N1).
+g9(N0,N1) :- g7(N1,N0).
+g16(N0,N1) :- Diamondminus[3,4] g8(N0,N1).
