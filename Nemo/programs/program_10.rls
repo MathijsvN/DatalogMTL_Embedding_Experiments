@@ -1,0 +1,55 @@
+
+@import g1 :- csv { resource = ".\examples\examples\Translation_examples\iTemporal\generated_data\10\cleaned\g1_numeric_nemo.csv",format=(double,double,double,double,double)} .
+@import g2 :- csv { resource = ".\examples\examples\Translation_examples\iTemporal\generated_data\10\cleaned\g2_numeric_nemo.csv",format=(double,double,double,double)} .
+@import g3 :- csv { resource = ".\examples\examples\Translation_examples\iTemporal\generated_data\10\cleaned\g3_numeric_nemo.csv",format=(double,double,double,double)} .
+@import g4 :- csv { resource = ".\examples\examples\Translation_examples\iTemporal\generated_data\10\cleaned\g4_numeric_nemo.csv",format=(double,double,double,double)} .
+
+% Rule 1.
+g5(?N0, ?N1, ?start, ?end)
+    :-  g9(?N0, ?N1, ?start1, ?end1),
+        ?start = max(?start1),
+        ?end = min(?end1),
+        ?start <= ?end.
+% Rule 2.
+g6(?N0, ?N1, ?N2, ?start, ?end)
+    :-  g1(?N2, ?N1, ?N0, ?start1, ?end1),
+        ?start = max(?start1 + 2),
+        ?end = min(?end1 + 3),
+        ?start <= ?end.
+% Rule 3.
+g7(?N0, ?N1, ?start, ?end)
+    :-  g3(?N1, ?N0, ?start1, ?end1),
+        ?start = max(?start1),
+        ?end = min(?end1),
+        ?start <= ?end.
+% Rule 4.
+g7(?N0, ?N1, ?start, ?end)
+    :-  g8(?N1, ?N0, ?start1, ?end1),
+        ?start = max(?start1),
+        ?end = min(?end1),
+        ?start <= ?end.
+% Rule 5.
+g8(?N0, ?N1, ?start, ?end)
+    :-  g10(?N0, ?N1, ?start1, ?end1),
+        g2(?N0, ?N1, ?start2, ?end2),
+        ?start = max(?start1, ?start2),
+        ?end = min(?end1, ?end2),
+        ?start <= ?end.
+% Rule 6.
+g9(?N0, ?N1, ?start, ?end)
+    :-  g4(?N0, ?N1, ?start1, ?end1),
+        ?start = max(?start1),
+        ?end = min(?end1),
+        ?start <= ?end.
+% Rule 7.
+g9(?N0, ?N1, ?start, ?end)
+    :-  g7(?N1, ?N0, ?start1, ?end1),
+        ?start = max(?start1),
+        ?end = min(?end1),
+        ?start <= ?end.
+% Rule 8.
+g10(?N0, ?N1, ?start, ?end)
+    :-  g1(?N0, ?N1, ?NA1, ?start1, ?end1),
+        ?start = max(?start1 + 4),
+        ?end = min(?end1 + 2),
+        ?start <= ?end.

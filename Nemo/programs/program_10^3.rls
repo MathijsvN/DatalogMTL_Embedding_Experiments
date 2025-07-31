@@ -1,0 +1,43 @@
+
+@import g1 :- csv { resource = ".\examples\examples\Translation_examples\iTemporal\generated_data\1000\cleaned\g1_numeric_nemo.csv",format=(double,double,double,double,double)} .
+@import g2 :- csv { resource = ".\examples\examples\Translation_examples\iTemporal\generated_data\1000\cleaned\g2_numeric_nemo.csv",format=(double,double,double,double)} .
+@import g3 :- csv { resource = ".\examples\examples\Translation_examples\iTemporal\generated_data\1000\cleaned\g3_numeric_nemo.csv",format=(double,double,double,double)} .
+@import g4 :- csv { resource = ".\examples\examples\Translation_examples\iTemporal\generated_data\1000\cleaned\g4_numeric_nemo.csv",format=(double,double,double,double)} .
+
+% Rule 1.
+g5(?N0, ?N1, ?start1, ?end)
+    :-  g8(?N0, ?N1, ?start1, ?end1),
+        ?end = min(?end1 - 4),
+        ?start1 <= ?end.
+% Rule 2.
+g6(?N0, ?N1, ?N2, ?start, ?end1)
+    :-  g1(?N2, ?N1, ?N0, ?start1, ?end1),
+        ?start = max(?start1 - 4),
+        ?start <= ?end1.
+% Rule 3.
+g7(?N0, ?N1, ?start1, ?end1)
+    :-  g12(?N1, ?N0, ?start1, ?end1),
+        ?start1 <= ?end1.
+% Rule 4.
+g7(?N0, ?N1, ?start1, ?end1)
+    :-  g9(?N0, ?N1, ?start1, ?end1),
+        ?start1 <= ?end1.
+% Rule 5.
+g8(?N0, ?N1, ?start, ?end)
+    :-  g4(?N0, ?N1, ?start1, ?end1),
+        g7(?N1, ?N0, ?start2, ?end2),
+        ?start = max(?start1, ?start2),
+        ?end = min(?end1, ?end2),
+        ?start <= ?end.
+% Rule 6.
+g9(?N0, ?N1, ?start1, ?end1)
+    :-  g1(?NA1, ?N0, ?N1, ?start1, ?end1),
+        ?start1 <= ?end1.
+% Rule 7.
+g9(?N0, ?N1, ?start1, ?end1)
+    :-  g2(?N1, ?N0, ?start1, ?end1),
+        ?start1 <= ?end1.
+% Rule 8.
+g12(?N0, ?N1, ?start1, ?end1)
+    :-  g3(?N0, ?N1, ?start1, ?end1),
+        ?start1 <= ?end1.
