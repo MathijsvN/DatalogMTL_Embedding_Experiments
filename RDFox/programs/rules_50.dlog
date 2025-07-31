@@ -1,0 +1,123 @@
+@prefix : <http://example.org/> .
+# Rule 1
+[ ?N0, :g5, ?newInterval ],
+[ ?newInterval, :g5, ?N1],
+[ ?newInterval, :from, ?start],
+[ ?newInterval, :to, ?end],
+[ ?newInterval, a, :Interval] :-
+       [ ?N1, :g16, ?interval1 ],
+       [ ?interval1, :g16, ?N0],
+       [ ?interval1, a, :Interval],
+       [ ?interval1, :from, ?start1],
+       [ ?interval1, :to, ?end1],
+       BIND ( MAXFN( ?start1 - 3 ) AS ?start ),
+       BIND ( MINFN( ?end1 - 3 ) AS ?end ),
+       SKOLEM ( "Time interval", ?start, ?end, ?newInterval ),
+       FILTER( ?start <= ?end ).
+
+# Rule 2
+[ ?N0, :g6, ?newInterval ],
+[ ?newInterval, :g6, ?N1],
+[ ?newInterval, :from, ?start],
+[ ?newInterval, :to, ?end],
+[ ?newInterval, a, :Interval] :-
+       [ ?N0, :g3, ?interval1 ],
+       [ ?interval1, :g3, ?N1],
+       [ ?interval1, a, :Interval],
+       [ ?interval1, :from, ?start1],
+       [ ?interval1, :to, ?end1],
+       BIND ( MAXFN( ?start1 ) AS ?start ),
+       BIND ( MINFN( ?end1 ) AS ?end ),
+       SKOLEM ( "Time interval", ?start, ?end, ?newInterval ),
+       FILTER( ?start <= ?end ).
+
+# Rule 3
+[ ?N0, :g7, ?newInterval ],
+[ ?newInterval, :g7, ?N1],
+[ ?newInterval, :from, ?start],
+[ ?newInterval, :to, ?end],
+[ ?newInterval, a, :Interval] :-
+       [ ?N0, :unaryPred, ?interval1 ],
+       [ ?interval1, :unaryPred, :g1],
+       [ ?interval1, a, :Interval],
+       [ ?interval1, :from, ?start1],
+       [ ?interval1, :to, ?end1],
+       [ ?N1, :g3, ?interval2 ],
+       [ ?interval2, :g3, ?N0],
+       [ ?interval2, a, :Interval],
+       [ ?interval2, :from, ?start2],
+       [ ?interval2, :to, ?end2],
+       BIND ( MAXFN( ?start1, ?start2 ) AS ?start ),
+       BIND ( MINFN( ?end1, ?end2 ) AS ?end ),
+       SKOLEM ( "Time interval", ?start, ?end, ?newInterval ),
+       FILTER( ?start <= ?end ).
+
+# Rule 4
+[ ?N0, :g8, ?newInterval ],
+[ ?newInterval, :g8, ?N1],
+[ ?newInterval, :from, ?start],
+[ ?newInterval, :to, ?end],
+[ ?newInterval, a, :Interval] :-
+       [ ?N0, :g4, ?interval1 ],
+       [ ?interval1, :g4, ?N1],
+       [ ?interval1, a, :Interval],
+       [ ?interval1, :from, ?start1],
+       [ ?interval1, :to, ?end1],
+       [ ?N0, :g9, ?interval2 ],
+       [ ?interval2, :g9, ?N1],
+       [ ?interval2, a, :Interval],
+       [ ?interval2, :from, ?start2],
+       [ ?interval2, :to, ?end2],
+       BIND ( MAXFN( ?start1, ?start2 ) AS ?start ),
+       BIND ( MINFN( ?end1, ?end2 ) AS ?end ),
+       SKOLEM ( "Time interval", ?start, ?end, ?newInterval ),
+       FILTER( ?start <= ?end ).
+
+# Rule 5
+[ ?N0, :g9, ?newInterval ],
+[ ?newInterval, :g9, ?N1],
+[ ?newInterval, :from, ?start],
+[ ?newInterval, :to, ?end],
+[ ?newInterval, a, :Interval] :-
+       [ ?N0, :g2, ?interval1 ],
+       [ ?interval1, :g2, ?N1],
+       [ ?interval1, a, :Interval],
+       [ ?interval1, :from, ?start1],
+       [ ?interval1, :to, ?end1],
+       BIND ( MAXFN( ?start1 ) AS ?start ),
+       BIND ( MINFN( ?end1 ) AS ?end ),
+       SKOLEM ( "Time interval", ?start, ?end, ?newInterval ),
+       FILTER( ?start <= ?end ).
+
+# Rule 6
+[ ?N0, :g9, ?newInterval ],
+[ ?newInterval, :g9, ?N1],
+[ ?newInterval, :from, ?start],
+[ ?newInterval, :to, ?end],
+[ ?newInterval, a, :Interval] :-
+       [ ?N1, :g7, ?interval1 ],
+       [ ?interval1, :g7, ?N0],
+       [ ?interval1, a, :Interval],
+       [ ?interval1, :from, ?start1],
+       [ ?interval1, :to, ?end1],
+       BIND ( MAXFN( ?start1 ) AS ?start ),
+       BIND ( MINFN( ?end1 ) AS ?end ),
+       SKOLEM ( "Time interval", ?start, ?end, ?newInterval ),
+       FILTER( ?start <= ?end ).
+
+# Rule 7
+[ ?N0, :g16, ?newInterval ],
+[ ?newInterval, :g16, ?N1],
+[ ?newInterval, :from, ?start],
+[ ?newInterval, :to, ?end],
+[ ?newInterval, a, :Interval] :-
+       [ ?N0, :g8, ?interval1 ],
+       [ ?interval1, :g8, ?N1],
+       [ ?interval1, a, :Interval],
+       [ ?interval1, :from, ?start1],
+       [ ?interval1, :to, ?end1],
+       BIND ( MAXFN( ?start1 + 3 ) AS ?start ),
+       BIND ( MINFN( ?end1 + 4 ) AS ?end ),
+       SKOLEM ( "Time interval", ?start, ?end, ?newInterval ),
+       FILTER( ?start <= ?end ).
+
