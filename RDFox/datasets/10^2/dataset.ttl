@@ -1,0 +1,4917 @@
+@prefix : <http://example.org/> .
+:g1 a :BinaryPredicate .
+
+:entity_899.0 :g1 :interval_0 .
+:interval_0 :g1 :entity_748.0;
+      :from 2.2879524812E10 ;
+      :to 2.287952494E10 ;
+      a :Interval.
+
+:entity_497.0 :g1 :interval_1 .
+:interval_1 :g1 :entity_647.0;
+      :from 1.897697512E10 ;
+      :to 1.8976975248E10 ;
+      a :Interval.
+
+:entity_523.0 :g1 :interval_2 .
+:interval_2 :g1 :entity_152.0;
+      :from 5.4098850342E10 ;
+      :to 5.4098850465E10 ;
+      a :Interval.
+
+:entity_877.0 :g1 :interval_3 .
+:interval_3 :g1 :entity_342.0;
+      :from 3.613760114E10 ;
+      :to 3.613760126E10 ;
+      a :Interval.
+
+:entity_53.0 :g1 :interval_4 .
+:interval_4 :g1 :entity_617.0;
+      :from 3.5775967448E10 ;
+      :to 3.5775967562E10 ;
+      a :Interval.
+
+:entity_265.0 :g1 :interval_5 .
+:interval_5 :g1 :entity_348.0;
+      :from 4.1737940551E10 ;
+      :to 4.1737940681E10 ;
+      a :Interval.
+
+:entity_232.0 :g1 :interval_6 .
+:interval_6 :g1 :entity_401.0;
+      :from 4.5752126022E10 ;
+      :to 4.5752126162E10 ;
+      a :Interval.
+
+:entity_143.0 :g1 :interval_7 .
+:interval_7 :g1 :entity_567.0;
+      :from 6.0579485874E10 ;
+      :to 6.0579485999E10 ;
+      a :Interval.
+
+:entity_792.0 :g1 :interval_8 .
+:interval_8 :g1 :entity_290.0;
+      :from 8.338266539E9 ;
+      :to 8.33826664E9 ;
+      a :Interval.
+
+:entity_380.0 :g1 :interval_9 .
+:interval_9 :g1 :entity_653.0;
+      :from 2.3390433242E10 ;
+      :to 2.3390433357E10 ;
+      a :Interval.
+
+:entity_959.0 :g1 :interval_10 .
+:interval_10 :g1 :entity_391.0;
+      :from 4.7897590918E10 ;
+      :to 4.7897591036E10 ;
+      a :Interval.
+
+:entity_308.0 :g1 :interval_11 .
+:interval_11 :g1 :entity_386.0;
+      :from 4.1155375823E10 ;
+      :to 4.115537595E10 ;
+      a :Interval.
+
+:entity_508.0 :g1 :interval_12 .
+:interval_12 :g1 :entity_685.0;
+      :from 0.0 ;
+      :to 123.0 ;
+      a :Interval.
+
+:entity_479.0 :g1 :interval_13 .
+:interval_13 :g1 :entity_563.0;
+      :from 2.0629662295E10 ;
+      :to 2.0629662432E10 ;
+      a :Interval.
+
+:entity_874.0 :g1 :interval_14 .
+:interval_14 :g1 :entity_964.0;
+      :from 3.8843739976E10 ;
+      :to 3.8843740097E10 ;
+      a :Interval.
+
+:entity_9.0 :g1 :interval_15 .
+:interval_15 :g1 :entity_337.0;
+      :from 3.2743758373E10 ;
+      :to 3.2743758484E10 ;
+      a :Interval.
+
+:entity_45.0 :g1 :interval_16 .
+:interval_16 :g1 :entity_383.0;
+      :from 2.6289082177E10 ;
+      :to 2.6289082306E10 ;
+      a :Interval.
+
+:entity_885.0 :g1 :interval_17 .
+:interval_17 :g1 :entity_137.0;
+      :from 3.5976252317E10 ;
+      :to 3.5976252438E10 ;
+      a :Interval.
+
+:entity_102.0 :g1 :interval_18 .
+:interval_18 :g1 :entity_633.0;
+      :from 5.8567081464E10 ;
+      :to 5.8567081586E10 ;
+      a :Interval.
+
+:entity_417.0 :g1 :interval_19 .
+:interval_19 :g1 :entity_4.0;
+      :from 7.536626794E9 ;
+      :to 7.536626904E9 ;
+      a :Interval.
+
+:entity_915.0 :g1 :interval_20 .
+:interval_20 :g1 :entity_499.0;
+      :from 2.634233423E9 ;
+      :to 2.634233558E9 ;
+      a :Interval.
+
+:entity_619.0 :g1 :interval_21 .
+:interval_21 :g1 :entity_742.0;
+      :from 3.9147270144E10 ;
+      :to 3.9147270227E10 ;
+      a :Interval.
+
+:entity_103.0 :g1 :interval_22 .
+:interval_22 :g1 :entity_23.0;
+      :from 3.9087431643E10 ;
+      :to 3.9087431792E10 ;
+      a :Interval.
+
+:entity_587.0 :g1 :interval_23 .
+:interval_23 :g1 :entity_582.0;
+      :from 3.8493238459E10 ;
+      :to 3.8493238589E10 ;
+      a :Interval.
+
+:entity_474.0 :g1 :interval_24 .
+:interval_24 :g1 :entity_330.0;
+      :from 4.2893305277E10 ;
+      :to 4.2893305423E10 ;
+      a :Interval.
+
+:entity_107.0 :g1 :interval_25 .
+:interval_25 :g1 :entity_361.0;
+      :from 1.3671216634E10 ;
+      :to 1.367121673E10 ;
+      a :Interval.
+
+:entity_283.0 :g1 :interval_26 .
+:interval_26 :g1 :entity_274.0;
+      :from 5.7926922159E10 ;
+      :to 5.7926922278E10 ;
+      a :Interval.
+
+:entity_119.0 :g1 :interval_27 .
+:interval_27 :g1 :entity_751.0;
+      :from 4.1643594558E10 ;
+      :to 4.164359467E10 ;
+      a :Interval.
+
+:entity_480.0 :g1 :interval_28 .
+:interval_28 :g1 :entity_362.0;
+      :from 2.1066468835E10 ;
+      :to 2.1066468972E10 ;
+      a :Interval.
+
+:entity_689.0 :g1 :interval_29 .
+:interval_29 :g1 :entity_806.0;
+      :from 5.8985878734E10 ;
+      :to 5.8985878814E10 ;
+      a :Interval.
+
+:entity_247.0 :g1 :interval_30 .
+:interval_30 :g1 :entity_837.0;
+      :from 4.225812766E9 ;
+      :to 4.22581286E9 ;
+      a :Interval.
+
+:entity_674.0 :g1 :interval_31 .
+:interval_31 :g1 :entity_275.0;
+      :from 1.1700911379E10 ;
+      :to 1.1700911504E10 ;
+      a :Interval.
+
+:entity_256.0 :g1 :interval_32 .
+:interval_32 :g1 :entity_827.0;
+      :from 3.2925582538E10 ;
+      :to 3.2925582608E10 ;
+      a :Interval.
+
+:entity_50.0 :g1 :interval_33 .
+:interval_33 :g1 :entity_800.0;
+      :from 5.1794191635E10 ;
+      :to 5.1794191767E10 ;
+      a :Interval.
+
+:entity_338.0 :g1 :interval_34 .
+:interval_34 :g1 :entity_634.0;
+      :from 1.5512802796E10 ;
+      :to 1.5512802915E10 ;
+      a :Interval.
+
+:entity_874.0 :g1 :interval_35 .
+:interval_35 :g1 :entity_389.0;
+      :from 4.0106810805E10 ;
+      :to 4.010681092E10 ;
+      a :Interval.
+
+:entity_554.0 :g1 :interval_36 .
+:interval_36 :g1 :entity_153.0;
+      :from 3.093696497E10 ;
+      :to 3.0936965093E10 ;
+      a :Interval.
+
+:entity_513.0 :g1 :interval_37 .
+:interval_37 :g1 :entity_591.0;
+      :from 4.010934673E9 ;
+      :to 4.01093478E9 ;
+      a :Interval.
+
+:entity_590.0 :g1 :interval_38 .
+:interval_38 :g1 :entity_669.0;
+      :from 5.8415197498E10 ;
+      :to 5.8415197603E10 ;
+      a :Interval.
+
+:entity_195.0 :g1 :interval_39 .
+:interval_39 :g1 :entity_309.0;
+      :from 1.9158451235E10 ;
+      :to 1.915845136E10 ;
+      a :Interval.
+
+:entity_229.0 :g1 :interval_40 .
+:interval_40 :g1 :entity_263.0;
+      :from 3.2401495063E10 ;
+      :to 3.2401495178E10 ;
+      a :Interval.
+
+:entity_284.0 :g1 :interval_41 .
+:interval_41 :g1 :entity_960.0;
+      :from 5.6697332482E10 ;
+      :to 5.6697332628E10 ;
+      a :Interval.
+
+:entity_839.0 :g1 :interval_42 .
+:interval_42 :g1 :entity_651.0;
+      :from 4.3233376391E10 ;
+      :to 4.3233376526E10 ;
+      a :Interval.
+
+:entity_245.0 :g1 :interval_43 .
+:interval_43 :g1 :entity_143.0;
+      :from 1.004382829E10 ;
+      :to 1.0043828395E10 ;
+      a :Interval.
+
+:entity_876.0 :g1 :interval_44 .
+:interval_44 :g1 :entity_675.0;
+      :from 2.7435200529E10 ;
+      :to 2.7435200652E10 ;
+      a :Interval.
+
+:entity_67.0 :g1 :interval_45 .
+:interval_45 :g1 :entity_796.0;
+      :from 1.4990103737E10 ;
+      :to 1.4990103847E10 ;
+      a :Interval.
+
+:entity_843.0 :g1 :interval_46 .
+:interval_46 :g1 :entity_761.0;
+      :from 3.1861290827E10 ;
+      :to 3.1861290941E10 ;
+      a :Interval.
+
+:entity_515.0 :g1 :interval_47 .
+:interval_47 :g1 :entity_210.0;
+      :from 3.4257487706E10 ;
+      :to 3.425748784E10 ;
+      a :Interval.
+
+:entity_121.0 :g1 :interval_48 .
+:interval_48 :g1 :entity_904.0;
+      :from 3.2853952463E10 ;
+      :to 3.2853952609E10 ;
+      a :Interval.
+
+:entity_680.0 :g1 :interval_49 .
+:interval_49 :g1 :entity_16.0;
+      :from 7.760644556E9 ;
+      :to 7.76064468E9 ;
+      a :Interval.
+
+:entity_649.0 :g1 :interval_50 .
+:interval_50 :g1 :entity_38.0;
+      :from 1.7847096611E10 ;
+      :to 1.7847096722E10 ;
+      a :Interval.
+
+:entity_98.0 :g1 :interval_51 .
+:interval_51 :g1 :entity_555.0;
+      :from 1.583445256E10 ;
+      :to 1.5834452683E10 ;
+      a :Interval.
+
+:entity_449.0 :g1 :interval_52 .
+:interval_52 :g1 :entity_774.0;
+      :from 2.9587469091E10 ;
+      :to 2.958746923E10 ;
+      a :Interval.
+
+:entity_880.0 :g1 :interval_53 .
+:interval_53 :g1 :entity_134.0;
+      :from 5.2974552939E10 ;
+      :to 5.2974553065E10 ;
+      a :Interval.
+
+:entity_292.0 :g1 :interval_54 .
+:interval_54 :g1 :entity_873.0;
+      :from 3.2181065883E10 ;
+      :to 3.2181066019E10 ;
+      a :Interval.
+
+:entity_398.0 :g1 :interval_55 .
+:interval_55 :g1 :entity_206.0;
+      :from 5.0397117483E10 ;
+      :to 5.0397117592E10 ;
+      a :Interval.
+
+:entity_206.0 :g1 :interval_56 .
+:interval_56 :g1 :entity_859.0;
+      :from 3.6658446334E10 ;
+      :to 3.6658446451E10 ;
+      a :Interval.
+
+:entity_916.0 :g1 :interval_57 .
+:interval_57 :g1 :entity_693.0;
+      :from 4.3688200988E10 ;
+      :to 4.3688201107E10 ;
+      a :Interval.
+
+:entity_649.0 :g1 :interval_58 .
+:interval_58 :g1 :entity_64.0;
+      :from 1.8294482373E10 ;
+      :to 1.8294482507E10 ;
+      a :Interval.
+
+:entity_217.0 :g1 :interval_59 .
+:interval_59 :g1 :entity_262.0;
+      :from 2.0890275032E10 ;
+      :to 2.0890275176E10 ;
+      a :Interval.
+
+:entity_120.0 :g1 :interval_60 .
+:interval_60 :g1 :entity_678.0;
+      :from 4.7488812587E10 ;
+      :to 4.7488812707E10 ;
+      a :Interval.
+
+:entity_991.0 :g1 :interval_61 .
+:interval_61 :g1 :entity_695.0;
+      :from 6.826417843E9 ;
+      :to 6.826417985E9 ;
+      a :Interval.
+
+:entity_378.0 :g1 :interval_62 .
+:interval_62 :g1 :entity_550.0;
+      :from 5.377482541E9 ;
+      :to 5.377482661E9 ;
+      a :Interval.
+
+:entity_904.0 :g1 :interval_63 .
+:interval_63 :g1 :entity_280.0;
+      :from 4.8903191136E10 ;
+      :to 4.8903191246E10 ;
+      a :Interval.
+
+:entity_771.0 :g1 :interval_64 .
+:interval_64 :g1 :entity_317.0;
+      :from 4.5223897963E10 ;
+      :to 4.5223898065E10 ;
+      a :Interval.
+
+:entity_282.0 :g1 :interval_65 .
+:interval_65 :g1 :entity_547.0;
+      :from 2.1626437034E10 ;
+      :to 2.1626437191E10 ;
+      a :Interval.
+
+:entity_358.0 :g1 :interval_66 .
+:interval_66 :g1 :entity_782.0;
+      :from 4.4159109358E10 ;
+      :to 4.415910949E10 ;
+      a :Interval.
+
+:entity_962.0 :g1 :interval_67 .
+:interval_67 :g1 :entity_375.0;
+      :from 5.61645053E8 ;
+      :to 5.61645169E8 ;
+      a :Interval.
+
+:entity_712.0 :g1 :interval_68 .
+:interval_68 :g1 :entity_974.0;
+      :from 3.8774504118E10 ;
+      :to 3.8774504219E10 ;
+      a :Interval.
+
+:entity_433.0 :g1 :interval_69 .
+:interval_69 :g1 :entity_732.0;
+      :from 1.917645829E9 ;
+      :to 1.917645927E9 ;
+      a :Interval.
+
+:entity_441.0 :g1 :interval_70 .
+:interval_70 :g1 :entity_410.0;
+      :from 4.275703195E9 ;
+      :to 4.275703291E9 ;
+      a :Interval.
+
+:entity_23.0 :g1 :interval_71 .
+:interval_71 :g1 :entity_147.0;
+      :from 3.5549970785E10 ;
+      :to 3.5549970891E10 ;
+      a :Interval.
+
+:entity_270.0 :g1 :interval_72 .
+:interval_72 :g1 :entity_43.0;
+      :from 3.8011086037E10 ;
+      :to 3.8011086156E10 ;
+      a :Interval.
+
+:entity_429.0 :g1 :interval_73 .
+:interval_73 :g1 :entity_288.0;
+      :from 6.0033323584E10 ;
+      :to 6.0033323688E10 ;
+      a :Interval.
+
+:entity_778.0 :g1 :interval_74 .
+:interval_74 :g1 :entity_59.0;
+      :from 2.8718088948E10 ;
+      :to 2.8718089066E10 ;
+      a :Interval.
+
+:entity_621.0 :g1 :interval_75 .
+:interval_75 :g1 :entity_119.0;
+      :from 1.9598897944E10 ;
+      :to 1.959889806E10 ;
+      a :Interval.
+
+:entity_233.0 :g1 :interval_76 .
+:interval_76 :g1 :entity_700.0;
+      :from 3.5620222826E10 ;
+      :to 3.5620222939E10 ;
+      a :Interval.
+
+:entity_327.0 :g1 :interval_77 .
+:interval_77 :g1 :entity_322.0;
+      :from 3.2797580396E10 ;
+      :to 3.2797580524E10 ;
+      a :Interval.
+
+:entity_395.0 :g1 :interval_78 .
+:interval_78 :g1 :entity_750.0;
+      :from 5.62658713E8 ;
+      :to 5.62658833E8 ;
+      a :Interval.
+
+:entity_613.0 :g1 :interval_79 .
+:interval_79 :g1 :entity_126.0;
+      :from 2.879732234E9 ;
+      :to 2.879732356E9 ;
+      a :Interval.
+
+:entity_449.0 :g1 :interval_80 .
+:interval_80 :g1 :entity_392.0;
+      :from 1.2043370747E10 ;
+      :to 1.2043370882E10 ;
+      a :Interval.
+
+:entity_380.0 :g1 :interval_81 .
+:interval_81 :g1 :entity_827.0;
+      :from 4.5561886841E10 ;
+      :to 4.5561886966E10 ;
+      a :Interval.
+
+:entity_651.0 :g1 :interval_82 .
+:interval_82 :g1 :entity_629.0;
+      :from 3.0436164549E10 ;
+      :to 3.0436164671E10 ;
+      a :Interval.
+
+:entity_145.0 :g1 :interval_83 .
+:interval_83 :g1 :entity_199.0;
+      :from 3.9179923623E10 ;
+      :to 3.9179923766E10 ;
+      a :Interval.
+
+:entity_840.0 :g1 :interval_84 .
+:interval_84 :g1 :entity_517.0;
+      :from 2.444811188E9 ;
+      :to 2.444811301E9 ;
+      a :Interval.
+
+:entity_446.0 :g1 :interval_85 .
+:interval_85 :g1 :entity_927.0;
+      :from 3.5213375508E10 ;
+      :to 3.5213375633E10 ;
+      a :Interval.
+
+:entity_729.0 :g1 :interval_86 .
+:interval_86 :g1 :entity_126.0;
+      :from 3.8764775671E10 ;
+      :to 3.876477581E10 ;
+      a :Interval.
+
+:entity_202.0 :g1 :interval_87 .
+:interval_87 :g1 :entity_431.0;
+      :from 9.878274315E9 ;
+      :to 9.878274446E9 ;
+      a :Interval.
+
+:entity_946.0 :g1 :interval_88 .
+:interval_88 :g1 :entity_150.0;
+      :from 1.9180913604E10 ;
+      :to 1.9180913737E10 ;
+      a :Interval.
+
+:entity_180.0 :g1 :interval_89 .
+:interval_89 :g1 :entity_318.0;
+      :from 1.7536286112E10 ;
+      :to 1.7536286242E10 ;
+      a :Interval.
+
+:entity_559.0 :g1 :interval_90 .
+:interval_90 :g1 :entity_25.0;
+      :from 3.0446451341E10 ;
+      :to 3.0446451476E10 ;
+      a :Interval.
+
+:entity_638.0 :g1 :interval_91 .
+:interval_91 :g1 :entity_139.0;
+      :from 2.4028662675E10 ;
+      :to 2.4028662782E10 ;
+      a :Interval.
+
+:entity_439.0 :g1 :interval_92 .
+:interval_92 :g1 :entity_172.0;
+      :from 8.306763338E9 ;
+      :to 8.306763466E9 ;
+      a :Interval.
+
+:entity_418.0 :g1 :interval_93 .
+:interval_93 :g1 :entity_880.0;
+      :from 3.4893815162E10 ;
+      :to 3.489381529E10 ;
+      a :Interval.
+
+:entity_587.0 :g1 :interval_94 .
+:interval_94 :g1 :entity_576.0;
+      :from 1.1686696313E10 ;
+      :to 1.1686696424E10 ;
+      a :Interval.
+
+:entity_843.0 :g1 :interval_95 .
+:interval_95 :g1 :entity_750.0;
+      :from 2.7978977477E10 ;
+      :to 2.7978977582E10 ;
+      a :Interval.
+
+:entity_872.0 :g1 :interval_96 .
+:interval_96 :g1 :entity_215.0;
+      :from 2.1641291806E10 ;
+      :to 2.1641291962E10 ;
+      a :Interval.
+
+:entity_950.0 :g1 :interval_97 .
+:interval_97 :g1 :entity_552.0;
+      :from 2.3421618826E10 ;
+      :to 2.3421618961E10 ;
+      a :Interval.
+
+:entity_558.0 :g1 :interval_98 .
+:interval_98 :g1 :entity_991.0;
+      :from 2.639554726E9 ;
+      :to 2.63955483E9 ;
+      a :Interval.
+
+:entity_709.0 :g1 :interval_99 .
+:interval_99 :g1 :entity_187.0;
+      :from 9.786162972E9 ;
+      :to 9.78616312E9 ;
+      a :Interval.
+
+:entity_656.0 :g1 :interval_100 .
+:interval_100 :g1 :entity_346.0;
+      :from 2.2957706478E10 ;
+      :to 2.2957706582E10 ;
+      a :Interval.
+
+:entity_889.0 :g1 :interval_101 .
+:interval_101 :g1 :entity_891.0;
+      :from 6.1329177177E10 ;
+      :to 6.132917729E10 ;
+      a :Interval.
+
+:entity_648.0 :g1 :interval_102 .
+:interval_102 :g1 :entity_262.0;
+      :from 7.33636212E8 ;
+      :to 7.33636322E8 ;
+      a :Interval.
+
+:entity_604.0 :g1 :interval_103 .
+:interval_103 :g1 :entity_233.0;
+      :from 5.540294085E10 ;
+      :to 5.5402940939E10 ;
+      a :Interval.
+
+:entity_334.0 :g1 :interval_104 .
+:interval_104 :g1 :entity_555.0;
+      :from 2.4275013097E10 ;
+      :to 2.4275013222E10 ;
+      a :Interval.
+
+:entity_816.0 :g1 :interval_105 .
+:interval_105 :g1 :entity_328.0;
+      :from 2.4701803886E10 ;
+      :to 2.4701803989E10 ;
+      a :Interval.
+
+:entity_325.0 :g1 :interval_106 .
+:interval_106 :g1 :entity_25.0;
+      :from 5.4917435207E10 ;
+      :to 5.491743532E10 ;
+      a :Interval.
+
+:entity_729.0 :g1 :interval_107 .
+:interval_107 :g1 :entity_841.0;
+      :from 2.79312391E9 ;
+      :to 2.793124012E9 ;
+      a :Interval.
+
+:entity_820.0 :g1 :interval_108 .
+:interval_108 :g1 :entity_272.0;
+      :from 1.3362382475E10 ;
+      :to 1.3362382609E10 ;
+      a :Interval.
+
+:g2 :hasArity 3.
+
+:entity_72.0 :argument_1_of :arguments_72.0_613.0_823.0 .
+:entity_613.0 :argument_2_of :arguments_72.0_613.0_823.0 .
+:entity_823.0 :argument_3_of :arguments_72.0_613.0_823.0 .
+:arguments_72.0_613.0_823.0 :nAryPred :interval_110 .
+:interval_110 :nAryPred :g2;
+      :from 5.8516125327E10 ;
+      :to 5.8516125456E10 ;
+      a :Interval.
+
+:entity_489.0 :argument_1_of :arguments_489.0_949.0_683.0 .
+:entity_949.0 :argument_2_of :arguments_489.0_949.0_683.0 .
+:entity_683.0 :argument_3_of :arguments_489.0_949.0_683.0 .
+:arguments_489.0_949.0_683.0 :nAryPred :interval_111 .
+:interval_111 :nAryPred :g2;
+      :from 2.6408433425E10 ;
+      :to 2.6408433542E10 ;
+      a :Interval.
+
+:entity_573.0 :argument_1_of :arguments_573.0_187.0_709.0 .
+:entity_187.0 :argument_2_of :arguments_573.0_187.0_709.0 .
+:entity_709.0 :argument_3_of :arguments_573.0_187.0_709.0 .
+:arguments_573.0_187.0_709.0 :nAryPred :interval_112 .
+:interval_112 :nAryPred :g2;
+      :from 9.786162981E9 ;
+      :to 9.786163109E9 ;
+      a :Interval.
+
+:entity_949.0 :argument_1_of :arguments_949.0_137.0_326.0 .
+:entity_137.0 :argument_2_of :arguments_949.0_137.0_326.0 .
+:entity_326.0 :argument_3_of :arguments_949.0_137.0_326.0 .
+:arguments_949.0_137.0_326.0 :nAryPred :interval_113 .
+:interval_113 :nAryPred :g2;
+      :from 1.0619969033E10 ;
+      :to 1.0619969147E10 ;
+      a :Interval.
+
+:entity_156.0 :argument_1_of :arguments_156.0_389.0_874.0 .
+:entity_389.0 :argument_2_of :arguments_156.0_389.0_874.0 .
+:entity_874.0 :argument_3_of :arguments_156.0_389.0_874.0 .
+:arguments_156.0_389.0_874.0 :nAryPred :interval_114 .
+:interval_114 :nAryPred :g2;
+      :from 4.0106810799E10 ;
+      :to 4.0106810894E10 ;
+      a :Interval.
+
+:entity_8.0 :argument_1_of :arguments_8.0_87.0_662.0 .
+:entity_87.0 :argument_2_of :arguments_8.0_87.0_662.0 .
+:entity_662.0 :argument_3_of :arguments_8.0_87.0_662.0 .
+:arguments_8.0_87.0_662.0 :nAryPred :interval_115 .
+:interval_115 :nAryPred :g2;
+      :from 4.759983806E10 ;
+      :to 4.759983818E10 ;
+      a :Interval.
+
+:entity_266.0 :argument_1_of :arguments_266.0_750.0_843.0 .
+:entity_750.0 :argument_2_of :arguments_266.0_750.0_843.0 .
+:entity_843.0 :argument_3_of :arguments_266.0_750.0_843.0 .
+:arguments_266.0_750.0_843.0 :nAryPred :interval_116 .
+:interval_116 :nAryPred :g2;
+      :from 2.7978977485E10 ;
+      :to 2.7978977569E10 ;
+      a :Interval.
+
+:entity_310.0 :argument_1_of :arguments_310.0_224.0_747.0 .
+:entity_224.0 :argument_2_of :arguments_310.0_224.0_747.0 .
+:entity_747.0 :argument_3_of :arguments_310.0_224.0_747.0 .
+:arguments_310.0_224.0_747.0 :nAryPred :interval_117 .
+:interval_117 :nAryPred :g2;
+      :from 1.5672548599E10 ;
+      :to 1.5672548687E10 ;
+      a :Interval.
+
+:entity_186.0 :argument_1_of :arguments_186.0_873.0_292.0 .
+:entity_873.0 :argument_2_of :arguments_186.0_873.0_292.0 .
+:entity_292.0 :argument_3_of :arguments_186.0_873.0_292.0 .
+:arguments_186.0_873.0_292.0 :nAryPred :interval_118 .
+:interval_118 :nAryPred :g2;
+      :from 3.2181065898E10 ;
+      :to 3.2181066005E10 ;
+      a :Interval.
+
+:entity_918.0 :argument_1_of :arguments_918.0_571.0_220.0 .
+:entity_571.0 :argument_2_of :arguments_918.0_571.0_220.0 .
+:entity_220.0 :argument_3_of :arguments_918.0_571.0_220.0 .
+:arguments_918.0_571.0_220.0 :nAryPred :interval_119 .
+:interval_119 :nAryPred :g2;
+      :from 1.8635324077E10 ;
+      :to 1.863532414E10 ;
+      a :Interval.
+
+:entity_276.0 :argument_1_of :arguments_276.0_717.0_870.0 .
+:entity_717.0 :argument_2_of :arguments_276.0_717.0_870.0 .
+:entity_870.0 :argument_3_of :arguments_276.0_717.0_870.0 .
+:arguments_276.0_717.0_870.0 :nAryPred :interval_120 .
+:interval_120 :nAryPred :g2;
+      :from 5.0324189574E10 ;
+      :to 5.032418967E10 ;
+      a :Interval.
+
+:entity_997.0 :argument_1_of :arguments_997.0_401.0_232.0 .
+:entity_401.0 :argument_2_of :arguments_997.0_401.0_232.0 .
+:entity_232.0 :argument_3_of :arguments_997.0_401.0_232.0 .
+:arguments_997.0_401.0_232.0 :nAryPred :interval_121 .
+:interval_121 :nAryPred :g2;
+      :from 4.5752126034E10 ;
+      :to 4.5752126149E10 ;
+      a :Interval.
+
+:entity_296.0 :argument_1_of :arguments_296.0_796.0_67.0 .
+:entity_796.0 :argument_2_of :arguments_296.0_796.0_67.0 .
+:entity_67.0 :argument_3_of :arguments_296.0_796.0_67.0 .
+:arguments_296.0_796.0_67.0 :nAryPred :interval_122 .
+:interval_122 :nAryPred :g2;
+      :from 1.4990103751E10 ;
+      :to 1.4990103831E10 ;
+      a :Interval.
+
+:entity_721.0 :argument_1_of :arguments_721.0_152.0_523.0 .
+:entity_152.0 :argument_2_of :arguments_721.0_152.0_523.0 .
+:entity_523.0 :argument_3_of :arguments_721.0_152.0_523.0 .
+:arguments_721.0_152.0_523.0 :nAryPred :interval_123 .
+:interval_123 :nAryPred :g2;
+      :from 5.4098850353E10 ;
+      :to 5.4098850461E10 ;
+      a :Interval.
+
+:entity_283.0 :argument_1_of :arguments_283.0_178.0_757.0 .
+:entity_178.0 :argument_2_of :arguments_283.0_178.0_757.0 .
+:entity_757.0 :argument_3_of :arguments_283.0_178.0_757.0 .
+:arguments_283.0_178.0_757.0 :nAryPred :interval_124 .
+:interval_124 :nAryPred :g2;
+      :from 4.4076044978E10 ;
+      :to 4.4076045099E10 ;
+      a :Interval.
+
+:entity_459.0 :argument_1_of :arguments_459.0_119.0_621.0 .
+:entity_119.0 :argument_2_of :arguments_459.0_119.0_621.0 .
+:entity_621.0 :argument_3_of :arguments_459.0_119.0_621.0 .
+:arguments_459.0_119.0_621.0 :nAryPred :interval_125 .
+:interval_125 :nAryPred :g2;
+      :from 1.9598897945E10 ;
+      :to 1.9598898052E10 ;
+      a :Interval.
+
+:entity_393.0 :argument_1_of :arguments_393.0_362.0_480.0 .
+:entity_362.0 :argument_2_of :arguments_393.0_362.0_480.0 .
+:entity_480.0 :argument_3_of :arguments_393.0_362.0_480.0 .
+:arguments_393.0_362.0_480.0 :nAryPred :interval_126 .
+:interval_126 :nAryPred :g2;
+      :from 2.1066468856E10 ;
+      :to 2.1066468948E10 ;
+      a :Interval.
+
+:entity_409.0 :argument_1_of :arguments_409.0_137.0_885.0 .
+:entity_137.0 :argument_2_of :arguments_409.0_137.0_885.0 .
+:entity_885.0 :argument_3_of :arguments_409.0_137.0_885.0 .
+:arguments_409.0_137.0_885.0 :nAryPred :interval_127 .
+:interval_127 :nAryPred :g2;
+      :from 3.5976252326E10 ;
+      :to 3.5976252425E10 ;
+      a :Interval.
+
+:entity_693.0 :argument_1_of :arguments_693.0_629.0_651.0 .
+:entity_629.0 :argument_2_of :arguments_693.0_629.0_651.0 .
+:entity_651.0 :argument_3_of :arguments_693.0_629.0_651.0 .
+:arguments_693.0_629.0_651.0 :nAryPred :interval_128 .
+:interval_128 :nAryPred :g2;
+      :from 3.0436164553E10 ;
+      :to 3.0436164662E10 ;
+      a :Interval.
+
+:entity_609.0 :argument_1_of :arguments_609.0_167.0_428.0 .
+:entity_167.0 :argument_2_of :arguments_609.0_167.0_428.0 .
+:entity_428.0 :argument_3_of :arguments_609.0_167.0_428.0 .
+:arguments_609.0_167.0_428.0 :nAryPred :interval_129 .
+:interval_129 :nAryPred :g2;
+      :from 3.0754059403E10 ;
+      :to 3.0754059528E10 ;
+      a :Interval.
+
+:entity_394.0 :argument_1_of :arguments_394.0_203.0_441.0 .
+:entity_203.0 :argument_2_of :arguments_394.0_203.0_441.0 .
+:entity_441.0 :argument_3_of :arguments_394.0_203.0_441.0 .
+:arguments_394.0_203.0_441.0 :nAryPred :interval_130 .
+:interval_130 :nAryPred :g2;
+      :from 2.8840494782E10 ;
+      :to 2.8840494883E10 ;
+      a :Interval.
+
+:entity_662.0 :argument_1_of :arguments_662.0_337.0_9.0 .
+:entity_337.0 :argument_2_of :arguments_662.0_337.0_9.0 .
+:entity_9.0 :argument_3_of :arguments_662.0_337.0_9.0 .
+:arguments_662.0_337.0_9.0 :nAryPred :interval_131 .
+:interval_131 :nAryPred :g2;
+      :from 3.2743758382E10 ;
+      :to 3.2743758476E10 ;
+      a :Interval.
+
+:entity_730.0 :argument_1_of :arguments_730.0_83.0_196.0 .
+:entity_83.0 :argument_2_of :arguments_730.0_83.0_196.0 .
+:entity_196.0 :argument_3_of :arguments_730.0_83.0_196.0 .
+:arguments_730.0_83.0_196.0 :nAryPred :interval_132 .
+:interval_132 :nAryPred :g2;
+      :from 5.001956315E10 ;
+      :to 5.0019563251E10 ;
+      a :Interval.
+
+:entity_205.0 :argument_1_of :arguments_205.0_309.0_195.0 .
+:entity_309.0 :argument_2_of :arguments_205.0_309.0_195.0 .
+:entity_195.0 :argument_3_of :arguments_205.0_309.0_195.0 .
+:arguments_205.0_309.0_195.0 :nAryPred :interval_133 .
+:interval_133 :nAryPred :g2;
+      :from 1.9158451251E10 ;
+      :to 1.9158451355E10 ;
+      a :Interval.
+
+:entity_112.0 :argument_1_of :arguments_112.0_840.0_713.0 .
+:entity_840.0 :argument_2_of :arguments_112.0_840.0_713.0 .
+:entity_713.0 :argument_3_of :arguments_112.0_840.0_713.0 .
+:arguments_112.0_840.0_713.0 :nAryPred :interval_134 .
+:interval_134 :nAryPred :g2;
+      :from 3.13669655E9 ;
+      :to 3.13669667E9 ;
+      a :Interval.
+
+:entity_355.0 :argument_1_of :arguments_355.0_859.0_206.0 .
+:entity_859.0 :argument_2_of :arguments_355.0_859.0_206.0 .
+:entity_206.0 :argument_3_of :arguments_355.0_859.0_206.0 .
+:arguments_355.0_859.0_206.0 :nAryPred :interval_135 .
+:interval_135 :nAryPred :g2;
+      :from 3.6658446334E10 ;
+      :to 3.6658446427E10 ;
+      a :Interval.
+
+:entity_272.0 :argument_1_of :arguments_272.0_743.0_646.0 .
+:entity_743.0 :argument_2_of :arguments_272.0_743.0_646.0 .
+:entity_646.0 :argument_3_of :arguments_272.0_743.0_646.0 .
+:arguments_272.0_743.0_646.0 :nAryPred :interval_136 .
+:interval_136 :nAryPred :g2;
+      :from 2.0262088798E10 ;
+      :to 2.0262088883E10 ;
+      a :Interval.
+
+:entity_144.0 :argument_1_of :arguments_144.0_361.0_698.0 .
+:entity_361.0 :argument_2_of :arguments_144.0_361.0_698.0 .
+:entity_698.0 :argument_3_of :arguments_144.0_361.0_698.0 .
+:arguments_144.0_361.0_698.0 :nAryPred :interval_137 .
+:interval_137 :nAryPred :g2;
+      :from 1.6571215894E10 ;
+      :to 1.6571215983E10 ;
+      a :Interval.
+
+:entity_767.0 :argument_1_of :arguments_767.0_695.0_991.0 .
+:entity_695.0 :argument_2_of :arguments_767.0_695.0_991.0 .
+:entity_991.0 :argument_3_of :arguments_767.0_695.0_991.0 .
+:arguments_767.0_695.0_991.0 :nAryPred :interval_138 .
+:interval_138 :nAryPred :g2;
+      :from 6.826417849E9 ;
+      :to 6.826417972E9 ;
+      a :Interval.
+
+:entity_505.0 :argument_1_of :arguments_505.0_328.0_816.0 .
+:entity_328.0 :argument_2_of :arguments_505.0_328.0_816.0 .
+:entity_816.0 :argument_3_of :arguments_505.0_328.0_816.0 .
+:arguments_505.0_328.0_816.0 :nAryPred :interval_139 .
+:interval_139 :nAryPred :g2;
+      :from 2.4701803892E10 ;
+      :to 2.4701803989E10 ;
+      a :Interval.
+
+:entity_9.0 :argument_1_of :arguments_9.0_290.0_792.0 .
+:entity_290.0 :argument_2_of :arguments_9.0_290.0_792.0 .
+:entity_792.0 :argument_3_of :arguments_9.0_290.0_792.0 .
+:arguments_9.0_290.0_792.0 :nAryPred :interval_140 .
+:interval_140 :nAryPred :g2;
+      :from 8.338266548E9 ;
+      :to 8.33826663E9 ;
+      a :Interval.
+
+:entity_932.0 :argument_1_of :arguments_932.0_348.0_265.0 .
+:entity_348.0 :argument_2_of :arguments_932.0_348.0_265.0 .
+:entity_265.0 :argument_3_of :arguments_932.0_348.0_265.0 .
+:arguments_932.0_348.0_265.0 :nAryPred :interval_141 .
+:interval_141 :nAryPred :g2;
+      :from 4.1737940543E10 ;
+      :to 4.1737940669E10 ;
+      a :Interval.
+
+:entity_873.0 :argument_1_of :arguments_873.0_732.0_433.0 .
+:entity_732.0 :argument_2_of :arguments_873.0_732.0_433.0 .
+:entity_433.0 :argument_3_of :arguments_873.0_732.0_433.0 .
+:arguments_873.0_732.0_433.0 :nAryPred :interval_142 .
+:interval_142 :nAryPred :g2;
+      :from 1.917645834E9 ;
+      :to 1.917645915E9 ;
+      a :Interval.
+
+:entity_802.0 :argument_1_of :arguments_802.0_413.0_27.0 .
+:entity_413.0 :argument_2_of :arguments_802.0_413.0_27.0 .
+:entity_27.0 :argument_3_of :arguments_802.0_413.0_27.0 .
+:arguments_802.0_413.0_27.0 :nAryPred :interval_143 .
+:interval_143 :nAryPred :g2;
+      :from 2.1469836479E10 ;
+      :to 2.1469836598E10 ;
+      a :Interval.
+
+:entity_426.0 :argument_1_of :arguments_426.0_341.0_323.0 .
+:entity_341.0 :argument_2_of :arguments_426.0_341.0_323.0 .
+:entity_323.0 :argument_3_of :arguments_426.0_341.0_323.0 .
+:arguments_426.0_341.0_323.0 :nAryPred :interval_144 .
+:interval_144 :nAryPred :g2;
+      :from 2.9358615437E10 ;
+      :to 2.9358615519E10 ;
+      a :Interval.
+
+:entity_611.0 :argument_1_of :arguments_611.0_272.0_493.0 .
+:entity_272.0 :argument_2_of :arguments_611.0_272.0_493.0 .
+:entity_493.0 :argument_3_of :arguments_611.0_272.0_493.0 .
+:arguments_611.0_272.0_493.0 :nAryPred :interval_145 .
+:interval_145 :nAryPred :g2;
+      :from 2.298146624E9 ;
+      :to 2.298146742E9 ;
+      a :Interval.
+
+:entity_972.0 :argument_1_of :arguments_972.0_391.0_687.0 .
+:entity_391.0 :argument_2_of :arguments_972.0_391.0_687.0 .
+:entity_687.0 :argument_3_of :arguments_972.0_391.0_687.0 .
+:arguments_972.0_391.0_687.0 :nAryPred :interval_146 .
+:interval_146 :nAryPred :g2;
+      :from 5.4375759333E10 ;
+      :to 5.4375759423E10 ;
+      a :Interval.
+
+:entity_677.0 :argument_1_of :arguments_677.0_386.0_308.0 .
+:entity_386.0 :argument_2_of :arguments_677.0_386.0_308.0 .
+:entity_308.0 :argument_3_of :arguments_677.0_386.0_308.0 .
+:arguments_677.0_386.0_308.0 :nAryPred :interval_147 .
+:interval_147 :nAryPred :g2;
+      :from 4.1155375845E10 ;
+      :to 4.1155375933E10 ;
+      a :Interval.
+
+:entity_175.0 :argument_1_of :arguments_175.0_233.0_604.0 .
+:entity_233.0 :argument_2_of :arguments_175.0_233.0_604.0 .
+:entity_604.0 :argument_3_of :arguments_175.0_233.0_604.0 .
+:arguments_175.0_233.0_604.0 :nAryPred :interval_148 .
+:interval_148 :nAryPred :g2;
+      :from 5.5402940858E10 ;
+      :to 5.5402940935E10 ;
+      a :Interval.
+
+:entity_129.0 :argument_1_of :arguments_129.0_317.0_771.0 .
+:entity_317.0 :argument_2_of :arguments_129.0_317.0_771.0 .
+:entity_771.0 :argument_3_of :arguments_129.0_317.0_771.0 .
+:arguments_129.0_317.0_771.0 :nAryPred :interval_149 .
+:interval_149 :nAryPred :g2;
+      :from 4.5223897969E10 ;
+      :to 4.522389805E10 ;
+      a :Interval.
+
+:entity_89.0 :argument_1_of :arguments_89.0_617.0_53.0 .
+:entity_617.0 :argument_2_of :arguments_89.0_617.0_53.0 .
+:entity_53.0 :argument_3_of :arguments_89.0_617.0_53.0 .
+:arguments_89.0_617.0_53.0 :nAryPred :interval_150 .
+:interval_150 :nAryPred :g2;
+      :from 3.5775967446E10 ;
+      :to 3.5775967535E10 ;
+      a :Interval.
+
+:entity_701.0 :argument_1_of :arguments_701.0_274.0_283.0 .
+:entity_274.0 :argument_2_of :arguments_701.0_274.0_283.0 .
+:entity_283.0 :argument_3_of :arguments_701.0_274.0_283.0 .
+:arguments_701.0_274.0_283.0 :nAryPred :interval_151 .
+:interval_151 :nAryPred :g2;
+      :from 5.7926922175E10 ;
+      :to 5.7926922268E10 ;
+      a :Interval.
+
+:entity_426.0 :argument_1_of :arguments_426.0_390.0_66.0 .
+:entity_390.0 :argument_2_of :arguments_426.0_390.0_66.0 .
+:entity_66.0 :argument_3_of :arguments_426.0_390.0_66.0 .
+:arguments_426.0_390.0_66.0 :nAryPred :interval_152 .
+:interval_152 :nAryPred :g2;
+      :from 2.4281779476E10 ;
+      :to 2.4281779585E10 ;
+      a :Interval.
+
+:entity_236.0 :argument_1_of :arguments_236.0_17.0_310.0 .
+:entity_17.0 :argument_2_of :arguments_236.0_17.0_310.0 .
+:entity_310.0 :argument_3_of :arguments_236.0_17.0_310.0 .
+:arguments_236.0_17.0_310.0 :nAryPred :interval_153 .
+:interval_153 :nAryPred :g2;
+      :from 5.5598764559E10 ;
+      :to 5.5598764679E10 ;
+      a :Interval.
+
+:entity_745.0 :argument_1_of :arguments_745.0_318.0_180.0 .
+:entity_318.0 :argument_2_of :arguments_745.0_318.0_180.0 .
+:entity_180.0 :argument_3_of :arguments_745.0_318.0_180.0 .
+:arguments_745.0_318.0_180.0 :nAryPred :interval_154 .
+:interval_154 :nAryPred :g2;
+      :from 1.7536286129E10 ;
+      :to 1.7536286228E10 ;
+      a :Interval.
+
+:entity_566.0 :argument_1_of :arguments_566.0_522.0_710.0 .
+:entity_522.0 :argument_2_of :arguments_566.0_522.0_710.0 .
+:entity_710.0 :argument_3_of :arguments_566.0_522.0_710.0 .
+:arguments_566.0_522.0_710.0 :nAryPred :interval_155 .
+:interval_155 :nAryPred :g2;
+      :from 9.32034097E9 ;
+      :to 9.320341054E9 ;
+      a :Interval.
+
+:entity_897.0 :argument_1_of :arguments_897.0_509.0_278.0 .
+:entity_509.0 :argument_2_of :arguments_897.0_509.0_278.0 .
+:entity_278.0 :argument_3_of :arguments_897.0_509.0_278.0 .
+:arguments_897.0_509.0_278.0 :nAryPred :interval_156 .
+:interval_156 :nAryPred :g2;
+      :from 4.9723139448E10 ;
+      :to 4.9723139538E10 ;
+      a :Interval.
+
+:entity_266.0 :argument_1_of :arguments_266.0_960.0_284.0 .
+:entity_960.0 :argument_2_of :arguments_266.0_960.0_284.0 .
+:entity_284.0 :argument_3_of :arguments_266.0_960.0_284.0 .
+:arguments_266.0_960.0_284.0 :nAryPred :interval_157 .
+:interval_157 :nAryPred :g2;
+      :from 5.669733249E10 ;
+      :to 5.6697332615E10 ;
+      a :Interval.
+
+:entity_976.0 :argument_1_of :arguments_976.0_991.0_558.0 .
+:entity_991.0 :argument_2_of :arguments_976.0_991.0_558.0 .
+:entity_558.0 :argument_3_of :arguments_976.0_991.0_558.0 .
+:arguments_976.0_991.0_558.0 :nAryPred :interval_158 .
+:interval_158 :nAryPred :g2;
+      :from 2.639554739E9 ;
+      :to 2.639554829E9 ;
+      a :Interval.
+
+:entity_220.0 :argument_1_of :arguments_220.0_827.0_256.0 .
+:entity_827.0 :argument_2_of :arguments_220.0_827.0_256.0 .
+:entity_256.0 :argument_3_of :arguments_220.0_827.0_256.0 .
+:arguments_220.0_827.0_256.0 :nAryPred :interval_159 .
+:interval_159 :nAryPred :g2;
+      :from 3.2925582558E10 ;
+      :to 3.2925582609E10 ;
+      a :Interval.
+
+:entity_317.0 :argument_1_of :arguments_317.0_64.0_649.0 .
+:entity_64.0 :argument_2_of :arguments_317.0_64.0_649.0 .
+:entity_649.0 :argument_3_of :arguments_317.0_64.0_649.0 .
+:arguments_317.0_64.0_649.0 :nAryPred :interval_160 .
+:interval_160 :nAryPred :g2;
+      :from 1.8294482384E10 ;
+      :to 1.8294482507E10 ;
+      a :Interval.
+
+:entity_947.0 :argument_1_of :arguments_947.0_524.0_381.0 .
+:entity_524.0 :argument_2_of :arguments_947.0_524.0_381.0 .
+:entity_381.0 :argument_3_of :arguments_947.0_524.0_381.0 .
+:arguments_947.0_524.0_381.0 :nAryPred :interval_161 .
+:interval_161 :nAryPred :g2;
+      :from 5.9075559928E10 ;
+      :to 5.9075560026E10 ;
+      a :Interval.
+
+:entity_375.0 :argument_1_of :arguments_375.0_384.0_758.0 .
+:entity_384.0 :argument_2_of :arguments_375.0_384.0_758.0 .
+:entity_758.0 :argument_3_of :arguments_375.0_384.0_758.0 .
+:arguments_375.0_384.0_758.0 :nAryPred :interval_162 .
+:interval_162 :nAryPred :g2;
+      :from 5.5484258239E10 ;
+      :to 5.5484258315E10 ;
+      a :Interval.
+
+:entity_617.0 :argument_1_of :arguments_617.0_810.0_98.0 .
+:entity_810.0 :argument_2_of :arguments_617.0_810.0_98.0 .
+:entity_98.0 :argument_3_of :arguments_617.0_810.0_98.0 .
+:arguments_617.0_810.0_98.0 :nAryPred :interval_163 .
+:interval_163 :nAryPred :g2;
+      :from 6.0480472426E10 ;
+      :to 6.048047251E10 ;
+      a :Interval.
+
+:entity_113.0 :argument_1_of :arguments_113.0_288.0_429.0 .
+:entity_288.0 :argument_2_of :arguments_113.0_288.0_429.0 .
+:entity_429.0 :argument_3_of :arguments_113.0_288.0_429.0 .
+:arguments_113.0_288.0_429.0 :nAryPred :interval_164 .
+:interval_164 :nAryPred :g2;
+      :from 6.0033323595E10 ;
+      :to 6.0033323688E10 ;
+      a :Interval.
+
+:entity_152.0 :argument_1_of :arguments_152.0_942.0_228.0 .
+:entity_942.0 :argument_2_of :arguments_152.0_942.0_228.0 .
+:entity_228.0 :argument_3_of :arguments_152.0_942.0_228.0 .
+:arguments_152.0_942.0_228.0 :nAryPred :interval_165 .
+:interval_165 :nAryPred :g2;
+      :from 4.6507578556E10 ;
+      :to 4.6507578644E10 ;
+      a :Interval.
+
+:entity_755.0 :argument_1_of :arguments_755.0_752.0_670.0 .
+:entity_752.0 :argument_2_of :arguments_755.0_752.0_670.0 .
+:entity_670.0 :argument_3_of :arguments_755.0_752.0_670.0 .
+:arguments_755.0_752.0_670.0 :nAryPred :interval_166 .
+:interval_166 :nAryPred :g2;
+      :from 1.236662359E9 ;
+      :to 1.236662472E9 ;
+      a :Interval.
+
+:entity_125.0 :argument_1_of :arguments_125.0_725.0_871.0 .
+:entity_725.0 :argument_2_of :arguments_125.0_725.0_871.0 .
+:entity_871.0 :argument_3_of :arguments_125.0_725.0_871.0 .
+:arguments_125.0_725.0_871.0 :nAryPred :interval_167 .
+:interval_167 :nAryPred :g2;
+      :from 1.6159250198E10 ;
+      :to 1.6159250285E10 ;
+      a :Interval.
+
+:entity_629.0 :argument_1_of :arguments_629.0_800.0_50.0 .
+:entity_800.0 :argument_2_of :arguments_629.0_800.0_50.0 .
+:entity_50.0 :argument_3_of :arguments_629.0_800.0_50.0 .
+:arguments_629.0_800.0_50.0 :nAryPred :interval_168 .
+:interval_168 :nAryPred :g2;
+      :from 5.1794191641E10 ;
+      :to 5.1794191749E10 ;
+      a :Interval.
+
+:entity_753.0 :argument_1_of :arguments_753.0_827.0_380.0 .
+:entity_827.0 :argument_2_of :arguments_753.0_827.0_380.0 .
+:entity_380.0 :argument_3_of :arguments_753.0_827.0_380.0 .
+:arguments_753.0_827.0_380.0 :nAryPred :interval_169 .
+:interval_169 :nAryPred :g2;
+      :from 4.556188684E10 ;
+      :to 4.556188696E10 ;
+      a :Interval.
+
+:entity_152.0 :argument_1_of :arguments_152.0_23.0_103.0 .
+:entity_23.0 :argument_2_of :arguments_152.0_23.0_103.0 .
+:entity_103.0 :argument_3_of :arguments_152.0_23.0_103.0 .
+:arguments_152.0_23.0_103.0 :nAryPred :interval_170 .
+:interval_170 :nAryPred :g2;
+      :from 3.9087431665E10 ;
+      :to 3.9087431776E10 ;
+      a :Interval.
+
+:entity_160.0 :argument_1_of :arguments_160.0_375.0_962.0 .
+:entity_375.0 :argument_2_of :arguments_160.0_375.0_962.0 .
+:entity_962.0 :argument_3_of :arguments_160.0_375.0_962.0 .
+:arguments_160.0_375.0_962.0 :nAryPred :interval_171 .
+:interval_171 :nAryPred :g2;
+      :from 5.61645076E8 ;
+      :to 5.61645168E8 ;
+      a :Interval.
+
+:entity_635.0 :argument_1_of :arguments_635.0_865.0_471.0 .
+:entity_865.0 :argument_2_of :arguments_635.0_865.0_471.0 .
+:entity_471.0 :argument_3_of :arguments_635.0_865.0_471.0 .
+:arguments_635.0_865.0_471.0 :nAryPred :interval_172 .
+:interval_172 :nAryPred :g2;
+      :from 1.9423915504E10 ;
+      :to 1.9423915609E10 ;
+      a :Interval.
+
+:entity_225.0 :argument_1_of :arguments_225.0_653.0_380.0 .
+:entity_653.0 :argument_2_of :arguments_225.0_653.0_380.0 .
+:entity_380.0 :argument_3_of :arguments_225.0_653.0_380.0 .
+:arguments_225.0_653.0_380.0 :nAryPred :interval_173 .
+:interval_173 :nAryPred :g2;
+      :from 2.3390433246E10 ;
+      :to 2.3390433351E10 ;
+      a :Interval.
+
+:entity_597.0 :argument_1_of :arguments_597.0_831.0_551.0 .
+:entity_831.0 :argument_2_of :arguments_597.0_831.0_551.0 .
+:entity_551.0 :argument_3_of :arguments_597.0_831.0_551.0 .
+:arguments_597.0_831.0_551.0 :nAryPred :interval_174 .
+:interval_174 :nAryPred :g2;
+      :from 3.7528834586E10 ;
+      :to 3.7528834686E10 ;
+      a :Interval.
+
+:entity_854.0 :argument_1_of :arguments_854.0_696.0_67.0 .
+:entity_696.0 :argument_2_of :arguments_854.0_696.0_67.0 .
+:entity_67.0 :argument_3_of :arguments_854.0_696.0_67.0 .
+:arguments_854.0_696.0_67.0 :nAryPred :interval_175 .
+:interval_175 :nAryPred :g2;
+      :from 3.1667042384E10 ;
+      :to 3.166704246E10 ;
+      a :Interval.
+
+:entity_898.0 :argument_1_of :arguments_898.0_322.0_327.0 .
+:entity_322.0 :argument_2_of :arguments_898.0_322.0_327.0 .
+:entity_327.0 :argument_3_of :arguments_898.0_322.0_327.0 .
+:arguments_898.0_322.0_327.0 :nAryPred :interval_176 .
+:interval_176 :nAryPred :g2;
+      :from 3.2797580405E10 ;
+      :to 3.2797580522E10 ;
+      a :Interval.
+
+:entity_723.0 :argument_1_of :arguments_723.0_675.0_876.0 .
+:entity_675.0 :argument_2_of :arguments_723.0_675.0_876.0 .
+:entity_876.0 :argument_3_of :arguments_723.0_675.0_876.0 .
+:arguments_723.0_675.0_876.0 :nAryPred :interval_177 .
+:interval_177 :nAryPred :g2;
+      :from 2.7435200542E10 ;
+      :to 2.7435200643E10 ;
+      a :Interval.
+
+:entity_650.0 :argument_1_of :arguments_650.0_23.0_744.0 .
+:entity_23.0 :argument_2_of :arguments_650.0_23.0_744.0 .
+:entity_744.0 :argument_3_of :arguments_650.0_23.0_744.0 .
+:arguments_650.0_23.0_744.0 :nAryPred :interval_178 .
+:interval_178 :nAryPred :g2;
+      :from 1.0182798724E10 ;
+      :to 1.0182798812E10 ;
+      a :Interval.
+
+:entity_452.0 :argument_1_of :arguments_452.0_563.0_479.0 .
+:entity_563.0 :argument_2_of :arguments_452.0_563.0_479.0 .
+:entity_479.0 :argument_3_of :arguments_452.0_563.0_479.0 .
+:arguments_452.0_563.0_479.0 :nAryPred :interval_179 .
+:interval_179 :nAryPred :g2;
+      :from 2.0629662309E10 ;
+      :to 2.0629662428E10 ;
+      a :Interval.
+
+:entity_620.0 :argument_1_of :arguments_620.0_685.0_508.0 .
+:entity_685.0 :argument_2_of :arguments_620.0_685.0_508.0 .
+:entity_508.0 :argument_3_of :arguments_620.0_685.0_508.0 .
+:arguments_620.0_685.0_508.0 :nAryPred :interval_180 .
+:interval_180 :nAryPred :g2;
+      :from 19.0 ;
+      :to 117.0 ;
+      a :Interval.
+
+:entity_485.0 :argument_1_of :arguments_485.0_566.0_737.0 .
+:entity_566.0 :argument_2_of :arguments_485.0_566.0_737.0 .
+:entity_737.0 :argument_3_of :arguments_485.0_566.0_737.0 .
+:arguments_485.0_566.0_737.0 :nAryPred :interval_181 .
+:interval_181 :nAryPred :g2;
+      :from 3.166764834E10 ;
+      :to 3.166764843E10 ;
+      a :Interval.
+
+:entity_858.0 :argument_1_of :arguments_858.0_761.0_843.0 .
+:entity_761.0 :argument_2_of :arguments_858.0_761.0_843.0 .
+:entity_843.0 :argument_3_of :arguments_858.0_761.0_843.0 .
+:arguments_858.0_761.0_843.0 :nAryPred :interval_182 .
+:interval_182 :nAryPred :g2;
+      :from 3.1861290829E10 ;
+      :to 3.1861290942E10 ;
+      a :Interval.
+
+:entity_427.0 :argument_1_of :arguments_427.0_675.0_815.0 .
+:entity_675.0 :argument_2_of :arguments_427.0_675.0_815.0 .
+:entity_815.0 :argument_3_of :arguments_427.0_675.0_815.0 .
+:arguments_427.0_675.0_815.0 :nAryPred :interval_183 .
+:interval_183 :nAryPred :g2;
+      :from 4.5526198064E10 ;
+      :to 4.5526198166E10 ;
+      a :Interval.
+
+:entity_893.0 :argument_1_of :arguments_893.0_425.0_344.0 .
+:entity_425.0 :argument_2_of :arguments_893.0_425.0_344.0 .
+:entity_344.0 :argument_3_of :arguments_893.0_425.0_344.0 .
+:arguments_893.0_425.0_344.0 :nAryPred :interval_184 .
+:interval_184 :nAryPred :g2;
+      :from 3.801159123E10 ;
+      :to 3.8011591338E10 ;
+      a :Interval.
+
+:entity_605.0 :argument_1_of :arguments_605.0_647.0_497.0 .
+:entity_647.0 :argument_2_of :arguments_605.0_647.0_497.0 .
+:entity_497.0 :argument_3_of :arguments_605.0_647.0_497.0 .
+:arguments_605.0_647.0_497.0 :nAryPred :interval_185 .
+:interval_185 :nAryPred :g2;
+      :from 1.8976975129E10 ;
+      :to 1.897697523E10 ;
+      a :Interval.
+
+:entity_501.0 :argument_1_of :arguments_501.0_275.0_674.0 .
+:entity_275.0 :argument_2_of :arguments_501.0_275.0_674.0 .
+:entity_674.0 :argument_3_of :arguments_501.0_275.0_674.0 .
+:arguments_501.0_275.0_674.0 :nAryPred :interval_186 .
+:interval_186 :nAryPred :g2;
+      :from 1.1700911385E10 ;
+      :to 1.1700911494E10 ;
+      a :Interval.
+
+:entity_457.0 :argument_1_of :arguments_457.0_262.0_648.0 .
+:entity_262.0 :argument_2_of :arguments_457.0_262.0_648.0 .
+:entity_648.0 :argument_3_of :arguments_457.0_262.0_648.0 .
+:arguments_457.0_262.0_648.0 :nAryPred :interval_187 .
+:interval_187 :nAryPred :g2;
+      :from 7.33636221E8 ;
+      :to 7.33636311E8 ;
+      a :Interval.
+
+:entity_326.0 :argument_1_of :arguments_326.0_782.0_358.0 .
+:entity_782.0 :argument_2_of :arguments_326.0_782.0_358.0 .
+:entity_358.0 :argument_3_of :arguments_326.0_782.0_358.0 .
+:arguments_326.0_782.0_358.0 :nAryPred :interval_188 .
+:interval_188 :nAryPred :g2;
+      :from 4.4159109379E10 ;
+      :to 4.4159109473E10 ;
+      a :Interval.
+
+:entity_152.0 :argument_1_of :arguments_152.0_911.0_671.0 .
+:entity_911.0 :argument_2_of :arguments_152.0_911.0_671.0 .
+:entity_671.0 :argument_3_of :arguments_152.0_911.0_671.0 .
+:arguments_152.0_911.0_671.0 :nAryPred :interval_189 .
+:interval_189 :nAryPred :g2;
+      :from 4.4247031863E10 ;
+      :to 4.4247031962E10 ;
+      a :Interval.
+
+:entity_306.0 :argument_1_of :arguments_306.0_272.0_820.0 .
+:entity_272.0 :argument_2_of :arguments_306.0_272.0_820.0 .
+:entity_820.0 :argument_3_of :arguments_306.0_272.0_820.0 .
+:arguments_306.0_272.0_820.0 :nAryPred :interval_190 .
+:interval_190 :nAryPred :g2;
+      :from 1.336238249E10 ;
+      :to 1.3362382601E10 ;
+      a :Interval.
+
+:entity_809.0 :argument_1_of :arguments_809.0_36.0_467.0 .
+:entity_36.0 :argument_2_of :arguments_809.0_36.0_467.0 .
+:entity_467.0 :argument_3_of :arguments_809.0_36.0_467.0 .
+:arguments_809.0_36.0_467.0 :nAryPred :interval_191 .
+:interval_191 :nAryPred :g2;
+      :from 4.9421863829E10 ;
+      :to 4.9421863957E10 ;
+      a :Interval.
+
+:entity_523.0 :argument_1_of :arguments_523.0_346.0_656.0 .
+:entity_346.0 :argument_2_of :arguments_523.0_346.0_656.0 .
+:entity_656.0 :argument_3_of :arguments_523.0_346.0_656.0 .
+:arguments_523.0_346.0_656.0 :nAryPred :interval_192 .
+:interval_192 :nAryPred :g2;
+      :from 2.2957706489E10 ;
+      :to 2.2957706572E10 ;
+      a :Interval.
+
+:entity_436.0 :argument_1_of :arguments_436.0_299.0_938.0 .
+:entity_299.0 :argument_2_of :arguments_436.0_299.0_938.0 .
+:entity_938.0 :argument_3_of :arguments_436.0_299.0_938.0 .
+:arguments_436.0_299.0_938.0 :nAryPred :interval_193 .
+:interval_193 :nAryPred :g2;
+      :from 5.029578216E10 ;
+      :to 5.0295782265E10 ;
+      a :Interval.
+
+:entity_815.0 :argument_1_of :arguments_815.0_126.0_613.0 .
+:entity_126.0 :argument_2_of :arguments_815.0_126.0_613.0 .
+:entity_613.0 :argument_3_of :arguments_815.0_126.0_613.0 .
+:arguments_815.0_126.0_613.0 :nAryPred :interval_194 .
+:interval_194 :nAryPred :g2;
+      :from 2.879732246E9 ;
+      :to 2.879732359E9 ;
+      a :Interval.
+
+:entity_985.0 :argument_1_of :arguments_985.0_634.0_338.0 .
+:entity_634.0 :argument_2_of :arguments_985.0_634.0_338.0 .
+:entity_338.0 :argument_3_of :arguments_985.0_634.0_338.0 .
+:arguments_985.0_634.0_338.0 :nAryPred :interval_195 .
+:interval_195 :nAryPred :g2;
+      :from 1.5512802802E10 ;
+      :to 1.5512802902E10 ;
+      a :Interval.
+
+:entity_974.0 :argument_1_of :arguments_974.0_114.0_469.0 .
+:entity_114.0 :argument_2_of :arguments_974.0_114.0_469.0 .
+:entity_469.0 :argument_3_of :arguments_974.0_114.0_469.0 .
+:arguments_974.0_114.0_469.0 :nAryPred :interval_196 .
+:interval_196 :nAryPred :g2;
+      :from 4.1214945734E10 ;
+      :to 4.1214945857E10 ;
+      a :Interval.
+
+:entity_664.0 :argument_1_of :arguments_664.0_774.0_449.0 .
+:entity_774.0 :argument_2_of :arguments_664.0_774.0_449.0 .
+:entity_449.0 :argument_3_of :arguments_664.0_774.0_449.0 .
+:arguments_664.0_774.0_449.0 :nAryPred :interval_197 .
+:interval_197 :nAryPred :g2;
+      :from 2.9587469098E10 ;
+      :to 2.9587469221E10 ;
+      a :Interval.
+
+:entity_489.0 :argument_1_of :arguments_489.0_582.0_587.0 .
+:entity_582.0 :argument_2_of :arguments_489.0_582.0_587.0 .
+:entity_587.0 :argument_3_of :arguments_489.0_582.0_587.0 .
+:arguments_489.0_582.0_587.0 :nAryPred :interval_198 .
+:interval_198 :nAryPred :g2;
+      :from 3.8493238475E10 ;
+      :to 3.8493238564E10 ;
+      a :Interval.
+
+:entity_771.0 :argument_1_of :arguments_771.0_150.0_946.0 .
+:entity_150.0 :argument_2_of :arguments_771.0_150.0_946.0 .
+:entity_946.0 :argument_3_of :arguments_771.0_150.0_946.0 .
+:arguments_771.0_150.0_946.0 :nAryPred :interval_199 .
+:interval_199 :nAryPred :g2;
+      :from 1.918091361E10 ;
+      :to 1.9180913717E10 ;
+      a :Interval.
+
+:entity_850.0 :argument_1_of :arguments_850.0_383.0_45.0 .
+:entity_383.0 :argument_2_of :arguments_850.0_383.0_45.0 .
+:entity_45.0 :argument_3_of :arguments_850.0_383.0_45.0 .
+:arguments_850.0_383.0_45.0 :nAryPred :interval_200 .
+:interval_200 :nAryPred :g2;
+      :from 2.6289082204E10 ;
+      :to 2.6289082297E10 ;
+      a :Interval.
+
+:entity_729.0 :argument_1_of :arguments_729.0_904.0_121.0 .
+:entity_904.0 :argument_2_of :arguments_729.0_904.0_121.0 .
+:entity_121.0 :argument_3_of :arguments_729.0_904.0_121.0 .
+:arguments_729.0_904.0_121.0 :nAryPred :interval_201 .
+:interval_201 :nAryPred :g2;
+      :from 3.2853952481E10 ;
+      :to 3.2853952584E10 ;
+      a :Interval.
+
+:entity_939.0 :argument_1_of :arguments_939.0_517.0_840.0 .
+:entity_517.0 :argument_2_of :arguments_939.0_517.0_840.0 .
+:entity_840.0 :argument_3_of :arguments_939.0_517.0_840.0 .
+:arguments_939.0_517.0_840.0 :nAryPred :interval_202 .
+:interval_202 :nAryPred :g2;
+      :from 2.4448112E9 ;
+      :to 2.444811296E9 ;
+      a :Interval.
+
+:entity_110.0 :argument_1_of :arguments_110.0_156.0_523.0 .
+:entity_156.0 :argument_2_of :arguments_110.0_156.0_523.0 .
+:entity_523.0 :argument_3_of :arguments_110.0_156.0_523.0 .
+:arguments_110.0_156.0_523.0 :nAryPred :interval_203 .
+:interval_203 :nAryPred :g2;
+      :from 5.8794999029E10 ;
+      :to 5.8794999133E10 ;
+      a :Interval.
+
+:entity_122.0 :argument_1_of :arguments_122.0_353.0_836.0 .
+:entity_353.0 :argument_2_of :arguments_122.0_353.0_836.0 .
+:entity_836.0 :argument_3_of :arguments_122.0_353.0_836.0 .
+:arguments_122.0_353.0_836.0 :nAryPred :interval_204 .
+:interval_204 :nAryPred :g2;
+      :from 2.8711208967E10 ;
+      :to 2.8711209067E10 ;
+      a :Interval.
+
+:entity_321.0 :argument_1_of :arguments_321.0_148.0_576.0 .
+:entity_148.0 :argument_2_of :arguments_321.0_148.0_576.0 .
+:entity_576.0 :argument_3_of :arguments_321.0_148.0_576.0 .
+:arguments_321.0_148.0_576.0 :nAryPred :interval_205 .
+:interval_205 :nAryPred :g2;
+      :from 3.7412983951E10 ;
+      :to 3.7412984034E10 ;
+      a :Interval.
+
+:entity_224.0 :argument_1_of :arguments_224.0_331.0_869.0 .
+:entity_331.0 :argument_2_of :arguments_224.0_331.0_869.0 .
+:entity_869.0 :argument_3_of :arguments_224.0_331.0_869.0 .
+:arguments_224.0_331.0_869.0 :nAryPred :interval_206 .
+:interval_206 :nAryPred :g2;
+      :from 7.912197825E9 ;
+      :to 7.912197914E9 ;
+      a :Interval.
+
+:entity_514.0 :argument_1_of :arguments_514.0_825.0_77.0 .
+:entity_825.0 :argument_2_of :arguments_514.0_825.0_77.0 .
+:entity_77.0 :argument_3_of :arguments_514.0_825.0_77.0 .
+:arguments_514.0_825.0_77.0 :nAryPred :interval_207 .
+:interval_207 :nAryPred :g2;
+      :from 4.195010379E10 ;
+      :to 4.1950103867E10 ;
+      a :Interval.
+
+:entity_138.0 :argument_1_of :arguments_138.0_546.0_602.0 .
+:entity_546.0 :argument_2_of :arguments_138.0_546.0_602.0 .
+:entity_602.0 :argument_3_of :arguments_138.0_546.0_602.0 .
+:arguments_138.0_546.0_602.0 :nAryPred :interval_208 .
+:interval_208 :nAryPred :g2;
+      :from 2.3221283743E10 ;
+      :to 2.3221283856E10 ;
+      a :Interval.
+
+:entity_493.0 :argument_1_of :arguments_493.0_567.0_143.0 .
+:entity_567.0 :argument_2_of :arguments_493.0_567.0_143.0 .
+:entity_143.0 :argument_3_of :arguments_493.0_567.0_143.0 .
+:arguments_493.0_567.0_143.0 :nAryPred :interval_209 .
+:interval_209 :nAryPred :g2;
+      :from 6.0579485882E10 ;
+      :to 6.0579485995E10 ;
+      a :Interval.
+
+:entity_505.0 :argument_1_of :arguments_505.0_147.0_23.0 .
+:entity_147.0 :argument_2_of :arguments_505.0_147.0_23.0 .
+:entity_23.0 :argument_3_of :arguments_505.0_147.0_23.0 .
+:arguments_505.0_147.0_23.0 :nAryPred :interval_210 .
+:interval_210 :nAryPred :g2;
+      :from 3.5549970785E10 ;
+      :to 3.5549970891E10 ;
+      a :Interval.
+
+:entity_680.0 :argument_1_of :arguments_680.0_215.0_872.0 .
+:entity_215.0 :argument_2_of :arguments_680.0_215.0_872.0 .
+:entity_872.0 :argument_3_of :arguments_680.0_215.0_872.0 .
+:arguments_680.0_215.0_872.0 :nAryPred :interval_211 .
+:interval_211 :nAryPred :g2;
+      :from 2.1641291822E10 ;
+      :to 2.1641291957E10 ;
+      a :Interval.
+
+:entity_480.0 :argument_1_of :arguments_480.0_646.0_959.0 .
+:entity_646.0 :argument_2_of :arguments_480.0_646.0_959.0 .
+:entity_959.0 :argument_3_of :arguments_480.0_646.0_959.0 .
+:arguments_480.0_646.0_959.0 :nAryPred :interval_212 .
+:interval_212 :nAryPred :g2;
+      :from 3.865577848E10 ;
+      :to 3.8655778604E10 ;
+      a :Interval.
+
+:entity_780.0 :argument_1_of :arguments_780.0_386.0_160.0 .
+:entity_386.0 :argument_2_of :arguments_780.0_386.0_160.0 .
+:entity_160.0 :argument_3_of :arguments_780.0_386.0_160.0 .
+:arguments_780.0_386.0_160.0 :nAryPred :interval_213 .
+:interval_213 :nAryPred :g2;
+      :from 5.9275362643E10 ;
+      :to 5.9275362738E10 ;
+      a :Interval.
+
+:entity_670.0 :argument_1_of :arguments_670.0_735.0_808.0 .
+:entity_735.0 :argument_2_of :arguments_670.0_735.0_808.0 .
+:entity_808.0 :argument_3_of :arguments_670.0_735.0_808.0 .
+:arguments_670.0_735.0_808.0 :nAryPred :interval_214 .
+:interval_214 :nAryPred :g2;
+      :from 6.0714535004E10 ;
+      :to 6.071453512E10 ;
+      a :Interval.
+
+:entity_61.0 :argument_1_of :arguments_61.0_914.0_741.0 .
+:entity_914.0 :argument_2_of :arguments_61.0_914.0_741.0 .
+:entity_741.0 :argument_3_of :arguments_61.0_914.0_741.0 .
+:arguments_61.0_914.0_741.0 :nAryPred :interval_215 .
+:interval_215 :nAryPred :g2;
+      :from 4.5817000186E10 ;
+      :to 4.5817000281E10 ;
+      a :Interval.
+
+:entity_423.0 :argument_1_of :arguments_423.0_369.0_272.0 .
+:entity_369.0 :argument_2_of :arguments_423.0_369.0_272.0 .
+:entity_272.0 :argument_3_of :arguments_423.0_369.0_272.0 .
+:arguments_423.0_369.0_272.0 :nAryPred :interval_216 .
+:interval_216 :nAryPred :g2;
+      :from 4.0809496781E10 ;
+      :to 4.0809496869E10 ;
+      a :Interval.
+
+:entity_617.0 :argument_1_of :arguments_617.0_16.0_680.0 .
+:entity_16.0 :argument_2_of :arguments_617.0_16.0_680.0 .
+:entity_680.0 :argument_3_of :arguments_617.0_16.0_680.0 .
+:arguments_617.0_16.0_680.0 :nAryPred :interval_217 .
+:interval_217 :nAryPred :g2;
+      :from 7.760644576E9 ;
+      :to 7.76064467E9 ;
+      a :Interval.
+
+:entity_562.0 :argument_1_of :arguments_562.0_153.0_554.0 .
+:entity_153.0 :argument_2_of :arguments_562.0_153.0_554.0 .
+:entity_554.0 :argument_3_of :arguments_562.0_153.0_554.0 .
+:arguments_562.0_153.0_554.0 :nAryPred :interval_218 .
+:interval_218 :nAryPred :g2;
+      :from 3.093696497E10 ;
+      :to 3.0936965089E10 ;
+      a :Interval.
+
+:entity_726.0 :argument_1_of :arguments_726.0_538.0_314.0 .
+:entity_538.0 :argument_2_of :arguments_726.0_538.0_314.0 .
+:entity_314.0 :argument_3_of :arguments_726.0_538.0_314.0 .
+:arguments_726.0_538.0_314.0 :nAryPred :interval_219 .
+:interval_219 :nAryPred :g2;
+      :from 3.7433778536E10 ;
+      :to 3.7433778638E10 ;
+      a :Interval.
+
+:entity_95.0 :argument_1_of :arguments_95.0_758.0_276.0 .
+:entity_758.0 :argument_2_of :arguments_95.0_758.0_276.0 .
+:entity_276.0 :argument_3_of :arguments_95.0_758.0_276.0 .
+:arguments_95.0_758.0_276.0 :nAryPred :interval_220 .
+:interval_220 :nAryPred :g2;
+      :from 4.507608653E10 ;
+      :to 4.5076086609E10 ;
+      a :Interval.
+
+:entity_445.0 :argument_1_of :arguments_445.0_678.0_120.0 .
+:entity_678.0 :argument_2_of :arguments_445.0_678.0_120.0 .
+:entity_120.0 :argument_3_of :arguments_445.0_678.0_120.0 .
+:arguments_445.0_678.0_120.0 :nAryPred :interval_221 .
+:interval_221 :nAryPred :g2;
+      :from 4.7488812593E10 ;
+      :to 4.7488812702E10 ;
+      a :Interval.
+
+:entity_345.0 :argument_1_of :arguments_345.0_361.0_107.0 .
+:entity_361.0 :argument_2_of :arguments_345.0_361.0_107.0 .
+:entity_107.0 :argument_3_of :arguments_345.0_361.0_107.0 .
+:arguments_345.0_361.0_107.0 :nAryPred :interval_222 .
+:interval_222 :nAryPred :g2;
+      :from 1.3671216651E10 ;
+      :to 1.3671216721E10 ;
+      a :Interval.
+
+:entity_726.0 :argument_1_of :arguments_726.0_576.0_587.0 .
+:entity_576.0 :argument_2_of :arguments_726.0_576.0_587.0 .
+:entity_587.0 :argument_3_of :arguments_726.0_576.0_587.0 .
+:arguments_726.0_576.0_587.0 :nAryPred :interval_223 .
+:interval_223 :nAryPred :g2;
+      :from 1.1686696331E10 ;
+      :to 1.1686696416E10 ;
+      a :Interval.
+
+:entity_77.0 :argument_1_of :arguments_77.0_499.0_915.0 .
+:entity_499.0 :argument_2_of :arguments_77.0_499.0_915.0 .
+:entity_915.0 :argument_3_of :arguments_77.0_499.0_915.0 .
+:arguments_77.0_499.0_915.0 :nAryPred :interval_224 .
+:interval_224 :nAryPred :g2;
+      :from 2.634233431E9 ;
+      :to 2.634233551E9 ;
+      a :Interval.
+
+:entity_627.0 :argument_1_of :arguments_627.0_468.0_176.0 .
+:entity_468.0 :argument_2_of :arguments_627.0_468.0_176.0 .
+:entity_176.0 :argument_3_of :arguments_627.0_468.0_176.0 .
+:arguments_627.0_468.0_176.0 :nAryPred :interval_225 .
+:interval_225 :nAryPred :g2;
+      :from 6.1330775205E10 ;
+      :to 6.1330775325E10 ;
+      a :Interval.
+
+:entity_696.0 :argument_1_of :arguments_696.0_431.0_202.0 .
+:entity_431.0 :argument_2_of :arguments_696.0_431.0_202.0 .
+:entity_202.0 :argument_3_of :arguments_696.0_431.0_202.0 .
+:arguments_696.0_431.0_202.0 :nAryPred :interval_226 .
+:interval_226 :nAryPred :g2;
+      :from 9.878274325E9 ;
+      :to 9.878274439E9 ;
+      a :Interval.
+
+:entity_676.0 :argument_1_of :arguments_676.0_615.0_473.0 .
+:entity_615.0 :argument_2_of :arguments_676.0_615.0_473.0 .
+:entity_473.0 :argument_3_of :arguments_676.0_615.0_473.0 .
+:arguments_676.0_615.0_473.0 :nAryPred :interval_227 .
+:interval_227 :nAryPred :g2;
+      :from 1.9279156668E10 ;
+      :to 1.9279156753E10 ;
+      a :Interval.
+
+:entity_639.0 :argument_1_of :arguments_639.0_677.0_438.0 .
+:entity_677.0 :argument_2_of :arguments_639.0_677.0_438.0 .
+:entity_438.0 :argument_3_of :arguments_639.0_677.0_438.0 .
+:arguments_639.0_677.0_438.0 :nAryPred :interval_228 .
+:interval_228 :nAryPred :g2;
+      :from 3.5284371579E10 ;
+      :to 3.5284371688E10 ;
+      a :Interval.
+
+:entity_985.0 :argument_1_of :arguments_985.0_772.0_655.0 .
+:entity_772.0 :argument_2_of :arguments_985.0_772.0_655.0 .
+:entity_655.0 :argument_3_of :arguments_985.0_772.0_655.0 .
+:arguments_985.0_772.0_655.0 :nAryPred :interval_229 .
+:interval_229 :nAryPred :g2;
+      :from 1.0064642593E10 ;
+      :to 1.0064642682E10 ;
+      a :Interval.
+
+:entity_350.0 :argument_1_of :arguments_350.0_555.0_98.0 .
+:entity_555.0 :argument_2_of :arguments_350.0_555.0_98.0 .
+:entity_98.0 :argument_3_of :arguments_350.0_555.0_98.0 .
+:arguments_350.0_555.0_98.0 :nAryPred :interval_230 .
+:interval_230 :nAryPred :g2;
+      :from 1.5834452572E10 ;
+      :to 1.5834452672E10 ;
+      a :Interval.
+
+:entity_534.0 :argument_1_of :arguments_534.0_4.0_417.0 .
+:entity_4.0 :argument_2_of :arguments_534.0_4.0_417.0 .
+:entity_417.0 :argument_3_of :arguments_534.0_4.0_417.0 .
+:arguments_534.0_4.0_417.0 :nAryPred :interval_231 .
+:interval_231 :nAryPred :g2;
+      :from 7.536626812E9 ;
+      :to 7.5366269E9 ;
+      a :Interval.
+
+:entity_446.0 :argument_1_of :arguments_446.0_514.0_337.0 .
+:entity_514.0 :argument_2_of :arguments_446.0_514.0_337.0 .
+:entity_337.0 :argument_3_of :arguments_446.0_514.0_337.0 .
+:arguments_446.0_514.0_337.0 :nAryPred :interval_232 .
+:interval_232 :nAryPred :g2;
+      :from 4.9285999316E10 ;
+      :to 4.9285999416E10 ;
+      a :Interval.
+
+:entity_386.0 :argument_1_of :arguments_386.0_25.0_559.0 .
+:entity_25.0 :argument_2_of :arguments_386.0_25.0_559.0 .
+:entity_559.0 :argument_3_of :arguments_386.0_25.0_559.0 .
+:arguments_386.0_25.0_559.0 :nAryPred :interval_233 .
+:interval_233 :nAryPred :g2;
+      :from 3.0446451349E10 ;
+      :to 3.0446451465E10 ;
+      a :Interval.
+
+:entity_937.0 :argument_1_of :arguments_937.0_508.0_79.0 .
+:entity_508.0 :argument_2_of :arguments_937.0_508.0_79.0 .
+:entity_79.0 :argument_3_of :arguments_937.0_508.0_79.0 .
+:arguments_937.0_508.0_79.0 :nAryPred :interval_234 .
+:interval_234 :nAryPred :g2;
+      :from 3.6003821647E10 ;
+      :to 3.600382176E10 ;
+      a :Interval.
+
+:entity_846.0 :argument_1_of :arguments_846.0_139.0_638.0 .
+:entity_139.0 :argument_2_of :arguments_846.0_139.0_638.0 .
+:entity_638.0 :argument_3_of :arguments_846.0_139.0_638.0 .
+:arguments_846.0_139.0_638.0 :nAryPred :interval_235 .
+:interval_235 :nAryPred :g2;
+      :from 2.4028662704E10 ;
+      :to 2.4028662771E10 ;
+      a :Interval.
+
+:entity_585.0 :argument_1_of :arguments_585.0_742.0_619.0 .
+:entity_742.0 :argument_2_of :arguments_585.0_742.0_619.0 .
+:entity_619.0 :argument_3_of :arguments_585.0_742.0_619.0 .
+:arguments_585.0_742.0_619.0 :nAryPred :interval_236 .
+:interval_236 :nAryPred :g2;
+      :from 3.9147270159E10 ;
+      :to 3.9147270231E10 ;
+      a :Interval.
+
+:entity_506.0 :argument_1_of :arguments_506.0_330.0_474.0 .
+:entity_330.0 :argument_2_of :arguments_506.0_330.0_474.0 .
+:entity_474.0 :argument_3_of :arguments_506.0_330.0_474.0 .
+:arguments_506.0_330.0_474.0 :nAryPred :interval_237 .
+:interval_237 :nAryPred :g2;
+      :from 4.2893305293E10 ;
+      :to 4.2893305412E10 ;
+      a :Interval.
+
+:entity_943.0 :argument_1_of :arguments_943.0_550.0_378.0 .
+:entity_550.0 :argument_2_of :arguments_943.0_550.0_378.0 .
+:entity_378.0 :argument_3_of :arguments_943.0_550.0_378.0 .
+:arguments_943.0_550.0_378.0 :nAryPred :interval_238 .
+:interval_238 :nAryPred :g2;
+      :from 5.377482562E9 ;
+      :to 5.37748267E9 ;
+      a :Interval.
+
+:entity_189.0 :argument_1_of :arguments_189.0_591.0_513.0 .
+:entity_591.0 :argument_2_of :arguments_189.0_591.0_513.0 .
+:entity_513.0 :argument_3_of :arguments_189.0_591.0_513.0 .
+:arguments_189.0_591.0_513.0 :nAryPred :interval_239 .
+:interval_239 :nAryPred :g2;
+      :from 4.010934686E9 ;
+      :to 4.010934759E9 ;
+      a :Interval.
+
+:entity_501.0 :argument_1_of :arguments_501.0_38.0_649.0 .
+:entity_38.0 :argument_2_of :arguments_501.0_38.0_649.0 .
+:entity_649.0 :argument_3_of :arguments_501.0_38.0_649.0 .
+:arguments_501.0_38.0_649.0 :nAryPred :interval_240 .
+:interval_240 :nAryPred :g2;
+      :from 1.7847096617E10 ;
+      :to 1.7847096702E10 ;
+      a :Interval.
+
+:entity_255.0 :argument_1_of :arguments_255.0_199.0_145.0 .
+:entity_199.0 :argument_2_of :arguments_255.0_199.0_145.0 .
+:entity_145.0 :argument_3_of :arguments_255.0_199.0_145.0 .
+:arguments_255.0_199.0_145.0 :nAryPred :interval_241 .
+:interval_241 :nAryPred :g2;
+      :from 3.9179923639E10 ;
+      :to 3.9179923757E10 ;
+      a :Interval.
+
+:entity_592.0 :argument_1_of :arguments_592.0_751.0_119.0 .
+:entity_751.0 :argument_2_of :arguments_592.0_751.0_119.0 .
+:entity_119.0 :argument_3_of :arguments_592.0_751.0_119.0 .
+:arguments_592.0_751.0_119.0 :nAryPred :interval_242 .
+:interval_242 :nAryPred :g2;
+      :from 4.1643594563E10 ;
+      :to 4.1643594662E10 ;
+      a :Interval.
+
+:entity_337.0 :argument_1_of :arguments_337.0_420.0_437.0 .
+:entity_420.0 :argument_2_of :arguments_337.0_420.0_437.0 .
+:entity_437.0 :argument_3_of :arguments_337.0_420.0_437.0 .
+:arguments_337.0_420.0_437.0 :nAryPred :interval_243 .
+:interval_243 :nAryPred :g2;
+      :from 1.9530735296E10 ;
+      :to 1.9530735361E10 ;
+      a :Interval.
+
+:entity_260.0 :argument_1_of :arguments_260.0_927.0_446.0 .
+:entity_927.0 :argument_2_of :arguments_260.0_927.0_446.0 .
+:entity_446.0 :argument_3_of :arguments_260.0_927.0_446.0 .
+:arguments_260.0_927.0_446.0 :nAryPred :interval_244 .
+:interval_244 :nAryPred :g2;
+      :from 3.5213375527E10 ;
+      :to 3.5213375626E10 ;
+      a :Interval.
+
+:entity_742.0 :argument_1_of :arguments_742.0_59.0_778.0 .
+:entity_59.0 :argument_2_of :arguments_742.0_59.0_778.0 .
+:entity_778.0 :argument_3_of :arguments_742.0_59.0_778.0 .
+:arguments_742.0_59.0_778.0 :nAryPred :interval_245 .
+:interval_245 :nAryPred :g2;
+      :from 2.8718088961E10 ;
+      :to 2.8718089078E10 ;
+      a :Interval.
+
+:entity_2.0 :argument_1_of :arguments_2.0_263.0_229.0 .
+:entity_263.0 :argument_2_of :arguments_2.0_263.0_229.0 .
+:entity_229.0 :argument_3_of :arguments_2.0_263.0_229.0 .
+:arguments_2.0_263.0_229.0 :nAryPred :interval_246 .
+:interval_246 :nAryPred :g2;
+      :from 3.2401495087E10 ;
+      :to 3.240149517E10 ;
+      a :Interval.
+
+:entity_741.0 :argument_1_of :arguments_741.0_410.0_441.0 .
+:entity_410.0 :argument_2_of :arguments_741.0_410.0_441.0 .
+:entity_441.0 :argument_3_of :arguments_741.0_410.0_441.0 .
+:arguments_741.0_410.0_441.0 :nAryPred :interval_247 .
+:interval_247 :nAryPred :g2;
+      :from 4.275703201E9 ;
+      :to 4.275703295E9 ;
+      a :Interval.
+
+:entity_713.0 :argument_1_of :arguments_713.0_705.0_966.0 .
+:entity_705.0 :argument_2_of :arguments_713.0_705.0_966.0 .
+:entity_966.0 :argument_3_of :arguments_713.0_705.0_966.0 .
+:arguments_713.0_705.0_966.0 :nAryPred :interval_248 .
+:interval_248 :nAryPred :g2;
+      :from 3.9056009642E10 ;
+      :to 3.9056009746E10 ;
+      a :Interval.
+
+:entity_785.0 :argument_1_of :arguments_785.0_262.0_217.0 .
+:entity_262.0 :argument_2_of :arguments_785.0_262.0_217.0 .
+:entity_217.0 :argument_3_of :arguments_785.0_262.0_217.0 .
+:arguments_785.0_262.0_217.0 :nAryPred :interval_249 .
+:interval_249 :nAryPred :g2;
+      :from 2.0890275043E10 ;
+      :to 2.0890275173E10 ;
+      a :Interval.
+
+:entity_371.0 :argument_1_of :arguments_371.0_172.0_439.0 .
+:entity_172.0 :argument_2_of :arguments_371.0_172.0_439.0 .
+:entity_439.0 :argument_3_of :arguments_371.0_172.0_439.0 .
+:arguments_371.0_172.0_439.0 :nAryPred :interval_250 .
+:interval_250 :nAryPred :g2;
+      :from 8.306763346E9 ;
+      :to 8.306763454E9 ;
+      a :Interval.
+
+:entity_363.0 :argument_1_of :arguments_363.0_841.0_729.0 .
+:entity_841.0 :argument_2_of :arguments_363.0_841.0_729.0 .
+:entity_729.0 :argument_3_of :arguments_363.0_841.0_729.0 .
+:arguments_363.0_841.0_729.0 :nAryPred :interval_251 .
+:interval_251 :nAryPred :g2;
+      :from 2.793123919E9 ;
+      :to 2.793124012E9 ;
+      a :Interval.
+
+:entity_416.0 :argument_1_of :arguments_416.0_130.0_137.0 .
+:entity_130.0 :argument_2_of :arguments_416.0_130.0_137.0 .
+:entity_137.0 :argument_3_of :arguments_416.0_130.0_137.0 .
+:arguments_416.0_130.0_137.0 :nAryPred :interval_252 .
+:interval_252 :nAryPred :g2;
+      :from 5.6475831719E10 ;
+      :to 5.6475831817E10 ;
+      a :Interval.
+
+:entity_50.0 :argument_1_of :arguments_50.0_867.0_804.0 .
+:entity_867.0 :argument_2_of :arguments_50.0_867.0_804.0 .
+:entity_804.0 :argument_3_of :arguments_50.0_867.0_804.0 .
+:arguments_50.0_867.0_804.0 :nAryPred :interval_253 .
+:interval_253 :nAryPred :g2;
+      :from 2.8697041568E10 ;
+      :to 2.869704169E10 ;
+      a :Interval.
+
+:entity_368.0 :argument_1_of :arguments_368.0_996.0_636.0 .
+:entity_996.0 :argument_2_of :arguments_368.0_996.0_636.0 .
+:entity_636.0 :argument_3_of :arguments_368.0_996.0_636.0 .
+:arguments_368.0_996.0_636.0 :nAryPred :interval_254 .
+:interval_254 :nAryPred :g2;
+      :from 4.9821751771E10 ;
+      :to 4.9821751873E10 ;
+      a :Interval.
+
+:entity_473.0 :argument_1_of :arguments_473.0_974.0_712.0 .
+:entity_974.0 :argument_2_of :arguments_473.0_974.0_712.0 .
+:entity_712.0 :argument_3_of :arguments_473.0_974.0_712.0 .
+:arguments_473.0_974.0_712.0 :nAryPred :interval_255 .
+:interval_255 :nAryPred :g2;
+      :from 3.8774504121E10 ;
+      :to 3.8774504203E10 ;
+      a :Interval.
+
+:entity_397.0 :argument_1_of :arguments_397.0_891.0_889.0 .
+:entity_891.0 :argument_2_of :arguments_397.0_891.0_889.0 .
+:entity_889.0 :argument_3_of :arguments_397.0_891.0_889.0 .
+:arguments_397.0_891.0_889.0 :nAryPred :interval_256 .
+:interval_256 :nAryPred :g2;
+      :from 6.1329177178E10 ;
+      :to 6.1329177294E10 ;
+      a :Interval.
+
+:entity_525.0 :argument_1_of :arguments_525.0_912.0_716.0 .
+:entity_912.0 :argument_2_of :arguments_525.0_912.0_716.0 .
+:entity_716.0 :argument_3_of :arguments_525.0_912.0_716.0 .
+:arguments_525.0_912.0_716.0 :nAryPred :interval_257 .
+:interval_257 :nAryPred :g2;
+      :from 5.1894033836E10 ;
+      :to 5.1894033942E10 ;
+      a :Interval.
+
+:entity_796.0 :argument_1_of :arguments_796.0_750.0_395.0 .
+:entity_750.0 :argument_2_of :arguments_796.0_750.0_395.0 .
+:entity_395.0 :argument_3_of :arguments_796.0_750.0_395.0 .
+:arguments_796.0_750.0_395.0 :nAryPred :interval_258 .
+:interval_258 :nAryPred :g2;
+      :from 5.62658719E8 ;
+      :to 5.62658819E8 ;
+      a :Interval.
+
+:entity_393.0 :argument_1_of :arguments_393.0_837.0_247.0 .
+:entity_837.0 :argument_2_of :arguments_393.0_837.0_247.0 .
+:entity_247.0 :argument_3_of :arguments_393.0_837.0_247.0 .
+:arguments_393.0_837.0_247.0 :nAryPred :interval_259 .
+:interval_259 :nAryPred :g2;
+      :from 4.225812773E9 ;
+      :to 4.225812851E9 ;
+      a :Interval.
+
+:entity_45.0 :argument_1_of :arguments_45.0_700.0_233.0 .
+:entity_700.0 :argument_2_of :arguments_45.0_700.0_233.0 .
+:entity_233.0 :argument_3_of :arguments_45.0_700.0_233.0 .
+:arguments_45.0_700.0_233.0 :nAryPred :interval_260 .
+:interval_260 :nAryPred :g2;
+      :from 3.5620222841E10 ;
+      :to 3.5620222932E10 ;
+      a :Interval.
+
+:entity_322.0 :argument_1_of :arguments_322.0_903.0_780.0 .
+:entity_903.0 :argument_2_of :arguments_322.0_903.0_780.0 .
+:entity_780.0 :argument_3_of :arguments_322.0_903.0_780.0 .
+:arguments_322.0_903.0_780.0 :nAryPred :interval_261 .
+:interval_261 :nAryPred :g2;
+      :from 3.266528596E10 ;
+      :to 3.2665286058E10 ;
+      a :Interval.
+
+:entity_719.0 :argument_1_of :arguments_719.0_715.0_247.0 .
+:entity_715.0 :argument_2_of :arguments_719.0_715.0_247.0 .
+:entity_247.0 :argument_3_of :arguments_719.0_715.0_247.0 .
+:arguments_719.0_715.0_247.0 :nAryPred :interval_262 .
+:interval_262 :nAryPred :g2;
+      :from 1.7767972408E10 ;
+      :to 1.7767972537E10 ;
+      a :Interval.
+
+:entity_843.0 :argument_1_of :arguments_843.0_657.0_758.0 .
+:entity_657.0 :argument_2_of :arguments_843.0_657.0_758.0 .
+:entity_758.0 :argument_3_of :arguments_843.0_657.0_758.0 .
+:arguments_843.0_657.0_758.0 :nAryPred :interval_263 .
+:interval_263 :nAryPred :g2;
+      :from 5.7726298108E10 ;
+      :to 5.7726298197E10 ;
+      a :Interval.
+
+:entity_968.0 :argument_1_of :arguments_968.0_206.0_398.0 .
+:entity_206.0 :argument_2_of :arguments_968.0_206.0_398.0 .
+:entity_398.0 :argument_3_of :arguments_968.0_206.0_398.0 .
+:arguments_968.0_206.0_398.0 :nAryPred :interval_264 .
+:interval_264 :nAryPred :g2;
+      :from 5.0397117504E10 ;
+      :to 5.0397117593E10 ;
+      a :Interval.
+
+:entity_92.0 :argument_1_of :arguments_92.0_806.0_689.0 .
+:entity_806.0 :argument_2_of :arguments_92.0_806.0_689.0 .
+:entity_689.0 :argument_3_of :arguments_92.0_806.0_689.0 .
+:arguments_92.0_806.0_689.0 :nAryPred :interval_265 .
+:interval_265 :nAryPred :g2;
+      :from 5.8985878735E10 ;
+      :to 5.8985878815E10 ;
+      a :Interval.
+
+:entity_386.0 :argument_1_of :arguments_386.0_633.0_102.0 .
+:entity_633.0 :argument_2_of :arguments_386.0_633.0_102.0 .
+:entity_102.0 :argument_3_of :arguments_386.0_633.0_102.0 .
+:arguments_386.0_633.0_102.0 :nAryPred :interval_266 .
+:interval_266 :nAryPred :g2;
+      :from 5.8567081461E10 ;
+      :to 5.8567081584E10 ;
+      a :Interval.
+
+:entity_828.0 :argument_1_of :arguments_828.0_574.0_24.0 .
+:entity_574.0 :argument_2_of :arguments_828.0_574.0_24.0 .
+:entity_24.0 :argument_3_of :arguments_828.0_574.0_24.0 .
+:arguments_828.0_574.0_24.0 :nAryPred :interval_267 .
+:interval_267 :nAryPred :g2;
+      :from 5.5604229152E10 ;
+      :to 5.5604229259E10 ;
+      a :Interval.
+
+:entity_996.0 :argument_1_of :arguments_996.0_943.0_573.0 .
+:entity_943.0 :argument_2_of :arguments_996.0_943.0_573.0 .
+:entity_573.0 :argument_3_of :arguments_996.0_943.0_573.0 .
+:arguments_996.0_943.0_573.0 :nAryPred :interval_268 .
+:interval_268 :nAryPred :g2;
+      :from 5.188101315E10 ;
+      :to 5.188101326E10 ;
+      a :Interval.
+
+:entity_313.0 :argument_1_of :arguments_313.0_558.0_14.0 .
+:entity_558.0 :argument_2_of :arguments_313.0_558.0_14.0 .
+:entity_14.0 :argument_3_of :arguments_313.0_558.0_14.0 .
+:arguments_313.0_558.0_14.0 :nAryPred :interval_269 .
+:interval_269 :nAryPred :g2;
+      :from 5.05637773E10 ;
+      :to 5.0563777395E10 ;
+      a :Interval.
+
+:entity_458.0 :argument_1_of :arguments_458.0_598.0_359.0 .
+:entity_598.0 :argument_2_of :arguments_458.0_598.0_359.0 .
+:entity_359.0 :argument_3_of :arguments_458.0_598.0_359.0 .
+:arguments_458.0_598.0_359.0 :nAryPred :interval_270 .
+:interval_270 :nAryPred :g2;
+      :from 1.9075244726E10 ;
+      :to 1.9075244826E10 ;
+      a :Interval.
+
+:entity_722.0 :argument_1_of :arguments_722.0_880.0_418.0 .
+:entity_880.0 :argument_2_of :arguments_722.0_880.0_418.0 .
+:entity_418.0 :argument_3_of :arguments_722.0_880.0_418.0 .
+:arguments_722.0_880.0_418.0 :nAryPred :interval_271 .
+:interval_271 :nAryPred :g2;
+      :from 3.4893815168E10 ;
+      :to 3.4893815264E10 ;
+      a :Interval.
+
+:entity_526.0 :argument_1_of :arguments_526.0_590.0_835.0 .
+:entity_590.0 :argument_2_of :arguments_526.0_590.0_835.0 .
+:entity_835.0 :argument_3_of :arguments_526.0_590.0_835.0 .
+:arguments_526.0_590.0_835.0 :nAryPred :interval_272 .
+:interval_272 :nAryPred :g2;
+      :from 4.363254176E9 ;
+      :to 4.363254318E9 ;
+      a :Interval.
+
+:entity_525.0 :argument_1_of :arguments_525.0_392.0_449.0 .
+:entity_392.0 :argument_2_of :arguments_525.0_392.0_449.0 .
+:entity_449.0 :argument_3_of :arguments_525.0_392.0_449.0 .
+:arguments_525.0_392.0_449.0 :nAryPred :interval_273 .
+:interval_273 :nAryPred :g2;
+      :from 1.2043370768E10 ;
+      :to 1.2043370877E10 ;
+      a :Interval.
+
+:entity_723.0 :argument_1_of :arguments_723.0_364.0_452.0 .
+:entity_364.0 :argument_2_of :arguments_723.0_364.0_452.0 .
+:entity_452.0 :argument_3_of :arguments_723.0_364.0_452.0 .
+:arguments_723.0_364.0_452.0 :nAryPred :interval_274 .
+:interval_274 :nAryPred :g2;
+      :from 4.774097889E9 ;
+      :to 4.774097983E9 ;
+      a :Interval.
+
+:entity_336.0 :argument_1_of :arguments_336.0_693.0_916.0 .
+:entity_693.0 :argument_2_of :arguments_336.0_693.0_916.0 .
+:entity_916.0 :argument_3_of :arguments_336.0_693.0_916.0 .
+:arguments_336.0_693.0_916.0 :nAryPred :interval_275 .
+:interval_275 :nAryPred :g2;
+      :from 4.3688201E10 ;
+      :to 4.3688201093E10 ;
+      a :Interval.
+
+:entity_165.0 :argument_1_of :arguments_165.0_547.0_282.0 .
+:entity_547.0 :argument_2_of :arguments_165.0_547.0_282.0 .
+:entity_282.0 :argument_3_of :arguments_165.0_547.0_282.0 .
+:arguments_165.0_547.0_282.0 :nAryPred :interval_276 .
+:interval_276 :nAryPred :g2;
+      :from 2.1626437048E10 ;
+      :to 2.1626437166E10 ;
+      a :Interval.
+
+:entity_437.0 :argument_1_of :arguments_437.0_3.0_233.0 .
+:entity_3.0 :argument_2_of :arguments_437.0_3.0_233.0 .
+:entity_233.0 :argument_3_of :arguments_437.0_3.0_233.0 .
+:arguments_437.0_3.0_233.0 :nAryPred :interval_277 .
+:interval_277 :nAryPred :g2;
+      :from 5.0324287148E10 ;
+      :to 5.0324287242E10 ;
+      a :Interval.
+
+:entity_767.0 :argument_1_of :arguments_767.0_555.0_334.0 .
+:entity_555.0 :argument_2_of :arguments_767.0_555.0_334.0 .
+:entity_334.0 :argument_3_of :arguments_767.0_555.0_334.0 .
+:arguments_767.0_555.0_334.0 :nAryPred :interval_278 .
+:interval_278 :nAryPred :g2;
+      :from 2.4275013103E10 ;
+      :to 2.427501321E10 ;
+      a :Interval.
+
+:entity_179.0 :argument_1_of :arguments_179.0_210.0_515.0 .
+:entity_210.0 :argument_2_of :arguments_179.0_210.0_515.0 .
+:entity_515.0 :argument_3_of :arguments_179.0_210.0_515.0 .
+:arguments_179.0_210.0_515.0 :nAryPred :interval_279 .
+:interval_279 :nAryPred :g2;
+      :from 3.4257487703E10 ;
+      :to 3.425748782E10 ;
+      a :Interval.
+
+:entity_613.0 :argument_1_of :arguments_613.0_846.0_781.0 .
+:entity_846.0 :argument_2_of :arguments_613.0_846.0_781.0 .
+:entity_781.0 :argument_3_of :arguments_613.0_846.0_781.0 .
+:arguments_613.0_846.0_781.0 :nAryPred :interval_280 .
+:interval_280 :nAryPred :g2;
+      :from 5.0073084353E10 ;
+      :to 5.0073084438E10 ;
+      a :Interval.
+
+:entity_836.0 :argument_1_of :arguments_836.0_651.0_869.0 .
+:entity_651.0 :argument_2_of :arguments_836.0_651.0_869.0 .
+:entity_869.0 :argument_3_of :arguments_836.0_651.0_869.0 .
+:arguments_836.0_651.0_869.0 :nAryPred :interval_281 .
+:interval_281 :nAryPred :g2;
+      :from 4.485001919E9 ;
+      :to 4.48500203E9 ;
+      a :Interval.
+
+:entity_436.0 :argument_1_of :arguments_436.0_25.0_325.0 .
+:entity_25.0 :argument_2_of :arguments_436.0_25.0_325.0 .
+:entity_325.0 :argument_3_of :arguments_436.0_25.0_325.0 .
+:arguments_436.0_25.0_325.0 :nAryPred :interval_282 .
+:interval_282 :nAryPred :g2;
+      :from 5.4917435218E10 ;
+      :to 5.4917435312E10 ;
+      a :Interval.
+
+:entity_726.0 :argument_1_of :arguments_726.0_97.0_484.0 .
+:entity_97.0 :argument_2_of :arguments_726.0_97.0_484.0 .
+:entity_484.0 :argument_3_of :arguments_726.0_97.0_484.0 .
+:arguments_726.0_97.0_484.0 :nAryPred :interval_283 .
+:interval_283 :nAryPred :g2;
+      :from 2.4949006318E10 ;
+      :to 2.4949006425E10 ;
+      a :Interval.
+
+:entity_572.0 :argument_1_of :arguments_572.0_748.0_899.0 .
+:entity_748.0 :argument_2_of :arguments_572.0_748.0_899.0 .
+:entity_899.0 :argument_3_of :arguments_572.0_748.0_899.0 .
+:arguments_572.0_748.0_899.0 :nAryPred :interval_284 .
+:interval_284 :nAryPred :g2;
+      :from 2.2879524822E10 ;
+      :to 2.2879524936E10 ;
+      a :Interval.
+
+:entity_621.0 :argument_1_of :arguments_621.0_43.0_270.0 .
+:entity_43.0 :argument_2_of :arguments_621.0_43.0_270.0 .
+:entity_270.0 :argument_3_of :arguments_621.0_43.0_270.0 .
+:arguments_621.0_43.0_270.0 :nAryPred :interval_285 .
+:interval_285 :nAryPred :g2;
+      :from 3.8011086048E10 ;
+      :to 3.8011086146E10 ;
+      a :Interval.
+
+:entity_619.0 :argument_1_of :arguments_619.0_907.0_456.0 .
+:entity_907.0 :argument_2_of :arguments_619.0_907.0_456.0 .
+:entity_456.0 :argument_3_of :arguments_619.0_907.0_456.0 .
+:arguments_619.0_907.0_456.0 :nAryPred :interval_286 .
+:interval_286 :nAryPred :g2;
+      :from 9.09400565E8 ;
+      :to 9.09400653E8 ;
+      a :Interval.
+
+:entity_128.0 :argument_1_of :arguments_128.0_391.0_959.0 .
+:entity_391.0 :argument_2_of :arguments_128.0_391.0_959.0 .
+:entity_959.0 :argument_3_of :arguments_128.0_391.0_959.0 .
+:arguments_128.0_391.0_959.0 :nAryPred :interval_287 .
+:interval_287 :nAryPred :g2;
+      :from 4.7897590927E10 ;
+      :to 4.7897591014E10 ;
+      a :Interval.
+
+:entity_122.0 :argument_1_of :arguments_122.0_28.0_911.0 .
+:entity_28.0 :argument_2_of :arguments_122.0_28.0_911.0 .
+:entity_911.0 :argument_3_of :arguments_122.0_28.0_911.0 .
+:arguments_122.0_28.0_911.0 :nAryPred :interval_288 .
+:interval_288 :nAryPred :g2;
+      :from 1.9996408551E10 ;
+      :to 1.9996408647E10 ;
+      a :Interval.
+
+:entity_531.0 :argument_1_of :arguments_531.0_280.0_904.0 .
+:entity_280.0 :argument_2_of :arguments_531.0_280.0_904.0 .
+:entity_904.0 :argument_3_of :arguments_531.0_280.0_904.0 .
+:arguments_531.0_280.0_904.0 :nAryPred :interval_289 .
+:interval_289 :nAryPred :g2;
+      :from 4.8903191153E10 ;
+      :to 4.8903191216E10 ;
+      a :Interval.
+
+:entity_151.0 :argument_1_of :arguments_151.0_335.0_203.0 .
+:entity_335.0 :argument_2_of :arguments_151.0_335.0_203.0 .
+:entity_203.0 :argument_3_of :arguments_151.0_335.0_203.0 .
+:arguments_151.0_335.0_203.0 :nAryPred :interval_290 .
+:interval_290 :nAryPred :g2;
+      :from 7.609278108E9 ;
+      :to 7.609278213E9 ;
+      a :Interval.
+
+:entity_375.0 :argument_1_of :arguments_375.0_552.0_950.0 .
+:entity_552.0 :argument_2_of :arguments_375.0_552.0_950.0 .
+:entity_950.0 :argument_3_of :arguments_375.0_552.0_950.0 .
+:arguments_375.0_552.0_950.0 :nAryPred :interval_291 .
+:interval_291 :nAryPred :g2;
+      :from 2.3421618847E10 ;
+      :to 2.3421618952E10 ;
+      a :Interval.
+
+:entity_338.0 :argument_1_of :arguments_338.0_765.0_152.0 .
+:entity_765.0 :argument_2_of :arguments_338.0_765.0_152.0 .
+:entity_152.0 :argument_3_of :arguments_338.0_765.0_152.0 .
+:arguments_338.0_765.0_152.0 :nAryPred :interval_292 .
+:interval_292 :nAryPred :g2;
+      :from 4.3408408788E10 ;
+      :to 4.3408408865E10 ;
+      a :Interval.
+
+:entity_440.0 :argument_1_of :arguments_440.0_342.0_877.0 .
+:entity_342.0 :argument_2_of :arguments_440.0_342.0_877.0 .
+:entity_877.0 :argument_3_of :arguments_440.0_342.0_877.0 .
+:arguments_440.0_342.0_877.0 :nAryPred :interval_293 .
+:interval_293 :nAryPred :g2;
+      :from 3.6137601163E10 ;
+      :to 3.6137601246E10 ;
+      a :Interval.
+
+:entity_585.0 :argument_1_of :arguments_585.0_389.0_219.0 .
+:entity_389.0 :argument_2_of :arguments_585.0_389.0_219.0 .
+:entity_219.0 :argument_3_of :arguments_585.0_389.0_219.0 .
+:arguments_585.0_389.0_219.0 :nAryPred :interval_294 .
+:interval_294 :nAryPred :g2;
+      :from 1.823914961E9 ;
+      :to 1.823915061E9 ;
+      a :Interval.
+
+:entity_741.0 :argument_1_of :arguments_741.0_173.0_595.0 .
+:entity_173.0 :argument_2_of :arguments_741.0_173.0_595.0 .
+:entity_595.0 :argument_3_of :arguments_741.0_173.0_595.0 .
+:arguments_741.0_173.0_595.0 :nAryPred :interval_295 .
+:interval_295 :nAryPred :g2;
+      :from 1.2127585826E10 ;
+      :to 1.2127585917E10 ;
+      a :Interval.
+
+:entity_466.0 :argument_1_of :arguments_466.0_96.0_6.0 .
+:entity_96.0 :argument_2_of :arguments_466.0_96.0_6.0 .
+:entity_6.0 :argument_3_of :arguments_466.0_96.0_6.0 .
+:arguments_466.0_96.0_6.0 :nAryPred :interval_296 .
+:interval_296 :nAryPred :g2;
+      :from 2.4379889767E10 ;
+      :to 2.4379889845E10 ;
+      a :Interval.
+
+:entity_775.0 :argument_1_of :arguments_775.0_651.0_839.0 .
+:entity_651.0 :argument_2_of :arguments_775.0_651.0_839.0 .
+:entity_839.0 :argument_3_of :arguments_775.0_651.0_839.0 .
+:arguments_775.0_651.0_839.0 :nAryPred :interval_297 .
+:interval_297 :nAryPred :g2;
+      :from 4.3233376395E10 ;
+      :to 4.3233376516E10 ;
+      a :Interval.
+
+:entity_334.0 :argument_1_of :arguments_334.0_143.0_245.0 .
+:entity_143.0 :argument_2_of :arguments_334.0_143.0_245.0 .
+:entity_245.0 :argument_3_of :arguments_334.0_143.0_245.0 .
+:arguments_334.0_143.0_245.0 :nAryPred :interval_298 .
+:interval_298 :nAryPred :g2;
+      :from 1.00438283E10 ;
+      :to 1.0043828393E10 ;
+      a :Interval.
+
+:entity_294.0 :argument_1_of :arguments_294.0_142.0_934.0 .
+:entity_142.0 :argument_2_of :arguments_294.0_142.0_934.0 .
+:entity_934.0 :argument_3_of :arguments_294.0_142.0_934.0 .
+:arguments_294.0_142.0_934.0 :nAryPred :interval_299 .
+:interval_299 :nAryPred :g2;
+      :from 1.9910520726E10 ;
+      :to 1.9910520822E10 ;
+      a :Interval.
+
+:entity_607.0 :argument_1_of :arguments_607.0_669.0_590.0 .
+:entity_669.0 :argument_2_of :arguments_607.0_669.0_590.0 .
+:entity_590.0 :argument_3_of :arguments_607.0_669.0_590.0 .
+:arguments_607.0_669.0_590.0 :nAryPred :interval_300 .
+:interval_300 :nAryPred :g2;
+      :from 5.8415197502E10 ;
+      :to 5.8415197602E10 ;
+      a :Interval.
+
+:entity_841.0 :argument_1_of :arguments_841.0_755.0_624.0 .
+:entity_755.0 :argument_2_of :arguments_841.0_755.0_624.0 .
+:entity_624.0 :argument_3_of :arguments_841.0_755.0_624.0 .
+:arguments_841.0_755.0_624.0 :nAryPred :interval_301 .
+:interval_301 :nAryPred :g2;
+      :from 1.872476283E10 ;
+      :to 1.8724762929E10 ;
+      a :Interval.
+
+:entity_990.0 :argument_1_of :arguments_990.0_923.0_609.0 .
+:entity_923.0 :argument_2_of :arguments_990.0_923.0_609.0 .
+:entity_609.0 :argument_3_of :arguments_990.0_923.0_609.0 .
+:arguments_990.0_923.0_609.0 :nAryPred :interval_302 .
+:interval_302 :nAryPred :g2;
+      :from 8.251981557E9 ;
+      :to 8.251981647E9 ;
+      a :Interval.
+
+:entity_949.0 :argument_1_of :arguments_949.0_6.0_661.0 .
+:entity_6.0 :argument_2_of :arguments_949.0_6.0_661.0 .
+:entity_661.0 :argument_3_of :arguments_949.0_6.0_661.0 .
+:arguments_949.0_6.0_661.0 :nAryPred :interval_303 .
+:interval_303 :nAryPred :g2;
+      :from 2.9904629759E10 ;
+      :to 2.9904629837E10 ;
+      a :Interval.
+
+:entity_831.0 :argument_1_of :arguments_831.0_134.0_880.0 .
+:entity_134.0 :argument_2_of :arguments_831.0_134.0_880.0 .
+:entity_880.0 :argument_3_of :arguments_831.0_134.0_880.0 .
+:arguments_831.0_134.0_880.0 :nAryPred :interval_304 .
+:interval_304 :nAryPred :g2;
+      :from 5.2974552965E10 ;
+      :to 5.2974553046E10 ;
+      a :Interval.
+
+:entity_967.0 :argument_1_of :arguments_967.0_821.0_502.0 .
+:entity_821.0 :argument_2_of :arguments_967.0_821.0_502.0 .
+:entity_502.0 :argument_3_of :arguments_967.0_821.0_502.0 .
+:arguments_967.0_821.0_502.0 :nAryPred :interval_305 .
+:interval_305 :nAryPred :g2;
+      :from 1.1326865521E10 ;
+      :to 1.1326865621E10 ;
+      a :Interval.
+
+:entity_530.0 :argument_1_of :arguments_530.0_425.0_971.0 .
+:entity_425.0 :argument_2_of :arguments_530.0_425.0_971.0 .
+:entity_971.0 :argument_3_of :arguments_530.0_425.0_971.0 .
+:arguments_530.0_425.0_971.0 :nAryPred :interval_306 .
+:interval_306 :nAryPred :g2;
+      :from 5.30167147E8 ;
+      :to 5.30167234E8 ;
+      a :Interval.
+
+:entity_858.0 :argument_1_of :arguments_858.0_964.0_874.0 .
+:entity_964.0 :argument_2_of :arguments_858.0_964.0_874.0 .
+:entity_874.0 :argument_3_of :arguments_858.0_964.0_874.0 .
+:arguments_858.0_964.0_874.0 :nAryPred :interval_307 .
+:interval_307 :nAryPred :g2;
+      :from 3.8843739985E10 ;
+      :to 3.8843740083E10 ;
+      a :Interval.
+
+:entity_672.0 :argument_1_of :arguments_672.0_126.0_729.0 .
+:entity_126.0 :argument_2_of :arguments_672.0_126.0_729.0 .
+:entity_729.0 :argument_3_of :arguments_672.0_126.0_729.0 .
+:arguments_672.0_126.0_729.0 :nAryPred :interval_308 .
+:interval_308 :nAryPred :g2;
+      :from 3.8764775686E10 ;
+      :to 3.8764775794E10 ;
+      a :Interval.
+
+:entity_213.0 :argument_1_of :arguments_213.0_352.0_97.0 .
+:entity_352.0 :argument_2_of :arguments_213.0_352.0_97.0 .
+:entity_97.0 :argument_3_of :arguments_213.0_352.0_97.0 .
+:arguments_213.0_352.0_97.0 :nAryPred :interval_309 .
+:interval_309 :nAryPred :g2;
+      :from 1.5710020216E10 ;
+      :to 1.5710020313E10 ;
+      a :Interval.
+
+:g3 a :BinaryPredicate .
+
+:entity_23.0 :g3 :interval_311 .
+:interval_311 :g3 :entity_103.0;
+      :from 3.9087431645E10 ;
+      :to 3.9087431788E10 ;
+      a :Interval.
+
+:entity_717.0 :g3 :interval_312 .
+:interval_312 :g3 :entity_870.0;
+      :from 5.0324189568E10 ;
+      :to 5.0324189675E10 ;
+      a :Interval.
+
+:entity_923.0 :g3 :interval_313 .
+:interval_313 :g3 :entity_609.0;
+      :from 8.251981548E9 ;
+      :to 8.251981652E9 ;
+      a :Interval.
+
+:entity_59.0 :g3 :interval_314 .
+:interval_314 :g3 :entity_778.0;
+      :from 2.8718088951E10 ;
+      :to 2.8718089067E10 ;
+      a :Interval.
+
+:entity_43.0 :g3 :interval_315 .
+:interval_315 :g3 :entity_270.0;
+      :from 3.8011086041E10 ;
+      :to 3.8011086153E10 ;
+      a :Interval.
+
+:entity_389.0 :g3 :interval_316 .
+:interval_316 :g3 :entity_219.0;
+      :from 1.823914944E9 ;
+      :to 1.823915057E9 ;
+      a :Interval.
+
+:entity_317.0 :g3 :interval_317 .
+:interval_317 :g3 :entity_771.0;
+      :from 4.5223897967E10 ;
+      :to 4.5223898076E10 ;
+      a :Interval.
+
+:entity_148.0 :g3 :interval_318 .
+:interval_318 :g3 :entity_576.0;
+      :from 3.7412983948E10 ;
+      :to 3.7412984037E10 ;
+      a :Interval.
+
+:entity_634.0 :g3 :interval_319 .
+:interval_319 :g3 :entity_338.0;
+      :from 1.5512802805E10 ;
+      :to 1.5512802924E10 ;
+      a :Interval.
+
+:entity_401.0 :g3 :interval_320 .
+:interval_320 :g3 :entity_232.0;
+      :from 4.575212602E10 ;
+      :to 4.5752126159E10 ;
+      a :Interval.
+
+:entity_383.0 :g3 :interval_321 .
+:interval_321 :g3 :entity_45.0;
+      :from 2.628908218E10 ;
+      :to 2.6289082313E10 ;
+      a :Interval.
+
+:entity_337.0 :g3 :interval_322 .
+:interval_322 :g3 :entity_9.0;
+      :from 3.2743758371E10 ;
+      :to 3.2743758478E10 ;
+      a :Interval.
+
+:entity_555.0 :g3 :interval_323 .
+:interval_323 :g3 :entity_98.0;
+      :from 1.583445256E10 ;
+      :to 1.5834452681E10 ;
+      a :Interval.
+
+:entity_574.0 :g3 :interval_324 .
+:interval_324 :g3 :entity_24.0;
+      :from 5.5604229155E10 ;
+      :to 5.5604229279E10 ;
+      a :Interval.
+
+:entity_547.0 :g3 :interval_325 .
+:interval_325 :g3 :entity_282.0;
+      :from 2.1626437033E10 ;
+      :to 2.162643718E10 ;
+      a :Interval.
+
+:entity_591.0 :g3 :interval_326 .
+:interval_326 :g3 :entity_513.0;
+      :from 4.010934671E9 ;
+      :to 4.010934788E9 ;
+      a :Interval.
+
+:entity_36.0 :g3 :interval_327 .
+:interval_327 :g3 :entity_467.0;
+      :from 4.9421863818E10 ;
+      :to 4.9421863967E10 ;
+      a :Interval.
+
+:entity_675.0 :g3 :interval_328 .
+:interval_328 :g3 :entity_876.0;
+      :from 2.7435200534E10 ;
+      :to 2.7435200659E10 ;
+      a :Interval.
+
+:entity_318.0 :g3 :interval_329 .
+:interval_329 :g3 :entity_180.0;
+      :from 1.7536286117E10 ;
+      :to 1.7536286243E10 ;
+      a :Interval.
+
+:entity_206.0 :g3 :interval_330 .
+:interval_330 :g3 :entity_398.0;
+      :from 5.0397117489E10 ;
+      :to 5.0397117601E10 ;
+      a :Interval.
+
+:entity_431.0 :g3 :interval_331 .
+:interval_331 :g3 :entity_202.0;
+      :from 9.87827431E9 ;
+      :to 9.87827445E9 ;
+      a :Interval.
+
+:entity_391.0 :g3 :interval_332 .
+:interval_332 :g3 :entity_687.0;
+      :from 5.4375759335E10 ;
+      :to 5.4375759442E10 ;
+      a :Interval.
+
+:entity_825.0 :g3 :interval_333 .
+:interval_333 :g3 :entity_77.0;
+      :from 4.1950103769E10 ;
+      :to 4.195010388E10 ;
+      a :Interval.
+
+:entity_685.0 :g3 :interval_334 .
+:interval_334 :g3 :entity_508.0;
+      :from 0.0 ;
+      :to 124.0 ;
+      a :Interval.
+
+:entity_288.0 :g3 :interval_335 .
+:interval_335 :g3 :entity_429.0;
+      :from 6.0033323586E10 ;
+      :to 6.0033323692E10 ;
+      a :Interval.
+
+:entity_173.0 :g3 :interval_336 .
+:interval_336 :g3 :entity_595.0;
+      :from 1.2127585822E10 ;
+      :to 1.2127585925E10 ;
+      a :Interval.
+
+:entity_571.0 :g3 :interval_337 .
+:interval_337 :g3 :entity_220.0;
+      :from 1.8635324067E10 ;
+      :to 1.8635324149E10 ;
+      a :Interval.
+
+:entity_87.0 :g3 :interval_338 .
+:interval_338 :g3 :entity_662.0;
+      :from 4.7599838056E10 ;
+      :to 4.7599838186E10 ;
+      a :Interval.
+
+:entity_552.0 :g3 :interval_339 .
+:interval_339 :g3 :entity_950.0;
+      :from 2.342161883E10 ;
+      :to 2.3421618967E10 ;
+      a :Interval.
+
+:entity_598.0 :g3 :interval_340 .
+:interval_340 :g3 :entity_359.0;
+      :from 1.9075244709E10 ;
+      :to 1.9075244841E10 ;
+      a :Interval.
+
+:entity_215.0 :g3 :interval_341 .
+:interval_341 :g3 :entity_872.0;
+      :from 2.1641291811E10 ;
+      :to 2.1641291965E10 ;
+      a :Interval.
+
+:entity_119.0 :g3 :interval_342 .
+:interval_342 :g3 :entity_621.0;
+      :from 1.9598897932E10 ;
+      :to 1.9598898067E10 ;
+      a :Interval.
+
+:entity_758.0 :g3 :interval_343 .
+:interval_343 :g3 :entity_276.0;
+      :from 4.5076086515E10 ;
+      :to 4.5076086627E10 ;
+      a :Interval.
+
+:entity_669.0 :g3 :interval_344 .
+:interval_344 :g3 :entity_590.0;
+      :from 5.8415197492E10 ;
+      :to 5.8415197615E10 ;
+      a :Interval.
+
+:entity_309.0 :g3 :interval_345 .
+:interval_345 :g3 :entity_195.0;
+      :from 1.9158451247E10 ;
+      :to 1.9158451368E10 ;
+      a :Interval.
+
+:entity_199.0 :g3 :interval_346 .
+:interval_346 :g3 :entity_145.0;
+      :from 3.9179923625E10 ;
+      :to 3.9179923765E10 ;
+      a :Interval.
+
+:entity_693.0 :g3 :interval_347 .
+:interval_347 :g3 :entity_916.0;
+      :from 4.3688200981E10 ;
+      :to 4.3688201098E10 ;
+      a :Interval.
+
+:entity_4.0 :g3 :interval_348 .
+:interval_348 :g3 :entity_417.0;
+      :from 7.536626803E9 ;
+      :to 7.536626907E9 ;
+      a :Interval.
+
+:entity_172.0 :g3 :interval_349 .
+:interval_349 :g3 :entity_439.0;
+      :from 8.306763338E9 ;
+      :to 8.306763459E9 ;
+      a :Interval.
+
+:entity_352.0 :g3 :interval_350 .
+:interval_350 :g3 :entity_97.0;
+      :from 1.5710020211E10 ;
+      :to 1.5710020318E10 ;
+      a :Interval.
+
+:entity_299.0 :g3 :interval_351 .
+:interval_351 :g3 :entity_938.0;
+      :from 5.0295782144E10 ;
+      :to 5.0295782275E10 ;
+      a :Interval.
+
+:entity_837.0 :g3 :interval_352 .
+:interval_352 :g3 :entity_247.0;
+      :from 4.225812761E9 ;
+      :to 4.225812858E9 ;
+      a :Interval.
+
+:entity_147.0 :g3 :interval_353 .
+:interval_353 :g3 :entity_23.0;
+      :from 3.5549970775E10 ;
+      :to 3.5549970895E10 ;
+      a :Interval.
+
+:entity_342.0 :g3 :interval_354 .
+:interval_354 :g3 :entity_877.0;
+      :from 3.6137601149E10 ;
+      :to 3.6137601259E10 ;
+      a :Interval.
+
+:entity_725.0 :g3 :interval_355 .
+:interval_355 :g3 :entity_871.0;
+      :from 1.6159250189E10 ;
+      :to 1.6159250283E10 ;
+      a :Interval.
+
+:entity_322.0 :g3 :interval_356 .
+:interval_356 :g3 :entity_327.0;
+      :from 3.2797580392E10 ;
+      :to 3.2797580527E10 ;
+      a :Interval.
+
+:entity_996.0 :g3 :interval_357 .
+:interval_357 :g3 :entity_636.0;
+      :from 4.9821751766E10 ;
+      :to 4.9821751889E10 ;
+      a :Interval.
+
+:entity_695.0 :g3 :interval_358 .
+:interval_358 :g3 :entity_991.0;
+      :from 6.826417842E9 ;
+      :to 6.826417989E9 ;
+      a :Interval.
+
+:entity_942.0 :g3 :interval_359 .
+:interval_359 :g3 :entity_228.0;
+      :from 4.6507578538E10 ;
+      :to 4.6507578655E10 ;
+      a :Interval.
+
+:entity_28.0 :g3 :interval_360 .
+:interval_360 :g3 :entity_911.0;
+      :from 1.999640853E10 ;
+      :to 1.9996408653E10 ;
+      a :Interval.
+
+:entity_386.0 :g3 :interval_361 .
+:interval_361 :g3 :entity_308.0;
+      :from 4.1155375825E10 ;
+      :to 4.1155375939E10 ;
+      a :Interval.
+
+:entity_646.0 :g3 :interval_362 .
+:interval_362 :g3 :entity_959.0;
+      :from 3.8655778456E10 ;
+      :to 3.8655778617E10 ;
+      a :Interval.
+
+:entity_272.0 :g3 :interval_363 .
+:interval_363 :g3 :entity_820.0;
+      :from 1.3362382483E10 ;
+      :to 1.3362382611E10 ;
+      a :Interval.
+
+:entity_96.0 :g3 :interval_364 .
+:interval_364 :g3 :entity_6.0;
+      :from 2.4379889742E10 ;
+      :to 2.4379889854E10 ;
+      a :Interval.
+
+:entity_126.0 :g3 :interval_365 .
+:interval_365 :g3 :entity_613.0;
+      :from 2.879732239E9 ;
+      :to 2.879732357E9 ;
+      a :Interval.
+
+:entity_178.0 :g3 :interval_366 .
+:interval_366 :g3 :entity_757.0;
+      :from 4.4076044967E10 ;
+      :to 4.4076045108E10 ;
+      a :Interval.
+
+:entity_187.0 :g3 :interval_367 .
+:interval_367 :g3 :entity_709.0;
+      :from 9.786162962E9 ;
+      :to 9.786163118E9 ;
+      a :Interval.
+
+:entity_831.0 :g3 :interval_368 .
+:interval_368 :g3 :entity_551.0;
+      :from 3.7528834577E10 ;
+      :to 3.7528834674E10 ;
+      a :Interval.
+
+:entity_410.0 :g3 :interval_369 .
+:interval_369 :g3 :entity_441.0;
+      :from 4.275703192E9 ;
+      :to 4.275703301E9 ;
+      a :Interval.
+
+:entity_369.0 :g3 :interval_370 .
+:interval_370 :g3 :entity_272.0;
+      :from 4.0809496779E10 ;
+      :to 4.0809496879E10 ;
+      a :Interval.
+
+:entity_25.0 :g3 :interval_371 .
+:interval_371 :g3 :entity_325.0;
+      :from 5.4917435205E10 ;
+      :to 5.4917435321E10 ;
+      a :Interval.
+
+:entity_827.0 :g3 :interval_372 .
+:interval_372 :g3 :entity_256.0;
+      :from 3.2925582539E10 ;
+      :to 3.292558261E10 ;
+      a :Interval.
+
+:entity_233.0 :g3 :interval_373 .
+:interval_373 :g3 :entity_604.0;
+      :from 5.5402940856E10 ;
+      :to 5.5402940935E10 ;
+      a :Interval.
+
+:entity_750.0 :g3 :interval_374 .
+:interval_374 :g3 :entity_395.0;
+      :from 5.62658716E8 ;
+      :to 5.6265883E8 ;
+      a :Interval.
+
+:entity_761.0 :g3 :interval_375 .
+:interval_375 :g3 :entity_843.0;
+      :from 3.1861290823E10 ;
+      :to 3.1861290947E10 ;
+      a :Interval.
+
+:entity_413.0 :g3 :interval_376 .
+:interval_376 :g3 :entity_27.0;
+      :from 2.1469836468E10 ;
+      :to 2.1469836593E10 ;
+      a :Interval.
+
+:entity_203.0 :g3 :interval_377 .
+:interval_377 :g3 :entity_441.0;
+      :from 2.8840494767E10 ;
+      :to 2.884049489E10 ;
+      a :Interval.
+
+:entity_715.0 :g3 :interval_378 .
+:interval_378 :g3 :entity_247.0;
+      :from 1.7767972403E10 ;
+      :to 1.7767972545E10 ;
+      a :Interval.
+
+:entity_362.0 :g3 :interval_379 .
+:interval_379 :g3 :entity_480.0;
+      :from 2.1066468838E10 ;
+      :to 2.1066468966E10 ;
+      a :Interval.
+
+:entity_751.0 :g3 :interval_380 .
+:interval_380 :g3 :entity_119.0;
+      :from 4.1643594561E10 ;
+      :to 4.1643594651E10 ;
+      a :Interval.
+
+:entity_538.0 :g3 :interval_381 .
+:interval_381 :g3 :entity_314.0;
+      :from 3.7433778518E10 ;
+      :to 3.7433778655E10 ;
+      a :Interval.
+
+:entity_732.0 :g3 :interval_382 .
+:interval_382 :g3 :entity_433.0;
+      :from 1.917645828E9 ;
+      :to 1.917645925E9 ;
+      a :Interval.
+
+:entity_6.0 :g3 :interval_383 .
+:interval_383 :g3 :entity_661.0;
+      :from 2.9904629731E10 ;
+      :to 2.9904629847E10 ;
+      a :Interval.
+
+:entity_755.0 :g3 :interval_384 .
+:interval_384 :g3 :entity_624.0;
+      :from 1.8724762808E10 ;
+      :to 1.8724762942E10 ;
+      a :Interval.
+
+:entity_550.0 :g3 :interval_385 .
+:interval_385 :g3 :entity_378.0;
+      :from 5.377482542E9 ;
+      :to 5.377482669E9 ;
+      a :Interval.
+
+:entity_633.0 :g3 :interval_386 .
+:interval_386 :g3 :entity_102.0;
+      :from 5.8567081468E10 ;
+      :to 5.8567081594E10 ;
+      a :Interval.
+
+:entity_499.0 :g3 :interval_387 .
+:interval_387 :g3 :entity_915.0;
+      :from 2.63423342E9 ;
+      :to 2.63423356E9 ;
+      a :Interval.
+
+:entity_210.0 :g3 :interval_388 .
+:interval_388 :g3 :entity_515.0;
+      :from 3.4257487706E10 ;
+      :to 3.4257487828E10 ;
+      a :Interval.
+
+:entity_700.0 :g3 :interval_389 .
+:interval_389 :g3 :entity_233.0;
+      :from 3.5620222817E10 ;
+      :to 3.5620222941E10 ;
+      a :Interval.
+
+:entity_391.0 :g3 :interval_390 .
+:interval_390 :g3 :entity_959.0;
+      :from 4.7897590914E10 ;
+      :to 4.7897591043E10 ;
+      a :Interval.
+
+:entity_613.0 :g3 :interval_391 .
+:interval_391 :g3 :entity_823.0;
+      :from 5.8516125301E10 ;
+      :to 5.851612546E10 ;
+      a :Interval.
+
+:entity_651.0 :g3 :interval_392 .
+:interval_392 :g3 :entity_869.0;
+      :from 4.48500191E9 ;
+      :to 4.485002036E9 ;
+      a :Interval.
+
+:entity_821.0 :g3 :interval_393 .
+:interval_393 :g3 :entity_502.0;
+      :from 1.1326865512E10 ;
+      :to 1.1326865625E10 ;
+      a :Interval.
+
+:entity_735.0 :g3 :interval_394 .
+:interval_394 :g3 :entity_808.0;
+      :from 6.0714535013E10 ;
+      :to 6.0714535122E10 ;
+      a :Interval.
+
+:entity_137.0 :g3 :interval_395 .
+:interval_395 :g3 :entity_885.0;
+      :from 3.5976252316E10 ;
+      :to 3.5976252447E10 ;
+      a :Interval.
+
+:entity_867.0 :g3 :interval_396 .
+:interval_396 :g3 :entity_804.0;
+      :from 2.8697041555E10 ;
+      :to 2.8697041701E10 ;
+      a :Interval.
+
+:entity_331.0 :g3 :interval_397 .
+:interval_397 :g3 :entity_869.0;
+      :from 7.91219781E9 ;
+      :to 7.912197929E9 ;
+      a :Interval.
+
+:entity_361.0 :g3 :interval_398 .
+:interval_398 :g3 :entity_107.0;
+      :from 1.3671216635E10 ;
+      :to 1.3671216728E10 ;
+      a :Interval.
+
+:entity_346.0 :g3 :interval_399 .
+:interval_399 :g3 :entity_656.0;
+      :from 2.2957706475E10 ;
+      :to 2.2957706582E10 ;
+      a :Interval.
+
+:entity_827.0 :g3 :interval_400 .
+:interval_400 :g3 :entity_380.0;
+      :from 4.5561886838E10 ;
+      :to 4.5561886951E10 ;
+      a :Interval.
+
+:entity_425.0 :g3 :interval_401 .
+:interval_401 :g3 :entity_344.0;
+      :from 3.8011591218E10 ;
+      :to 3.8011591346E10 ;
+      a :Interval.
+
+:entity_678.0 :g3 :interval_402 .
+:interval_402 :g3 :entity_120.0;
+      :from 4.7488812585E10 ;
+      :to 4.7488812698E10 ;
+      a :Interval.
+
+:entity_468.0 :g3 :interval_403 .
+:interval_403 :g3 :entity_176.0;
+      :from 6.1330775187E10 ;
+      :to 6.1330775328E10 ;
+      a :Interval.
+
+:entity_859.0 :g3 :interval_404 .
+:interval_404 :g3 :entity_206.0;
+      :from 3.6658446329E10 ;
+      :to 3.6658446434E10 ;
+      a :Interval.
+
+:entity_420.0 :g3 :interval_405 .
+:interval_405 :g3 :entity_437.0;
+      :from 1.9530735275E10 ;
+      :to 1.9530735379E10 ;
+      a :Interval.
+
+:entity_139.0 :g3 :interval_406 .
+:interval_406 :g3 :entity_638.0;
+      :from 2.4028662671E10 ;
+      :to 2.4028662785E10 ;
+      a :Interval.
+
+:entity_911.0 :g3 :interval_407 .
+:interval_407 :g3 :entity_671.0;
+      :from 4.4247031849E10 ;
+      :to 4.4247031968E10 ;
+      a :Interval.
+
+:entity_375.0 :g3 :interval_408 .
+:interval_408 :g3 :entity_962.0;
+      :from 5.61645059E8 ;
+      :to 5.61645169E8 ;
+      a :Interval.
+
+:entity_3.0 :g3 :interval_409 .
+:interval_409 :g3 :entity_233.0;
+      :from 5.0324287135E10 ;
+      :to 5.0324287244E10 ;
+      a :Interval.
+
+:entity_335.0 :g3 :interval_410 .
+:interval_410 :g3 :entity_203.0;
+      :from 7.609278098E9 ;
+      :to 7.609278233E9 ;
+      a :Interval.
+
+:entity_143.0 :g3 :interval_411 .
+:interval_411 :g3 :entity_245.0;
+      :from 1.0043828284E10 ;
+      :to 1.0043828401E10 ;
+      a :Interval.
+
+:entity_392.0 :g3 :interval_412 .
+:interval_412 :g3 :entity_449.0;
+      :from 1.2043370753E10 ;
+      :to 1.2043370881E10 ;
+      a :Interval.
+
+:entity_262.0 :g3 :interval_413 .
+:interval_413 :g3 :entity_217.0;
+      :from 2.0890275035E10 ;
+      :to 2.0890275183E10 ;
+      a :Interval.
+
+:entity_907.0 :g3 :interval_414 .
+:interval_414 :g3 :entity_456.0;
+      :from 9.09400546E8 ;
+      :to 9.09400667E8 ;
+      a :Interval.
+
+:entity_943.0 :g3 :interval_415 .
+:interval_415 :g3 :entity_573.0;
+      :from 5.1881013144E10 ;
+      :to 5.1881013279E10 ;
+      a :Interval.
+
+:entity_386.0 :g3 :interval_416 .
+:interval_416 :g3 :entity_160.0;
+      :from 5.9275362632E10 ;
+      :to 5.9275362746E10 ;
+      a :Interval.
+
+:entity_517.0 :g3 :interval_417 .
+:interval_417 :g3 :entity_840.0;
+      :from 2.44481118E9 ;
+      :to 2.444811311E9 ;
+      a :Interval.
+
+:entity_772.0 :g3 :interval_418 .
+:interval_418 :g3 :entity_655.0;
+      :from 1.0064642576E10 ;
+      :to 1.0064642687E10 ;
+      a :Interval.
+
+:entity_275.0 :g3 :interval_419 .
+:interval_419 :g3 :entity_674.0;
+      :from 1.1700911372E10 ;
+      :to 1.1700911512E10 ;
+      a :Interval.
+
+:g4 :hasArity 3.
+
+:entity_265.0 :argument_1_of :arguments_265.0_932.0_348.0 .
+:entity_932.0 :argument_2_of :arguments_265.0_932.0_348.0 .
+:entity_348.0 :argument_3_of :arguments_265.0_932.0_348.0 .
+:arguments_265.0_932.0_348.0 :nAryPred :interval_421 .
+:interval_421 :nAryPred :g4;
+      :from 4.1737940573E10 ;
+      :to 4.1737940645E10 ;
+      a :Interval.
+
+:entity_9.0 :argument_1_of :arguments_9.0_662.0_337.0 .
+:entity_662.0 :argument_2_of :arguments_9.0_662.0_337.0 .
+:entity_337.0 :argument_3_of :arguments_9.0_662.0_337.0 .
+:arguments_9.0_662.0_337.0 :nAryPred :interval_422 .
+:interval_422 :nAryPred :g4;
+      :from 3.2743758398E10 ;
+      :to 3.2743758457E10 ;
+      a :Interval.
+
+:entity_934.0 :argument_1_of :arguments_934.0_294.0_142.0 .
+:entity_294.0 :argument_2_of :arguments_934.0_294.0_142.0 .
+:entity_142.0 :argument_3_of :arguments_934.0_294.0_142.0 .
+:arguments_934.0_294.0_142.0 :nAryPred :interval_423 .
+:interval_423 :nAryPred :g4;
+      :from 1.9910520748E10 ;
+      :to 1.9910520803E10 ;
+      a :Interval.
+
+:entity_662.0 :argument_1_of :arguments_662.0_8.0_87.0 .
+:entity_8.0 :argument_2_of :arguments_662.0_8.0_87.0 .
+:entity_87.0 :argument_3_of :arguments_662.0_8.0_87.0 .
+:arguments_662.0_8.0_87.0 :nAryPred :interval_424 .
+:interval_424 :nAryPred :g4;
+      :from 4.7599838081E10 ;
+      :to 4.7599838165E10 ;
+      a :Interval.
+
+:entity_737.0 :argument_1_of :arguments_737.0_485.0_566.0 .
+:entity_485.0 :argument_2_of :arguments_737.0_485.0_566.0 .
+:entity_566.0 :argument_3_of :arguments_737.0_485.0_566.0 .
+:arguments_737.0_485.0_566.0 :nAryPred :interval_425 .
+:interval_425 :nAryPred :g4;
+      :from 3.1667648347E10 ;
+      :to 3.1667648421E10 ;
+      a :Interval.
+
+:entity_480.0 :argument_1_of :arguments_480.0_393.0_362.0 .
+:entity_393.0 :argument_2_of :arguments_480.0_393.0_362.0 .
+:entity_362.0 :argument_3_of :arguments_480.0_393.0_362.0 .
+:arguments_480.0_393.0_362.0 :nAryPred :interval_426 .
+:interval_426 :nAryPred :g4;
+      :from 2.1066468871E10 ;
+      :to 2.1066468923E10 ;
+      a :Interval.
+
+:entity_885.0 :argument_1_of :arguments_885.0_409.0_137.0 .
+:entity_409.0 :argument_2_of :arguments_885.0_409.0_137.0 .
+:entity_137.0 :argument_3_of :arguments_885.0_409.0_137.0 .
+:arguments_885.0_409.0_137.0 :nAryPred :interval_427 .
+:interval_427 :nAryPred :g4;
+      :from 3.5976252348E10 ;
+      :to 3.5976252413E10 ;
+      a :Interval.
+
+:entity_417.0 :argument_1_of :arguments_417.0_534.0_4.0 .
+:entity_534.0 :argument_2_of :arguments_417.0_534.0_4.0 .
+:entity_4.0 :argument_3_of :arguments_417.0_534.0_4.0 .
+:arguments_417.0_534.0_4.0 :nAryPred :interval_428 .
+:interval_428 :nAryPred :g4;
+      :from 7.536626832E9 ;
+      :to 7.536626873E9 ;
+      a :Interval.
+
+:entity_145.0 :argument_1_of :arguments_145.0_255.0_199.0 .
+:entity_255.0 :argument_2_of :arguments_145.0_255.0_199.0 .
+:entity_199.0 :argument_3_of :arguments_145.0_255.0_199.0 .
+:arguments_145.0_255.0_199.0 :nAryPred :interval_429 .
+:interval_429 :nAryPred :g4;
+      :from 3.9179923664E10 ;
+      :to 3.9179923732E10 ;
+      a :Interval.
+
+:entity_120.0 :argument_1_of :arguments_120.0_445.0_678.0 .
+:entity_445.0 :argument_2_of :arguments_120.0_445.0_678.0 .
+:entity_678.0 :argument_3_of :arguments_120.0_445.0_678.0 .
+:arguments_120.0_445.0_678.0 :nAryPred :interval_430 .
+:interval_430 :nAryPred :g4;
+      :from 4.7488812611E10 ;
+      :to 4.7488812686E10 ;
+      a :Interval.
+
+:entity_804.0 :argument_1_of :arguments_804.0_50.0_867.0 .
+:entity_50.0 :argument_2_of :arguments_804.0_50.0_867.0 .
+:entity_867.0 :argument_3_of :arguments_804.0_50.0_867.0 .
+:arguments_804.0_50.0_867.0 :nAryPred :interval_431 .
+:interval_431 :nAryPred :g4;
+      :from 2.8697041586E10 ;
+      :to 2.8697041669E10 ;
+      a :Interval.
+
+:entity_418.0 :argument_1_of :arguments_418.0_722.0_880.0 .
+:entity_722.0 :argument_2_of :arguments_418.0_722.0_880.0 .
+:entity_880.0 :argument_3_of :arguments_418.0_722.0_880.0 .
+:arguments_418.0_722.0_880.0 :nAryPred :interval_432 .
+:interval_432 :nAryPred :g4;
+      :from 3.4893815183E10 ;
+      :to 3.4893815241E10 ;
+      a :Interval.
+
+:entity_103.0 :argument_1_of :arguments_103.0_152.0_23.0 .
+:entity_152.0 :argument_2_of :arguments_103.0_152.0_23.0 .
+:entity_23.0 :argument_3_of :arguments_103.0_152.0_23.0 .
+:arguments_103.0_152.0_23.0 :nAryPred :interval_433 .
+:interval_433 :nAryPred :g4;
+      :from 3.9087431688E10 ;
+      :to 3.9087431759E10 ;
+      a :Interval.
+
+:entity_558.0 :argument_1_of :arguments_558.0_976.0_991.0 .
+:entity_976.0 :argument_2_of :arguments_558.0_976.0_991.0 .
+:entity_991.0 :argument_3_of :arguments_558.0_976.0_991.0 .
+:arguments_558.0_976.0_991.0 :nAryPred :interval_434 .
+:interval_434 :nAryPred :g4;
+      :from 2.639554773E9 ;
+      :to 2.639554812E9 ;
+      a :Interval.
+
+:entity_219.0 :argument_1_of :arguments_219.0_585.0_389.0 .
+:entity_585.0 :argument_2_of :arguments_219.0_585.0_389.0 .
+:entity_389.0 :argument_3_of :arguments_219.0_585.0_389.0 .
+:arguments_219.0_585.0_389.0 :nAryPred :interval_435 .
+:interval_435 :nAryPred :g4;
+      :from 1.823914987E9 ;
+      :to 1.823915035E9 ;
+      a :Interval.
+
+:entity_587.0 :argument_1_of :arguments_587.0_489.0_582.0 .
+:entity_489.0 :argument_2_of :arguments_587.0_489.0_582.0 .
+:entity_582.0 :argument_3_of :arguments_587.0_489.0_582.0 .
+:arguments_587.0_489.0_582.0 :nAryPred :interval_436 .
+:interval_436 :nAryPred :g4;
+      :from 3.84932385E10 ;
+      :to 3.8493238552E10 ;
+      a :Interval.
+
+:entity_648.0 :argument_1_of :arguments_648.0_457.0_262.0 .
+:entity_457.0 :argument_2_of :arguments_648.0_457.0_262.0 .
+:entity_262.0 :argument_3_of :arguments_648.0_457.0_262.0 .
+:arguments_648.0_457.0_262.0 :nAryPred :interval_437 .
+:interval_437 :nAryPred :g4;
+      :from 7.33636252E8 ;
+      :to 7.33636297E8 ;
+      a :Interval.
+
+:entity_966.0 :argument_1_of :arguments_966.0_713.0_705.0 .
+:entity_713.0 :argument_2_of :arguments_966.0_713.0_705.0 .
+:entity_705.0 :argument_3_of :arguments_966.0_713.0_705.0 .
+:arguments_966.0_713.0_705.0 :nAryPred :interval_438 .
+:interval_438 :nAryPred :g4;
+      :from 3.9056009655E10 ;
+      :to 3.9056009734E10 ;
+      a :Interval.
+
+:entity_916.0 :argument_1_of :arguments_916.0_336.0_693.0 .
+:entity_336.0 :argument_2_of :arguments_916.0_336.0_693.0 .
+:entity_693.0 :argument_3_of :arguments_916.0_336.0_693.0 .
+:arguments_916.0_336.0_693.0 :nAryPred :interval_439 .
+:interval_439 :nAryPred :g4;
+      :from 4.3688201007E10 ;
+      :to 4.3688201057E10 ;
+      a :Interval.
+
+:entity_323.0 :argument_1_of :arguments_323.0_426.0_341.0 .
+:entity_426.0 :argument_2_of :arguments_323.0_426.0_341.0 .
+:entity_341.0 :argument_3_of :arguments_323.0_426.0_341.0 .
+:arguments_323.0_426.0_341.0 :nAryPred :interval_440 .
+:interval_440 :nAryPred :g4;
+      :from 2.9358615445E10 ;
+      :to 2.9358615487E10 ;
+      a :Interval.
+
+:entity_609.0 :argument_1_of :arguments_609.0_990.0_923.0 .
+:entity_990.0 :argument_2_of :arguments_609.0_990.0_923.0 .
+:entity_923.0 :argument_3_of :arguments_609.0_990.0_923.0 .
+:arguments_609.0_990.0_923.0 :nAryPred :interval_441 .
+:interval_441 :nAryPred :g4;
+      :from 8.251981567E9 ;
+      :to 8.251981631E9 ;
+      a :Interval.
+
+:entity_758.0 :argument_1_of :arguments_758.0_375.0_384.0 .
+:entity_375.0 :argument_2_of :arguments_758.0_375.0_384.0 .
+:entity_384.0 :argument_3_of :arguments_758.0_375.0_384.0 .
+:arguments_758.0_375.0_384.0 :nAryPred :interval_442 .
+:interval_442 :nAryPred :g4;
+      :from 5.5484258253E10 ;
+      :to 5.5484258297E10 ;
+      a :Interval.
+
+:entity_899.0 :argument_1_of :arguments_899.0_572.0_748.0 .
+:entity_572.0 :argument_2_of :arguments_899.0_572.0_748.0 .
+:entity_748.0 :argument_3_of :arguments_899.0_572.0_748.0 .
+:arguments_899.0_572.0_748.0 :nAryPred :interval_443 .
+:interval_443 :nAryPred :g4;
+      :from 2.2879524847E10 ;
+      :to 2.2879524919E10 ;
+      a :Interval.
+
+:entity_712.0 :argument_1_of :arguments_712.0_473.0_974.0 .
+:entity_473.0 :argument_2_of :arguments_712.0_473.0_974.0 .
+:entity_974.0 :argument_3_of :arguments_712.0_473.0_974.0 .
+:arguments_712.0_473.0_974.0 :nAryPred :interval_444 .
+:interval_444 :nAryPred :g4;
+      :from 3.8774504137E10 ;
+      :to 3.8774504197E10 ;
+      a :Interval.
+
+:entity_836.0 :argument_1_of :arguments_836.0_122.0_353.0 .
+:entity_122.0 :argument_2_of :arguments_836.0_122.0_353.0 .
+:entity_353.0 :argument_3_of :arguments_836.0_122.0_353.0 .
+:arguments_836.0_122.0_353.0 :nAryPred :interval_445 .
+:interval_445 :nAryPred :g4;
+      :from 2.8711208994E10 ;
+      :to 2.8711209056E10 ;
+      a :Interval.
+
+:entity_962.0 :argument_1_of :arguments_962.0_160.0_375.0 .
+:entity_160.0 :argument_2_of :arguments_962.0_160.0_375.0 .
+:entity_375.0 :argument_3_of :arguments_962.0_160.0_375.0 .
+:arguments_962.0_160.0_375.0 :nAryPred :interval_446 .
+:interval_446 :nAryPred :g4;
+      :from 5.61645101E8 ;
+      :to 5.6164515E8 ;
+      a :Interval.
+
+:entity_687.0 :argument_1_of :arguments_687.0_972.0_391.0 .
+:entity_972.0 :argument_2_of :arguments_687.0_972.0_391.0 .
+:entity_391.0 :argument_3_of :arguments_687.0_972.0_391.0 .
+:arguments_687.0_972.0_391.0 :nAryPred :interval_447 .
+:interval_447 :nAryPred :g4;
+      :from 5.4375759344E10 ;
+      :to 5.4375759391E10 ;
+      a :Interval.
+
+:entity_493.0 :argument_1_of :arguments_493.0_611.0_272.0 .
+:entity_611.0 :argument_2_of :arguments_493.0_611.0_272.0 .
+:entity_272.0 :argument_3_of :arguments_493.0_611.0_272.0 .
+:arguments_493.0_611.0_272.0 :nAryPred :interval_448 .
+:interval_448 :nAryPred :g4;
+      :from 2.298146648E9 ;
+      :to 2.298146717E9 ;
+      a :Interval.
+
+:entity_621.0 :argument_1_of :arguments_621.0_459.0_119.0 .
+:entity_459.0 :argument_2_of :arguments_621.0_459.0_119.0 .
+:entity_119.0 :argument_3_of :arguments_621.0_459.0_119.0 .
+:arguments_621.0_459.0_119.0 :nAryPred :interval_449 .
+:interval_449 :nAryPred :g4;
+      :from 1.9598897968E10 ;
+      :to 1.9598898031E10 ;
+      a :Interval.
+
+:entity_24.0 :argument_1_of :arguments_24.0_828.0_574.0 .
+:entity_828.0 :argument_2_of :arguments_24.0_828.0_574.0 .
+:entity_574.0 :argument_3_of :arguments_24.0_828.0_574.0 .
+:arguments_24.0_828.0_574.0 :nAryPred :interval_450 .
+:interval_450 :nAryPred :g4;
+      :from 5.5604229171E10 ;
+      :to 5.5604229241E10 ;
+      a :Interval.
+
+:entity_233.0 :argument_1_of :arguments_233.0_437.0_3.0 .
+:entity_437.0 :argument_2_of :arguments_233.0_437.0_3.0 .
+:entity_3.0 :argument_3_of :arguments_233.0_437.0_3.0 .
+:arguments_233.0_437.0_3.0 :nAryPred :interval_451 .
+:interval_451 :nAryPred :g4;
+      :from 5.0324287171E10 ;
+      :to 5.0324287225E10 ;
+      a :Interval.
+
+:entity_98.0 :argument_1_of :arguments_98.0_350.0_555.0 .
+:entity_350.0 :argument_2_of :arguments_98.0_350.0_555.0 .
+:entity_555.0 :argument_3_of :arguments_98.0_350.0_555.0 .
+:arguments_98.0_350.0_555.0 :nAryPred :interval_452 .
+:interval_452 :nAryPred :g4;
+      :from 1.5834452587E10 ;
+      :to 1.5834452665E10 ;
+      a :Interval.
+
+:entity_915.0 :argument_1_of :arguments_915.0_77.0_499.0 .
+:entity_77.0 :argument_2_of :arguments_915.0_77.0_499.0 .
+:entity_499.0 :argument_3_of :arguments_915.0_77.0_499.0 .
+:arguments_915.0_77.0_499.0 :nAryPred :interval_453 .
+:interval_453 :nAryPred :g4;
+      :from 2.634233463E9 ;
+      :to 2.634233521E9 ;
+      a :Interval.
+
+:entity_102.0 :argument_1_of :arguments_102.0_386.0_633.0 .
+:entity_386.0 :argument_2_of :arguments_102.0_386.0_633.0 .
+:entity_633.0 :argument_3_of :arguments_102.0_386.0_633.0 .
+:arguments_102.0_386.0_633.0 :nAryPred :interval_454 .
+:interval_454 :nAryPred :g4;
+      :from 5.8567081486E10 ;
+      :to 5.8567081568E10 ;
+      a :Interval.
+
+:entity_709.0 :argument_1_of :arguments_709.0_573.0_187.0 .
+:entity_573.0 :argument_2_of :arguments_709.0_573.0_187.0 .
+:entity_187.0 :argument_3_of :arguments_709.0_573.0_187.0 .
+:arguments_709.0_573.0_187.0 :nAryPred :interval_455 .
+:interval_455 :nAryPred :g4;
+      :from 9.786163011E9 ;
+      :to 9.78616309E9 ;
+      a :Interval.
+
+:entity_195.0 :argument_1_of :arguments_195.0_205.0_309.0 .
+:entity_205.0 :argument_2_of :arguments_195.0_205.0_309.0 .
+:entity_309.0 :argument_3_of :arguments_195.0_205.0_309.0 .
+:arguments_195.0_205.0_309.0 :nAryPred :interval_456 .
+:interval_456 :nAryPred :g4;
+      :from 1.9158451276E10 ;
+      :to 1.915845133E10 ;
+      a :Interval.
+
+:entity_792.0 :argument_1_of :arguments_792.0_9.0_290.0 .
+:entity_9.0 :argument_2_of :arguments_792.0_9.0_290.0 .
+:entity_290.0 :argument_3_of :arguments_792.0_9.0_290.0 .
+:arguments_792.0_9.0_290.0 :nAryPred :interval_457 .
+:interval_457 :nAryPred :g4;
+      :from 8.338266578E9 ;
+      :to 8.338266612E9 ;
+      a :Interval.
+
+:entity_991.0 :argument_1_of :arguments_991.0_767.0_695.0 .
+:entity_767.0 :argument_2_of :arguments_991.0_767.0_695.0 .
+:entity_695.0 :argument_3_of :arguments_991.0_767.0_695.0 .
+:arguments_991.0_767.0_695.0 :nAryPred :interval_458 .
+:interval_458 :nAryPred :g4;
+      :from 6.826417869E9 ;
+      :to 6.82641795E9 ;
+      a :Interval.
+
+:entity_143.0 :argument_1_of :arguments_143.0_493.0_567.0 .
+:entity_493.0 :argument_2_of :arguments_143.0_493.0_567.0 .
+:entity_567.0 :argument_3_of :arguments_143.0_493.0_567.0 .
+:arguments_143.0_493.0_567.0 :nAryPred :interval_459 .
+:interval_459 :nAryPred :g4;
+      :from 6.0579485904E10 ;
+      :to 6.0579485967E10 ;
+      a :Interval.
+
+:entity_428.0 :argument_1_of :arguments_428.0_609.0_167.0 .
+:entity_609.0 :argument_2_of :arguments_428.0_609.0_167.0 .
+:entity_167.0 :argument_3_of :arguments_428.0_609.0_167.0 .
+:arguments_428.0_609.0_167.0 :nAryPred :interval_460 .
+:interval_460 :nAryPred :g4;
+      :from 3.0754059437E10 ;
+      :to 3.0754059497E10 ;
+      a :Interval.
+
+:entity_604.0 :argument_1_of :arguments_604.0_175.0_233.0 .
+:entity_175.0 :argument_2_of :arguments_604.0_175.0_233.0 .
+:entity_233.0 :argument_3_of :arguments_604.0_175.0_233.0 .
+:arguments_604.0_175.0_233.0 :nAryPred :interval_461 .
+:interval_461 :nAryPred :g4;
+      :from 5.5402940863E10 ;
+      :to 5.5402940912E10 ;
+      a :Interval.
+
+:entity_45.0 :argument_1_of :arguments_45.0_850.0_383.0 .
+:entity_850.0 :argument_2_of :arguments_45.0_850.0_383.0 .
+:entity_383.0 :argument_3_of :arguments_45.0_850.0_383.0 .
+:arguments_45.0_850.0_383.0 :nAryPred :interval_462 .
+:interval_462 :nAryPred :g4;
+      :from 2.6289082215E10 ;
+      :to 2.6289082271E10 ;
+      a :Interval.
+
+:entity_449.0 :argument_1_of :arguments_449.0_525.0_392.0 .
+:entity_525.0 :argument_2_of :arguments_449.0_525.0_392.0 .
+:entity_392.0 :argument_3_of :arguments_449.0_525.0_392.0 .
+:arguments_449.0_525.0_392.0 :nAryPred :interval_463 .
+:interval_463 :nAryPred :g4;
+      :from 1.2043370807E10 ;
+      :to 1.204337087E10 ;
+      a :Interval.
+
+:entity_638.0 :argument_1_of :arguments_638.0_846.0_139.0 .
+:entity_846.0 :argument_2_of :arguments_638.0_846.0_139.0 .
+:entity_139.0 :argument_3_of :arguments_638.0_846.0_139.0 .
+:arguments_638.0_846.0_139.0 :nAryPred :interval_464 .
+:interval_464 :nAryPred :g4;
+      :from 2.4028662723E10 ;
+      :to 2.4028662768E10 ;
+      a :Interval.
+
+:entity_872.0 :argument_1_of :arguments_872.0_680.0_215.0 .
+:entity_680.0 :argument_2_of :arguments_872.0_680.0_215.0 .
+:entity_215.0 :argument_3_of :arguments_872.0_680.0_215.0 .
+:arguments_872.0_680.0_215.0 :nAryPred :interval_465 .
+:interval_465 :nAryPred :g4;
+      :from 2.1641291832E10 ;
+      :to 2.1641291933E10 ;
+      a :Interval.
+
+:entity_747.0 :argument_1_of :arguments_747.0_310.0_224.0 .
+:entity_310.0 :argument_2_of :arguments_747.0_310.0_224.0 .
+:entity_224.0 :argument_3_of :arguments_747.0_310.0_224.0 .
+:arguments_747.0_310.0_224.0 :nAryPred :interval_466 .
+:interval_466 :nAryPred :g4;
+      :from 1.5672548621E10 ;
+      :to 1.5672548666E10 ;
+      a :Interval.
+
+:entity_479.0 :argument_1_of :arguments_479.0_452.0_563.0 .
+:entity_452.0 :argument_2_of :arguments_479.0_452.0_563.0 .
+:entity_563.0 :argument_3_of :arguments_479.0_452.0_563.0 .
+:arguments_479.0_452.0_563.0 :nAryPred :interval_467 .
+:interval_467 :nAryPred :g4;
+      :from 2.0629662335E10 ;
+      :to 2.0629662407E10 ;
+      a :Interval.
+
+:entity_869.0 :argument_1_of :arguments_869.0_836.0_651.0 .
+:entity_836.0 :argument_2_of :arguments_869.0_836.0_651.0 .
+:entity_651.0 :argument_3_of :arguments_869.0_836.0_651.0 .
+:arguments_869.0_836.0_651.0 :nAryPred :interval_468 .
+:interval_468 :nAryPred :g4;
+      :from 4.485001936E9 ;
+      :to 4.485002008E9 ;
+      a :Interval.
+
+:entity_869.0 :argument_1_of :arguments_869.0_224.0_331.0 .
+:entity_224.0 :argument_2_of :arguments_869.0_224.0_331.0 .
+:entity_331.0 :argument_3_of :arguments_869.0_224.0_331.0 .
+:arguments_869.0_224.0_331.0 :nAryPred :interval_469 .
+:interval_469 :nAryPred :g4;
+      :from 7.912197838E9 ;
+      :to 7.912197898E9 ;
+      a :Interval.
+
+:entity_438.0 :argument_1_of :arguments_438.0_639.0_677.0 .
+:entity_639.0 :argument_2_of :arguments_438.0_639.0_677.0 .
+:entity_677.0 :argument_3_of :arguments_438.0_639.0_677.0 .
+:arguments_438.0_639.0_677.0 :nAryPred :interval_470 .
+:interval_470 :nAryPred :g4;
+      :from 3.5284371605E10 ;
+      :to 3.5284371663E10 ;
+      a :Interval.
+
+:entity_508.0 :argument_1_of :arguments_508.0_620.0_685.0 .
+:entity_620.0 :argument_2_of :arguments_508.0_620.0_685.0 .
+:entity_685.0 :argument_3_of :arguments_508.0_620.0_685.0 .
+:arguments_508.0_620.0_685.0 :nAryPred :interval_471 .
+:interval_471 :nAryPred :g4;
+      :from 55.0 ;
+      :to 100.0 ;
+      a :Interval.
+
+:entity_282.0 :argument_1_of :arguments_282.0_165.0_547.0 .
+:entity_165.0 :argument_2_of :arguments_282.0_165.0_547.0 .
+:entity_547.0 :argument_3_of :arguments_282.0_165.0_547.0 .
+:arguments_282.0_165.0_547.0 :nAryPred :interval_472 .
+:interval_472 :nAryPred :g4;
+      :from 2.1626437076E10 ;
+      :to 2.1626437136E10 ;
+      a :Interval.
+
+:entity_380.0 :argument_1_of :arguments_380.0_225.0_653.0 .
+:entity_225.0 :argument_2_of :arguments_380.0_225.0_653.0 .
+:entity_653.0 :argument_3_of :arguments_380.0_225.0_653.0 .
+:arguments_380.0_225.0_653.0 :nAryPred :interval_473 .
+:interval_473 :nAryPred :g4;
+      :from 2.3390433268E10 ;
+      :to 2.3390433318E10 ;
+      a :Interval.
+
+:entity_816.0 :argument_1_of :arguments_816.0_505.0_328.0 .
+:entity_505.0 :argument_2_of :arguments_816.0_505.0_328.0 .
+:entity_328.0 :argument_3_of :arguments_816.0_505.0_328.0 .
+:arguments_816.0_505.0_328.0 :nAryPred :interval_474 .
+:interval_474 :nAryPred :g4;
+      :from 2.4701803921E10 ;
+      :to 2.4701803977E10 ;
+      a :Interval.
+
+:entity_334.0 :argument_1_of :arguments_334.0_767.0_555.0 .
+:entity_767.0 :argument_2_of :arguments_334.0_767.0_555.0 .
+:entity_555.0 :argument_3_of :arguments_334.0_767.0_555.0 .
+:arguments_334.0_767.0_555.0 :nAryPred :interval_475 .
+:interval_475 :nAryPred :g4;
+      :from 2.4275013129E10 ;
+      :to 2.4275013202E10 ;
+      a :Interval.
+
+:entity_338.0 :argument_1_of :arguments_338.0_985.0_634.0 .
+:entity_985.0 :argument_2_of :arguments_338.0_985.0_634.0 .
+:entity_634.0 :argument_3_of :arguments_338.0_985.0_634.0 .
+:arguments_338.0_985.0_634.0 :nAryPred :interval_476 .
+:interval_476 :nAryPred :g4;
+      :from 1.5512802823E10 ;
+      :to 1.551280288E10 ;
+      a :Interval.
+
+:entity_595.0 :argument_1_of :arguments_595.0_741.0_173.0 .
+:entity_741.0 :argument_2_of :arguments_595.0_741.0_173.0 .
+:entity_173.0 :argument_3_of :arguments_595.0_741.0_173.0 .
+:arguments_595.0_741.0_173.0 :nAryPred :interval_477 .
+:interval_477 :nAryPred :g4;
+      :from 1.2127585849E10 ;
+      :to 1.2127585901E10 ;
+      a :Interval.
+
+:entity_656.0 :argument_1_of :arguments_656.0_523.0_346.0 .
+:entity_523.0 :argument_2_of :arguments_656.0_523.0_346.0 .
+:entity_346.0 :argument_3_of :arguments_656.0_523.0_346.0 .
+:arguments_656.0_523.0_346.0 :nAryPred :interval_478 .
+:interval_478 :nAryPred :g4;
+      :from 2.2957706513E10 ;
+      :to 2.2957706564E10 ;
+      a :Interval.
+
+:entity_843.0 :argument_1_of :arguments_843.0_266.0_750.0 .
+:entity_266.0 :argument_2_of :arguments_843.0_266.0_750.0 .
+:entity_750.0 :argument_3_of :arguments_843.0_266.0_750.0 .
+:arguments_843.0_266.0_750.0 :nAryPred :interval_479 .
+:interval_479 :nAryPred :g4;
+      :from 2.7978977498E10 ;
+      :to 2.7978977563E10 ;
+      a :Interval.
+
+:entity_758.0 :argument_1_of :arguments_758.0_843.0_657.0 .
+:entity_843.0 :argument_2_of :arguments_758.0_843.0_657.0 .
+:entity_657.0 :argument_3_of :arguments_758.0_843.0_657.0 .
+:arguments_758.0_843.0_657.0 :nAryPred :interval_480 .
+:interval_480 :nAryPred :g4;
+      :from 5.7726298143E10 ;
+      :to 5.7726298186E10 ;
+      a :Interval.
+
+:entity_911.0 :argument_1_of :arguments_911.0_122.0_28.0 .
+:entity_122.0 :argument_2_of :arguments_911.0_122.0_28.0 .
+:entity_28.0 :argument_3_of :arguments_911.0_122.0_28.0 .
+:arguments_911.0_122.0_28.0 :nAryPred :interval_481 .
+:interval_481 :nAryPred :g4;
+      :from 1.9996408563E10 ;
+      :to 1.9996408631E10 ;
+      a :Interval.
+
+:entity_247.0 :argument_1_of :arguments_247.0_393.0_837.0 .
+:entity_393.0 :argument_2_of :arguments_247.0_393.0_837.0 .
+:entity_837.0 :argument_3_of :arguments_247.0_393.0_837.0 .
+:arguments_247.0_393.0_837.0 :nAryPred :interval_482 .
+:interval_482 :nAryPred :g4;
+      :from 4.225812781E9 ;
+      :to 4.225812837E9 ;
+      a :Interval.
+
+:entity_456.0 :argument_1_of :arguments_456.0_619.0_907.0 .
+:entity_619.0 :argument_2_of :arguments_456.0_619.0_907.0 .
+:entity_907.0 :argument_3_of :arguments_456.0_619.0_907.0 .
+:arguments_456.0_619.0_907.0 :nAryPred :interval_483 .
+:interval_483 :nAryPred :g4;
+      :from 9.09400589E8 ;
+      :to 9.09400636E8 ;
+      a :Interval.
+
+:entity_245.0 :argument_1_of :arguments_245.0_334.0_143.0 .
+:entity_334.0 :argument_2_of :arguments_245.0_334.0_143.0 .
+:entity_143.0 :argument_3_of :arguments_245.0_334.0_143.0 .
+:arguments_245.0_334.0_143.0 :nAryPred :interval_484 .
+:interval_484 :nAryPred :g4;
+      :from 1.0043828322E10 ;
+      :to 1.0043828378E10 ;
+      a :Interval.
+
+:entity_121.0 :argument_1_of :arguments_121.0_729.0_904.0 .
+:entity_729.0 :argument_2_of :arguments_121.0_729.0_904.0 .
+:entity_904.0 :argument_3_of :arguments_121.0_729.0_904.0 .
+:arguments_121.0_729.0_904.0 :nAryPred :interval_485 .
+:interval_485 :nAryPred :g4;
+      :from 3.2853952496E10 ;
+      :to 3.2853952581E10 ;
+      a :Interval.
+
+:entity_474.0 :argument_1_of :arguments_474.0_506.0_330.0 .
+:entity_506.0 :argument_2_of :arguments_474.0_506.0_330.0 .
+:entity_330.0 :argument_3_of :arguments_474.0_506.0_330.0 .
+:arguments_474.0_506.0_330.0 :nAryPred :interval_486 .
+:interval_486 :nAryPred :g4;
+      :from 4.2893305309E10 ;
+      :to 4.2893305398E10 ;
+      a :Interval.
+
+:entity_744.0 :argument_1_of :arguments_744.0_650.0_23.0 .
+:entity_650.0 :argument_2_of :arguments_744.0_650.0_23.0 .
+:entity_23.0 :argument_3_of :arguments_744.0_650.0_23.0 .
+:arguments_744.0_650.0_23.0 :nAryPred :interval_487 .
+:interval_487 :nAryPred :g4;
+      :from 1.0182798726E10 ;
+      :to 1.0182798781E10 ;
+      a :Interval.
+
+:entity_247.0 :argument_1_of :arguments_247.0_719.0_715.0 .
+:entity_719.0 :argument_2_of :arguments_247.0_719.0_715.0 .
+:entity_715.0 :argument_3_of :arguments_247.0_719.0_715.0 .
+:arguments_247.0_719.0_715.0 :nAryPred :interval_488 .
+:interval_488 :nAryPred :g4;
+      :from 1.7767972433E10 ;
+      :to 1.7767972498E10 ;
+      a :Interval.
+
+:entity_710.0 :argument_1_of :arguments_710.0_566.0_522.0 .
+:entity_566.0 :argument_2_of :arguments_710.0_566.0_522.0 .
+:entity_522.0 :argument_3_of :arguments_710.0_566.0_522.0 .
+:arguments_710.0_566.0_522.0 :nAryPred :interval_489 .
+:interval_489 :nAryPred :g4;
+      :from 9.320341001E9 ;
+      :to 9.320341048E9 ;
+      a :Interval.
+
+:entity_452.0 :argument_1_of :arguments_452.0_723.0_364.0 .
+:entity_723.0 :argument_2_of :arguments_452.0_723.0_364.0 .
+:entity_364.0 :argument_3_of :arguments_452.0_723.0_364.0 .
+:arguments_452.0_723.0_364.0 :nAryPred :interval_490 .
+:interval_490 :nAryPred :g4;
+      :from 4.774097897E9 ;
+      :to 4.774097955E9 ;
+      a :Interval.
+
+:entity_433.0 :argument_1_of :arguments_433.0_873.0_732.0 .
+:entity_873.0 :argument_2_of :arguments_433.0_873.0_732.0 .
+:entity_732.0 :argument_3_of :arguments_433.0_873.0_732.0 .
+:arguments_433.0_873.0_732.0 :nAryPred :interval_491 .
+:interval_491 :nAryPred :g4;
+      :from 1.917645853E9 ;
+      :to 1.917645886E9 ;
+      a :Interval.
+
+:entity_310.0 :argument_1_of :arguments_310.0_236.0_17.0 .
+:entity_236.0 :argument_2_of :arguments_310.0_236.0_17.0 .
+:entity_17.0 :argument_3_of :arguments_310.0_236.0_17.0 .
+:arguments_310.0_236.0_17.0 :nAryPred :interval_492 .
+:interval_492 :nAryPred :g4;
+      :from 5.5598764589E10 ;
+      :to 5.559876465E10 ;
+      a :Interval.
+
+:entity_439.0 :argument_1_of :arguments_439.0_371.0_172.0 .
+:entity_371.0 :argument_2_of :arguments_439.0_371.0_172.0 .
+:entity_172.0 :argument_3_of :arguments_439.0_371.0_172.0 .
+:arguments_439.0_371.0_172.0 :nAryPred :interval_493 .
+:interval_493 :nAryPred :g4;
+      :from 8.306763379E9 ;
+      :to 8.306763432E9 ;
+      a :Interval.
+
+:entity_270.0 :argument_1_of :arguments_270.0_621.0_43.0 .
+:entity_621.0 :argument_2_of :arguments_270.0_621.0_43.0 .
+:entity_43.0 :argument_3_of :arguments_270.0_621.0_43.0 .
+:arguments_270.0_621.0_43.0 :nAryPred :interval_494 .
+:interval_494 :nAryPred :g4;
+      :from 3.8011086064E10 ;
+      :to 3.8011086136E10 ;
+      a :Interval.
+
+:entity_327.0 :argument_1_of :arguments_327.0_898.0_322.0 .
+:entity_898.0 :argument_2_of :arguments_327.0_898.0_322.0 .
+:entity_322.0 :argument_3_of :arguments_327.0_898.0_322.0 .
+:arguments_327.0_898.0_322.0 :nAryPred :interval_495 .
+:interval_495 :nAryPred :g4;
+      :from 3.2797580432E10 ;
+      :to 3.2797580491E10 ;
+      a :Interval.
+
+:entity_513.0 :argument_1_of :arguments_513.0_189.0_591.0 .
+:entity_189.0 :argument_2_of :arguments_513.0_189.0_591.0 .
+:entity_591.0 :argument_3_of :arguments_513.0_189.0_591.0 .
+:arguments_513.0_189.0_591.0 :nAryPred :interval_496 .
+:interval_496 :nAryPred :g4;
+      :from 4.010934697E9 ;
+      :to 4.01093476E9 ;
+      a :Interval.
+
+:entity_671.0 :argument_1_of :arguments_671.0_152.0_911.0 .
+:entity_152.0 :argument_2_of :arguments_671.0_152.0_911.0 .
+:entity_911.0 :argument_3_of :arguments_671.0_152.0_911.0 .
+:arguments_671.0_152.0_911.0 :nAryPred :interval_497 .
+:interval_497 :nAryPred :g4;
+      :from 4.4247031867E10 ;
+      :to 4.4247031946E10 ;
+      a :Interval.
+
+:entity_729.0 :argument_1_of :arguments_729.0_672.0_126.0 .
+:entity_672.0 :argument_2_of :arguments_729.0_672.0_126.0 .
+:entity_126.0 :argument_3_of :arguments_729.0_672.0_126.0 .
+:arguments_729.0_672.0_126.0 :nAryPred :interval_498 .
+:interval_498 :nAryPred :g4;
+      :from 3.8764775706E10 ;
+      :to 3.8764775769E10 ;
+      a :Interval.
+
+:entity_180.0 :argument_1_of :arguments_180.0_745.0_318.0 .
+:entity_745.0 :argument_2_of :arguments_180.0_745.0_318.0 .
+:entity_318.0 :argument_3_of :arguments_180.0_745.0_318.0 .
+:arguments_180.0_745.0_318.0 :nAryPred :interval_499 .
+:interval_499 :nAryPred :g4;
+      :from 1.7536286151E10 ;
+      :to 1.753628621E10 ;
+      a :Interval.
+
+:entity_441.0 :argument_1_of :arguments_441.0_741.0_410.0 .
+:entity_741.0 :argument_2_of :arguments_441.0_741.0_410.0 .
+:entity_410.0 :argument_3_of :arguments_441.0_741.0_410.0 .
+:arguments_441.0_741.0_410.0 :nAryPred :interval_500 .
+:interval_500 :nAryPred :g4;
+      :from 4.275703218E9 ;
+      :to 4.275703266E9 ;
+      a :Interval.
+
+:entity_636.0 :argument_1_of :arguments_636.0_368.0_996.0 .
+:entity_368.0 :argument_2_of :arguments_636.0_368.0_996.0 .
+:entity_996.0 :argument_3_of :arguments_636.0_368.0_996.0 .
+:arguments_636.0_368.0_996.0 :nAryPred :interval_501 .
+:interval_501 :nAryPred :g4;
+      :from 4.9821751801E10 ;
+      :to 4.9821751852E10 ;
+      a :Interval.
+
+:entity_484.0 :argument_1_of :arguments_484.0_726.0_97.0 .
+:entity_726.0 :argument_2_of :arguments_484.0_726.0_97.0 .
+:entity_97.0 :argument_3_of :arguments_484.0_726.0_97.0 .
+:arguments_484.0_726.0_97.0 :nAryPred :interval_502 .
+:interval_502 :nAryPred :g4;
+      :from 2.4949006335E10 ;
+      :to 2.494900641E10 ;
+      a :Interval.
+
+:entity_471.0 :argument_1_of :arguments_471.0_635.0_865.0 .
+:entity_635.0 :argument_2_of :arguments_471.0_635.0_865.0 .
+:entity_865.0 :argument_3_of :arguments_471.0_635.0_865.0 .
+:arguments_471.0_635.0_865.0 :nAryPred :interval_503 .
+:interval_503 :nAryPred :g4;
+      :from 1.9423915523E10 ;
+      :to 1.9423915599E10 ;
+      a :Interval.
+
+:entity_515.0 :argument_1_of :arguments_515.0_179.0_210.0 .
+:entity_179.0 :argument_2_of :arguments_515.0_179.0_210.0 .
+:entity_210.0 :argument_3_of :arguments_515.0_179.0_210.0 .
+:arguments_515.0_179.0_210.0 :nAryPred :interval_504 .
+:interval_504 :nAryPred :g4;
+      :from 3.4257487722E10 ;
+      :to 3.42574878E10 ;
+      a :Interval.
+
+:entity_938.0 :argument_1_of :arguments_938.0_436.0_299.0 .
+:entity_436.0 :argument_2_of :arguments_938.0_436.0_299.0 .
+:entity_299.0 :argument_3_of :arguments_938.0_436.0_299.0 .
+:arguments_938.0_436.0_299.0 :nAryPred :interval_505 .
+:interval_505 :nAryPred :g4;
+      :from 5.0295782168E10 ;
+      :to 5.0295782259E10 ;
+      a :Interval.
+
+:entity_284.0 :argument_1_of :arguments_284.0_266.0_960.0 .
+:entity_266.0 :argument_2_of :arguments_284.0_266.0_960.0 .
+:entity_960.0 :argument_3_of :arguments_284.0_266.0_960.0 .
+:arguments_284.0_266.0_960.0 :nAryPred :interval_506 .
+:interval_506 :nAryPred :g4;
+      :from 5.66973325E10 ;
+      :to 5.6697332587E10 ;
+      a :Interval.
+
+:entity_469.0 :argument_1_of :arguments_469.0_974.0_114.0 .
+:entity_974.0 :argument_2_of :arguments_469.0_974.0_114.0 .
+:entity_114.0 :argument_3_of :arguments_469.0_974.0_114.0 .
+:arguments_469.0_974.0_114.0 :nAryPred :interval_507 .
+:interval_507 :nAryPred :g4;
+      :from 4.1214945765E10 ;
+      :to 4.1214945824E10 ;
+      a :Interval.
+
+:entity_649.0 :argument_1_of :arguments_649.0_501.0_38.0 .
+:entity_501.0 :argument_2_of :arguments_649.0_501.0_38.0 .
+:entity_38.0 :argument_3_of :arguments_649.0_501.0_38.0 .
+:arguments_649.0_501.0_38.0 :nAryPred :interval_508 .
+:interval_508 :nAryPred :g4;
+      :from 1.7847096639E10 ;
+      :to 1.7847096675E10 ;
+      a :Interval.
+
+:entity_778.0 :argument_1_of :arguments_778.0_742.0_59.0 .
+:entity_742.0 :argument_2_of :arguments_778.0_742.0_59.0 .
+:entity_59.0 :argument_3_of :arguments_778.0_742.0_59.0 .
+:arguments_778.0_742.0_59.0 :nAryPred :interval_509 .
+:interval_509 :nAryPred :g4;
+      :from 2.871808899E10 ;
+      :to 2.8718089047E10 ;
+      a :Interval.
+
+:entity_441.0 :argument_1_of :arguments_441.0_394.0_203.0 .
+:entity_394.0 :argument_2_of :arguments_441.0_394.0_203.0 .
+:entity_203.0 :argument_3_of :arguments_441.0_394.0_203.0 .
+:arguments_441.0_394.0_203.0 :nAryPred :interval_510 .
+:interval_510 :nAryPred :g4;
+      :from 2.8840494805E10 ;
+      :to 2.8840494869E10 ;
+      a :Interval.
+
+:entity_79.0 :argument_1_of :arguments_79.0_937.0_508.0 .
+:entity_937.0 :argument_2_of :arguments_79.0_937.0_508.0 .
+:entity_508.0 :argument_3_of :arguments_79.0_937.0_508.0 .
+:arguments_79.0_937.0_508.0 :nAryPred :interval_511 .
+:interval_511 :nAryPred :g4;
+      :from 3.6003821682E10 ;
+      :to 3.6003821737E10 ;
+      a :Interval.
+
+:entity_203.0 :argument_1_of :arguments_203.0_151.0_335.0 .
+:entity_151.0 :argument_2_of :arguments_203.0_151.0_335.0 .
+:entity_335.0 :argument_3_of :arguments_203.0_151.0_335.0 .
+:arguments_203.0_151.0_335.0 :nAryPred :interval_512 .
+:interval_512 :nAryPred :g4;
+      :from 7.609278118E9 ;
+      :to 7.609278191E9 ;
+      a :Interval.
+
+:entity_843.0 :argument_1_of :arguments_843.0_858.0_761.0 .
+:entity_858.0 :argument_2_of :arguments_843.0_858.0_761.0 .
+:entity_761.0 :argument_3_of :arguments_843.0_858.0_761.0 .
+:arguments_843.0_858.0_761.0 :nAryPred :interval_513 .
+:interval_513 :nAryPred :g4;
+      :from 3.1861290858E10 ;
+      :to 3.1861290919E10 ;
+      a :Interval.
+
+:entity_325.0 :argument_1_of :arguments_325.0_436.0_25.0 .
+:entity_436.0 :argument_2_of :arguments_325.0_436.0_25.0 .
+:entity_25.0 :argument_3_of :arguments_325.0_436.0_25.0 .
+:arguments_325.0_436.0_25.0 :nAryPred :interval_514 .
+:interval_514 :nAryPred :g4;
+      :from 5.4917435238E10 ;
+      :to 5.4917435297E10 ;
+      a :Interval.
+
+:entity_661.0 :argument_1_of :arguments_661.0_949.0_6.0 .
+:entity_949.0 :argument_2_of :arguments_661.0_949.0_6.0 .
+:entity_6.0 :argument_3_of :arguments_661.0_949.0_6.0 .
+:arguments_661.0_949.0_6.0 :nAryPred :interval_515 .
+:interval_515 :nAryPred :g4;
+      :from 2.9904629766E10 ;
+      :to 2.9904629827E10 ;
+      a :Interval.
+
+:entity_378.0 :argument_1_of :arguments_378.0_943.0_550.0 .
+:entity_943.0 :argument_2_of :arguments_378.0_943.0_550.0 .
+:entity_550.0 :argument_3_of :arguments_378.0_943.0_550.0 .
+:arguments_378.0_943.0_550.0 :nAryPred :interval_516 .
+:interval_516 :nAryPred :g4;
+      :from 5.377482576E9 ;
+      :to 5.377482655E9 ;
+      a :Interval.
+
+:entity_381.0 :argument_1_of :arguments_381.0_947.0_524.0 .
+:entity_947.0 :argument_2_of :arguments_381.0_947.0_524.0 .
+:entity_524.0 :argument_3_of :arguments_381.0_947.0_524.0 .
+:arguments_381.0_947.0_524.0 :nAryPred :interval_517 .
+:interval_517 :nAryPred :g4;
+      :from 5.9075559958E10 ;
+      :to 5.9075560009E10 ;
+      a :Interval.
+
+:entity_655.0 :argument_1_of :arguments_655.0_985.0_772.0 .
+:entity_985.0 :argument_2_of :arguments_655.0_985.0_772.0 .
+:entity_772.0 :argument_3_of :arguments_655.0_985.0_772.0 .
+:arguments_655.0_985.0_772.0 :nAryPred :interval_518 .
+:interval_518 :nAryPred :g4;
+      :from 1.0064642607E10 ;
+      :to 1.0064642661E10 ;
+      a :Interval.
+
+:entity_835.0 :argument_1_of :arguments_835.0_526.0_590.0 .
+:entity_526.0 :argument_2_of :arguments_835.0_526.0_590.0 .
+:entity_590.0 :argument_3_of :arguments_835.0_526.0_590.0 .
+:arguments_835.0_526.0_590.0 :nAryPred :interval_519 .
+:interval_519 :nAryPred :g4;
+      :from 4.363254206E9 ;
+      :to 4.363254301E9 ;
+      a :Interval.
+
+:entity_698.0 :argument_1_of :arguments_698.0_144.0_361.0 .
+:entity_144.0 :argument_2_of :arguments_698.0_144.0_361.0 .
+:entity_361.0 :argument_3_of :arguments_698.0_144.0_361.0 .
+:arguments_698.0_144.0_361.0 :nAryPred :interval_520 .
+:interval_520 :nAryPred :g4;
+      :from 1.6571215925E10 ;
+      :to 1.6571215961E10 ;
+      a :Interval.
+
+:entity_839.0 :argument_1_of :arguments_839.0_775.0_651.0 .
+:entity_775.0 :argument_2_of :arguments_839.0_775.0_651.0 .
+:entity_651.0 :argument_3_of :arguments_839.0_775.0_651.0 .
+:arguments_839.0_775.0_651.0 :nAryPred :interval_521 .
+:interval_521 :nAryPred :g4;
+      :from 4.3233376421E10 ;
+      :to 4.3233376488E10 ;
+      a :Interval.
+
+:entity_840.0 :argument_1_of :arguments_840.0_939.0_517.0 .
+:entity_939.0 :argument_2_of :arguments_840.0_939.0_517.0 .
+:entity_517.0 :argument_3_of :arguments_840.0_939.0_517.0 .
+:arguments_840.0_939.0_517.0 :nAryPred :interval_522 .
+:interval_522 :nAryPred :g4;
+      :from 2.444811222E9 ;
+      :to 2.444811269E9 ;
+      a :Interval.
+
+:entity_602.0 :argument_1_of :arguments_602.0_138.0_546.0 .
+:entity_138.0 :argument_2_of :arguments_602.0_138.0_546.0 .
+:entity_546.0 :argument_3_of :arguments_602.0_138.0_546.0 .
+:arguments_602.0_138.0_546.0 :nAryPred :interval_523 .
+:interval_523 :nAryPred :g4;
+      :from 2.3221283753E10 ;
+      :to 2.3221283836E10 ;
+      a :Interval.
+
+:entity_741.0 :argument_1_of :arguments_741.0_61.0_914.0 .
+:entity_61.0 :argument_2_of :arguments_741.0_61.0_914.0 .
+:entity_914.0 :argument_3_of :arguments_741.0_61.0_914.0 .
+:arguments_741.0_61.0_914.0 :nAryPred :interval_524 .
+:interval_524 :nAryPred :g4;
+      :from 4.5817000212E10 ;
+      :to 4.581700026E10 ;
+      a :Interval.
+
+:entity_27.0 :argument_1_of :arguments_27.0_802.0_413.0 .
+:entity_802.0 :argument_2_of :arguments_27.0_802.0_413.0 .
+:entity_413.0 :argument_3_of :arguments_27.0_802.0_413.0 .
+:arguments_27.0_802.0_413.0 :nAryPred :interval_525 .
+:interval_525 :nAryPred :g4;
+      :from 2.1469836518E10 ;
+      :to 2.1469836571E10 ;
+      a :Interval.
+
+:entity_437.0 :argument_1_of :arguments_437.0_337.0_420.0 .
+:entity_337.0 :argument_2_of :arguments_437.0_337.0_420.0 .
+:entity_420.0 :argument_3_of :arguments_437.0_337.0_420.0 .
+:arguments_437.0_337.0_420.0 :nAryPred :interval_526 .
+:interval_526 :nAryPred :g4;
+      :from 1.9530735317E10 ;
+      :to 1.9530735371E10 ;
+      a :Interval.
+
+:entity_649.0 :argument_1_of :arguments_649.0_317.0_64.0 .
+:entity_317.0 :argument_2_of :arguments_649.0_317.0_64.0 .
+:entity_64.0 :argument_3_of :arguments_649.0_317.0_64.0 .
+:arguments_649.0_317.0_64.0 :nAryPred :interval_527 .
+:interval_527 :nAryPred :g4;
+      :from 1.82944824E10 ;
+      :to 1.8294482492E10 ;
+      a :Interval.
+
+:entity_959.0 :argument_1_of :arguments_959.0_128.0_391.0 .
+:entity_128.0 :argument_2_of :arguments_959.0_128.0_391.0 .
+:entity_391.0 :argument_3_of :arguments_959.0_128.0_391.0 .
+:arguments_959.0_128.0_391.0 :nAryPred :interval_528 .
+:interval_528 :nAryPred :g4;
+      :from 4.7897590959E10 ;
+      :to 4.7897591007E10 ;
+      a :Interval.
+
+:entity_780.0 :argument_1_of :arguments_780.0_322.0_903.0 .
+:entity_322.0 :argument_2_of :arguments_780.0_322.0_903.0 .
+:entity_903.0 :argument_3_of :arguments_780.0_322.0_903.0 .
+:arguments_780.0_322.0_903.0 :nAryPred :interval_529 .
+:interval_529 :nAryPred :g4;
+      :from 3.2665285973E10 ;
+      :to 3.2665286035E10 ;
+      a :Interval.
+
+:entity_228.0 :argument_1_of :arguments_228.0_152.0_942.0 .
+:entity_152.0 :argument_2_of :arguments_228.0_152.0_942.0 .
+:entity_942.0 :argument_3_of :arguments_228.0_152.0_942.0 .
+:arguments_228.0_152.0_942.0 :nAryPred :interval_530 .
+:interval_530 :nAryPred :g4;
+      :from 4.6507578573E10 ;
+      :to 4.6507578639E10 ;
+      a :Interval.
+
+:entity_217.0 :argument_1_of :arguments_217.0_785.0_262.0 .
+:entity_785.0 :argument_2_of :arguments_217.0_785.0_262.0 .
+:entity_262.0 :argument_3_of :arguments_217.0_785.0_262.0 .
+:arguments_217.0_785.0_262.0 :nAryPred :interval_531 .
+:interval_531 :nAryPred :g4;
+      :from 2.0890275059E10 ;
+      :to 2.0890275135E10 ;
+      a :Interval.
+
+:entity_823.0 :argument_1_of :arguments_823.0_72.0_613.0 .
+:entity_72.0 :argument_2_of :arguments_823.0_72.0_613.0 .
+:entity_613.0 :argument_3_of :arguments_823.0_72.0_613.0 .
+:arguments_823.0_72.0_613.0 :nAryPred :interval_532 .
+:interval_532 :nAryPred :g4;
+      :from 5.8516125347E10 ;
+      :to 5.8516125436E10 ;
+      a :Interval.
+
+:entity_729.0 :argument_1_of :arguments_729.0_363.0_841.0 .
+:entity_363.0 :argument_2_of :arguments_729.0_363.0_841.0 .
+:entity_841.0 :argument_3_of :arguments_729.0_363.0_841.0 .
+:arguments_729.0_363.0_841.0 :nAryPred :interval_533 .
+:interval_533 :nAryPred :g4;
+      :from 2.793123923E9 ;
+      :to 2.793123992E9 ;
+      a :Interval.
+
+:entity_889.0 :argument_1_of :arguments_889.0_397.0_891.0 .
+:entity_397.0 :argument_2_of :arguments_889.0_397.0_891.0 .
+:entity_891.0 :argument_3_of :arguments_889.0_397.0_891.0 .
+:arguments_889.0_397.0_891.0 :nAryPred :interval_534 .
+:interval_534 :nAryPred :g4;
+      :from 6.1329177205E10 ;
+      :to 6.1329177275E10 ;
+      a :Interval.
+
+:entity_276.0 :argument_1_of :arguments_276.0_95.0_758.0 .
+:entity_95.0 :argument_2_of :arguments_276.0_95.0_758.0 .
+:entity_758.0 :argument_3_of :arguments_276.0_95.0_758.0 .
+:arguments_276.0_95.0_758.0 :nAryPred :interval_535 .
+:interval_535 :nAryPred :g4;
+      :from 4.5076086545E10 ;
+      :to 4.5076086603E10 ;
+      a :Interval.
+
+:entity_713.0 :argument_1_of :arguments_713.0_112.0_840.0 .
+:entity_112.0 :argument_2_of :arguments_713.0_112.0_840.0 .
+:entity_840.0 :argument_3_of :arguments_713.0_112.0_840.0 .
+:arguments_713.0_112.0_840.0 :nAryPred :interval_536 .
+:interval_536 :nAryPred :g4;
+      :from 3.136696579E9 ;
+      :to 3.136696645E9 ;
+      a :Interval.
+
+:entity_874.0 :argument_1_of :arguments_874.0_858.0_964.0 .
+:entity_858.0 :argument_2_of :arguments_874.0_858.0_964.0 .
+:entity_964.0 :argument_3_of :arguments_874.0_858.0_964.0 .
+:arguments_874.0_858.0_964.0 :nAryPred :interval_537 .
+:interval_537 :nAryPred :g4;
+      :from 3.8843740006E10 ;
+      :to 3.8843740068E10 ;
+      a :Interval.
+
+:entity_337.0 :argument_1_of :arguments_337.0_446.0_514.0 .
+:entity_446.0 :argument_2_of :arguments_337.0_446.0_514.0 .
+:entity_514.0 :argument_3_of :arguments_337.0_446.0_514.0 .
+:arguments_337.0_446.0_514.0 :nAryPred :interval_538 .
+:interval_538 :nAryPred :g4;
+      :from 4.9285999338E10 ;
+      :to 4.9285999399E10 ;
+      a :Interval.
+
+:entity_398.0 :argument_1_of :arguments_398.0_968.0_206.0 .
+:entity_968.0 :argument_2_of :arguments_398.0_968.0_206.0 .
+:entity_206.0 :argument_3_of :arguments_398.0_968.0_206.0 .
+:arguments_398.0_968.0_206.0 :nAryPred :interval_539 .
+:interval_539 :nAryPred :g4;
+      :from 5.0397117524E10 ;
+      :to 5.039711757E10 ;
+      a :Interval.
+
+:entity_23.0 :argument_1_of :arguments_23.0_505.0_147.0 .
+:entity_505.0 :argument_2_of :arguments_23.0_505.0_147.0 .
+:entity_147.0 :argument_3_of :arguments_23.0_505.0_147.0 .
+:arguments_23.0_505.0_147.0 :nAryPred :interval_540 .
+:interval_540 :nAryPred :g4;
+      :from 3.5549970818E10 ;
+      :to 3.5549970866E10 ;
+      a :Interval.
+
+:entity_176.0 :argument_1_of :arguments_176.0_627.0_468.0 .
+:entity_627.0 :argument_2_of :arguments_176.0_627.0_468.0 .
+:entity_468.0 :argument_3_of :arguments_176.0_627.0_468.0 .
+:arguments_176.0_627.0_468.0 :nAryPred :interval_541 .
+:interval_541 :nAryPred :g4;
+      :from 6.1330775231E10 ;
+      :to 6.1330775296E10 ;
+      a :Interval.
+
+:entity_646.0 :argument_1_of :arguments_646.0_272.0_743.0 .
+:entity_272.0 :argument_2_of :arguments_646.0_272.0_743.0 .
+:entity_743.0 :argument_3_of :arguments_646.0_272.0_743.0 .
+:arguments_646.0_272.0_743.0 :nAryPred :interval_542 .
+:interval_542 :nAryPred :g4;
+      :from 2.0262088814E10 ;
+      :to 2.0262088863E10 ;
+      a :Interval.
+
+:entity_497.0 :argument_1_of :arguments_497.0_605.0_647.0 .
+:entity_605.0 :argument_2_of :arguments_497.0_605.0_647.0 .
+:entity_647.0 :argument_3_of :arguments_497.0_605.0_647.0 .
+:arguments_497.0_605.0_647.0 :nAryPred :interval_543 .
+:interval_543 :nAryPred :g4;
+      :from 1.8976975157E10 ;
+      :to 1.8976975215E10 ;
+      a :Interval.
+
+:entity_716.0 :argument_1_of :arguments_716.0_525.0_912.0 .
+:entity_525.0 :argument_2_of :arguments_716.0_525.0_912.0 .
+:entity_912.0 :argument_3_of :arguments_716.0_525.0_912.0 .
+:arguments_716.0_525.0_912.0 :nAryPred :interval_544 .
+:interval_544 :nAryPred :g4;
+      :from 5.1894033878E10 ;
+      :to 5.1894033924E10 ;
+      a :Interval.
+
+:entity_233.0 :argument_1_of :arguments_233.0_45.0_700.0 .
+:entity_45.0 :argument_2_of :arguments_233.0_45.0_700.0 .
+:entity_700.0 :argument_3_of :arguments_233.0_45.0_700.0 .
+:arguments_233.0_45.0_700.0 :nAryPred :interval_545 .
+:interval_545 :nAryPred :g4;
+      :from 3.5620222848E10 ;
+      :to 3.5620222912E10 ;
+      a :Interval.
+
+:entity_314.0 :argument_1_of :arguments_314.0_726.0_538.0 .
+:entity_726.0 :argument_2_of :arguments_314.0_726.0_538.0 .
+:entity_538.0 :argument_3_of :arguments_314.0_726.0_538.0 .
+:arguments_314.0_726.0_538.0 :nAryPred :interval_546 .
+:interval_546 :nAryPred :g4;
+      :from 3.7433778543E10 ;
+      :to 3.7433778618E10 ;
+      a :Interval.
+
+:entity_272.0 :argument_1_of :arguments_272.0_423.0_369.0 .
+:entity_423.0 :argument_2_of :arguments_272.0_423.0_369.0 .
+:entity_369.0 :argument_3_of :arguments_272.0_423.0_369.0 .
+:arguments_272.0_423.0_369.0 :nAryPred :interval_547 .
+:interval_547 :nAryPred :g4;
+      :from 4.0809496813E10 ;
+      :to 4.0809496849E10 ;
+      a :Interval.
+
+:entity_554.0 :argument_1_of :arguments_554.0_562.0_153.0 .
+:entity_562.0 :argument_2_of :arguments_554.0_562.0_153.0 .
+:entity_153.0 :argument_3_of :arguments_554.0_562.0_153.0 .
+:arguments_554.0_562.0_153.0 :nAryPred :interval_548 .
+:interval_548 :nAryPred :g4;
+      :from 3.0936965001E10 ;
+      :to 3.0936965076E10 ;
+      a :Interval.
+
+:entity_6.0 :argument_1_of :arguments_6.0_466.0_96.0 .
+:entity_466.0 :argument_2_of :arguments_6.0_466.0_96.0 .
+:entity_96.0 :argument_3_of :arguments_6.0_466.0_96.0 .
+:arguments_6.0_466.0_96.0 :nAryPred :interval_549 .
+:interval_549 :nAryPred :g4;
+      :from 2.4379889785E10 ;
+      :to 2.4379889825E10 ;
+      a :Interval.
+
+:entity_904.0 :argument_1_of :arguments_904.0_531.0_280.0 .
+:entity_531.0 :argument_2_of :arguments_904.0_531.0_280.0 .
+:entity_280.0 :argument_3_of :arguments_904.0_531.0_280.0 .
+:arguments_904.0_531.0_280.0 :nAryPred :interval_550 .
+:interval_550 :nAryPred :g4;
+      :from 4.890319116E10 ;
+      :to 4.8903191216E10 ;
+      a :Interval.
+
+:entity_815.0 :argument_1_of :arguments_815.0_427.0_675.0 .
+:entity_427.0 :argument_2_of :arguments_815.0_427.0_675.0 .
+:entity_675.0 :argument_3_of :arguments_815.0_427.0_675.0 .
+:arguments_815.0_427.0_675.0 :nAryPred :interval_551 .
+:interval_551 :nAryPred :g4;
+      :from 4.552619809E10 ;
+      :to 4.552619814E10 ;
+      a :Interval.
+
+:entity_429.0 :argument_1_of :arguments_429.0_113.0_288.0 .
+:entity_113.0 :argument_2_of :arguments_429.0_113.0_288.0 .
+:entity_288.0 :argument_3_of :arguments_429.0_113.0_288.0 .
+:arguments_429.0_113.0_288.0 :nAryPred :interval_552 .
+:interval_552 :nAryPred :g4;
+      :from 6.0033323609E10 ;
+      :to 6.0033323652E10 ;
+      a :Interval.
+
+:entity_689.0 :argument_1_of :arguments_689.0_92.0_806.0 .
+:entity_92.0 :argument_2_of :arguments_689.0_92.0_806.0 .
+:entity_806.0 :argument_3_of :arguments_689.0_92.0_806.0 .
+:arguments_689.0_92.0_806.0 :nAryPred :interval_553 .
+:interval_553 :nAryPred :g4;
+      :from 5.8985878756E10 ;
+      :to 5.8985878813E10 ;
+      a :Interval.
+
+:entity_449.0 :argument_1_of :arguments_449.0_664.0_774.0 .
+:entity_664.0 :argument_2_of :arguments_449.0_664.0_774.0 .
+:entity_774.0 :argument_3_of :arguments_449.0_664.0_774.0 .
+:arguments_449.0_664.0_774.0 :nAryPred :interval_554 .
+:interval_554 :nAryPred :g4;
+      :from 2.958746911E10 ;
+      :to 2.9587469201E10 ;
+      a :Interval.
+
+:entity_587.0 :argument_1_of :arguments_587.0_726.0_576.0 .
+:entity_726.0 :argument_2_of :arguments_587.0_726.0_576.0 .
+:entity_576.0 :argument_3_of :arguments_587.0_726.0_576.0 .
+:arguments_587.0_726.0_576.0 :nAryPred :interval_555 .
+:interval_555 :nAryPred :g4;
+      :from 1.1686696354E10 ;
+      :to 1.1686696395E10 ;
+      a :Interval.
+
+:entity_674.0 :argument_1_of :arguments_674.0_501.0_275.0 .
+:entity_501.0 :argument_2_of :arguments_674.0_501.0_275.0 .
+:entity_275.0 :argument_3_of :arguments_674.0_501.0_275.0 .
+:arguments_674.0_501.0_275.0 :nAryPred :interval_556 .
+:interval_556 :nAryPred :g4;
+      :from 1.1700911402E10 ;
+      :to 1.170091148E10 ;
+      a :Interval.
+
+:entity_551.0 :argument_1_of :arguments_551.0_597.0_831.0 .
+:entity_597.0 :argument_2_of :arguments_551.0_597.0_831.0 .
+:entity_831.0 :argument_3_of :arguments_551.0_597.0_831.0 .
+:arguments_551.0_597.0_831.0 :nAryPred :interval_557 .
+:interval_557 :nAryPred :g4;
+      :from 3.7528834606E10 ;
+      :to 3.7528834659E10 ;
+      a :Interval.
+
+:entity_326.0 :argument_1_of :arguments_326.0_949.0_137.0 .
+:entity_949.0 :argument_2_of :arguments_326.0_949.0_137.0 .
+:entity_137.0 :argument_3_of :arguments_326.0_949.0_137.0 .
+:arguments_326.0_949.0_137.0 :nAryPred :interval_558 .
+:interval_558 :nAryPred :g4;
+      :from 1.0619969057E10 ;
+      :to 1.0619969138E10 ;
+      a :Interval.
+
+:entity_206.0 :argument_1_of :arguments_206.0_355.0_859.0 .
+:entity_355.0 :argument_2_of :arguments_206.0_355.0_859.0 .
+:entity_859.0 :argument_3_of :arguments_206.0_355.0_859.0 .
+:arguments_206.0_355.0_859.0 :nAryPred :interval_559 .
+:interval_559 :nAryPred :g4;
+      :from 3.6658446353E10 ;
+      :to 3.6658446418E10 ;
+      a :Interval.
+
+:entity_152.0 :argument_1_of :arguments_152.0_338.0_765.0 .
+:entity_338.0 :argument_2_of :arguments_152.0_338.0_765.0 .
+:entity_765.0 :argument_3_of :arguments_152.0_338.0_765.0 .
+:arguments_152.0_338.0_765.0 :nAryPred :interval_560 .
+:interval_560 :nAryPred :g4;
+      :from 4.3408408801E10 ;
+      :to 4.3408408849E10 ;
+      a :Interval.
+
+:entity_344.0 :argument_1_of :arguments_344.0_893.0_425.0 .
+:entity_893.0 :argument_2_of :arguments_344.0_893.0_425.0 .
+:entity_425.0 :argument_3_of :arguments_344.0_893.0_425.0 .
+:arguments_344.0_893.0_425.0 :nAryPred :interval_561 .
+:interval_561 :nAryPred :g4;
+      :from 3.8011591262E10 ;
+      :to 3.8011591336E10 ;
+      a :Interval.
+
+:entity_202.0 :argument_1_of :arguments_202.0_696.0_431.0 .
+:entity_696.0 :argument_2_of :arguments_202.0_696.0_431.0 .
+:entity_431.0 :argument_3_of :arguments_202.0_696.0_431.0 .
+:arguments_202.0_696.0_431.0 :nAryPred :interval_562 .
+:interval_562 :nAryPred :g4;
+      :from 9.878274367E9 ;
+      :to 9.87827443E9 ;
+      a :Interval.
+
+:entity_871.0 :argument_1_of :arguments_871.0_125.0_725.0 .
+:entity_125.0 :argument_2_of :arguments_871.0_125.0_725.0 .
+:entity_725.0 :argument_3_of :arguments_871.0_125.0_725.0 .
+:arguments_871.0_125.0_725.0 :nAryPred :interval_563 .
+:interval_563 :nAryPred :g4;
+      :from 1.6159250221E10 ;
+      :to 1.6159250271E10 ;
+      a :Interval.
+
+:entity_196.0 :argument_1_of :arguments_196.0_730.0_83.0 .
+:entity_730.0 :argument_2_of :arguments_196.0_730.0_83.0 .
+:entity_83.0 :argument_3_of :arguments_196.0_730.0_83.0 .
+:arguments_196.0_730.0_83.0 :nAryPred :interval_564 .
+:interval_564 :nAryPred :g4;
+      :from 5.0019563158E10 ;
+      :to 5.001956322E10 ;
+      a :Interval.
+
+:entity_946.0 :argument_1_of :arguments_946.0_771.0_150.0 .
+:entity_771.0 :argument_2_of :arguments_946.0_771.0_150.0 .
+:entity_150.0 :argument_3_of :arguments_946.0_771.0_150.0 .
+:arguments_946.0_771.0_150.0 :nAryPred :interval_565 .
+:interval_565 :nAryPred :g4;
+      :from 1.9180913641E10 ;
+      :to 1.9180913719E10 ;
+      a :Interval.
+
+:entity_619.0 :argument_1_of :arguments_619.0_585.0_742.0 .
+:entity_585.0 :argument_2_of :arguments_619.0_585.0_742.0 .
+:entity_742.0 :argument_3_of :arguments_619.0_585.0_742.0 .
+:arguments_619.0_585.0_742.0 :nAryPred :interval_566 .
+:interval_566 :nAryPred :g4;
+      :from 3.9147270171E10 ;
+      :to 3.9147270213E10 ;
+      a :Interval.
+
+:entity_683.0 :argument_1_of :arguments_683.0_489.0_949.0 .
+:entity_489.0 :argument_2_of :arguments_683.0_489.0_949.0 .
+:entity_949.0 :argument_3_of :arguments_683.0_489.0_949.0 .
+:arguments_683.0_489.0_949.0 :nAryPred :interval_567 .
+:interval_567 :nAryPred :g4;
+      :from 2.6408433448E10 ;
+      :to 2.6408433524E10 ;
+      a :Interval.
+
+:entity_959.0 :argument_1_of :arguments_959.0_480.0_646.0 .
+:entity_480.0 :argument_2_of :arguments_959.0_480.0_646.0 .
+:entity_646.0 :argument_3_of :arguments_959.0_480.0_646.0 .
+:arguments_959.0_480.0_646.0 :nAryPred :interval_568 .
+:interval_568 :nAryPred :g4;
+      :from 3.8655778511E10 ;
+      :to 3.8655778572E10 ;
+      a :Interval.
+
+:entity_308.0 :argument_1_of :arguments_308.0_677.0_386.0 .
+:entity_677.0 :argument_2_of :arguments_308.0_677.0_386.0 .
+:entity_386.0 :argument_3_of :arguments_308.0_677.0_386.0 .
+:arguments_308.0_677.0_386.0 :nAryPred :interval_569 .
+:interval_569 :nAryPred :g4;
+      :from 4.1155375859E10 ;
+      :to 4.115537591E10 ;
+      a :Interval.
+
+:entity_576.0 :argument_1_of :arguments_576.0_321.0_148.0 .
+:entity_321.0 :argument_2_of :arguments_576.0_321.0_148.0 .
+:entity_148.0 :argument_3_of :arguments_576.0_321.0_148.0 .
+:arguments_576.0_321.0_148.0 :nAryPred :interval_570 .
+:interval_570 :nAryPred :g4;
+      :from 3.7412983978E10 ;
+      :to 3.7412984018E10 ;
+      a :Interval.
+
+:entity_292.0 :argument_1_of :arguments_292.0_186.0_873.0 .
+:entity_186.0 :argument_2_of :arguments_292.0_186.0_873.0 .
+:entity_873.0 :argument_3_of :arguments_292.0_186.0_873.0 .
+:arguments_292.0_186.0_873.0 :nAryPred :interval_571 .
+:interval_571 :nAryPred :g4;
+      :from 3.2181065899E10 ;
+      :to 3.2181065995E10 ;
+      a :Interval.
+
+:entity_160.0 :argument_1_of :arguments_160.0_780.0_386.0 .
+:entity_780.0 :argument_2_of :arguments_160.0_780.0_386.0 .
+:entity_386.0 :argument_3_of :arguments_160.0_780.0_386.0 .
+:arguments_160.0_780.0_386.0 :nAryPred :interval_572 .
+:interval_572 :nAryPred :g4;
+      :from 5.9275362666E10 ;
+      :to 5.9275362719E10 ;
+      a :Interval.
+
+:entity_559.0 :argument_1_of :arguments_559.0_386.0_25.0 .
+:entity_386.0 :argument_2_of :arguments_559.0_386.0_25.0 .
+:entity_25.0 :argument_3_of :arguments_559.0_386.0_25.0 .
+:arguments_559.0_386.0_25.0 :nAryPred :interval_573 .
+:interval_573 :nAryPred :g4;
+      :from 3.0446451367E10 ;
+      :to 3.0446451448E10 ;
+      a :Interval.
+
+:entity_107.0 :argument_1_of :arguments_107.0_345.0_361.0 .
+:entity_345.0 :argument_2_of :arguments_107.0_345.0_361.0 .
+:entity_361.0 :argument_3_of :arguments_107.0_345.0_361.0 .
+:arguments_107.0_345.0_361.0 :nAryPred :interval_574 .
+:interval_574 :nAryPred :g4;
+      :from 1.3671216656E10 ;
+      :to 1.3671216724E10 ;
+      a :Interval.
+
+:entity_467.0 :argument_1_of :arguments_467.0_809.0_36.0 .
+:entity_809.0 :argument_2_of :arguments_467.0_809.0_36.0 .
+:entity_36.0 :argument_3_of :arguments_467.0_809.0_36.0 .
+:arguments_467.0_809.0_36.0 :nAryPred :interval_575 .
+:interval_575 :nAryPred :g4;
+      :from 4.9421863845E10 ;
+      :to 4.9421863919E10 ;
+      a :Interval.
+
+:entity_67.0 :argument_1_of :arguments_67.0_854.0_696.0 .
+:entity_854.0 :argument_2_of :arguments_67.0_854.0_696.0 .
+:entity_696.0 :argument_3_of :arguments_67.0_854.0_696.0 .
+:arguments_67.0_854.0_696.0 :nAryPred :interval_576 .
+:interval_576 :nAryPred :g4;
+      :from 3.1667042408E10 ;
+      :to 3.1667042454E10 ;
+      a :Interval.
+
+:entity_395.0 :argument_1_of :arguments_395.0_796.0_750.0 .
+:entity_796.0 :argument_2_of :arguments_395.0_796.0_750.0 .
+:entity_750.0 :argument_3_of :arguments_395.0_796.0_750.0 .
+:arguments_395.0_796.0_750.0 :nAryPred :interval_577 .
+:interval_577 :nAryPred :g4;
+      :from 5.62658737E8 ;
+      :to 5.626588E8 ;
+      a :Interval.
+
+:entity_358.0 :argument_1_of :arguments_358.0_326.0_782.0 .
+:entity_326.0 :argument_2_of :arguments_358.0_326.0_782.0 .
+:entity_782.0 :argument_3_of :arguments_358.0_326.0_782.0 .
+:arguments_358.0_326.0_782.0 :nAryPred :interval_578 .
+:interval_578 :nAryPred :g4;
+      :from 4.4159109392E10 ;
+      :to 4.4159109463E10 ;
+      a :Interval.
+
+:entity_359.0 :argument_1_of :arguments_359.0_458.0_598.0 .
+:entity_458.0 :argument_2_of :arguments_359.0_458.0_598.0 .
+:entity_598.0 :argument_3_of :arguments_359.0_458.0_598.0 .
+:arguments_359.0_458.0_598.0 :nAryPred :interval_579 .
+:interval_579 :nAryPred :g4;
+      :from 1.9075244741E10 ;
+      :to 1.9075244809E10 ;
+      a :Interval.
+
+:entity_229.0 :argument_1_of :arguments_229.0_2.0_263.0 .
+:entity_2.0 :argument_2_of :arguments_229.0_2.0_263.0 .
+:entity_263.0 :argument_3_of :arguments_229.0_2.0_263.0 .
+:arguments_229.0_2.0_263.0 :nAryPred :interval_580 .
+:interval_580 :nAryPred :g4;
+      :from 3.2401495108E10 ;
+      :to 3.2401495163E10 ;
+      a :Interval.
+
+:entity_870.0 :argument_1_of :arguments_870.0_276.0_717.0 .
+:entity_276.0 :argument_2_of :arguments_870.0_276.0_717.0 .
+:entity_717.0 :argument_3_of :arguments_870.0_276.0_717.0 .
+:arguments_870.0_276.0_717.0 :nAryPred :interval_581 .
+:interval_581 :nAryPred :g4;
+      :from 5.0324189578E10 ;
+      :to 5.0324189656E10 ;
+      a :Interval.
+
+:entity_67.0 :argument_1_of :arguments_67.0_296.0_796.0 .
+:entity_296.0 :argument_2_of :arguments_67.0_296.0_796.0 .
+:entity_796.0 :argument_3_of :arguments_67.0_296.0_796.0 .
+:arguments_67.0_296.0_796.0 :nAryPred :interval_582 .
+:interval_582 :nAryPred :g4;
+      :from 1.4990103765E10 ;
+      :to 1.4990103822E10 ;
+      a :Interval.
+
+:entity_573.0 :argument_1_of :arguments_573.0_996.0_943.0 .
+:entity_996.0 :argument_2_of :arguments_573.0_996.0_943.0 .
+:entity_943.0 :argument_3_of :arguments_573.0_996.0_943.0 .
+:arguments_573.0_996.0_943.0 :nAryPred :interval_583 .
+:interval_583 :nAryPred :g4;
+      :from 5.188101317E10 ;
+      :to 5.1881013233E10 ;
+      a :Interval.
+
+:entity_473.0 :argument_1_of :arguments_473.0_676.0_615.0 .
+:entity_676.0 :argument_2_of :arguments_473.0_676.0_615.0 .
+:entity_615.0 :argument_3_of :arguments_473.0_676.0_615.0 .
+:arguments_473.0_676.0_615.0 :nAryPred :interval_584 .
+:interval_584 :nAryPred :g4;
+      :from 1.9279156675E10 ;
+      :to 1.9279156737E10 ;
+      a :Interval.
+
+:entity_808.0 :argument_1_of :arguments_808.0_670.0_735.0 .
+:entity_670.0 :argument_2_of :arguments_808.0_670.0_735.0 .
+:entity_735.0 :argument_3_of :arguments_808.0_670.0_735.0 .
+:arguments_808.0_670.0_735.0 :nAryPred :interval_585 .
+:interval_585 :nAryPred :g4;
+      :from 6.0714535046E10 ;
+      :to 6.0714535082E10 ;
+      a :Interval.
+
+:entity_256.0 :argument_1_of :arguments_256.0_220.0_827.0 .
+:entity_220.0 :argument_2_of :arguments_256.0_220.0_827.0 .
+:entity_827.0 :argument_3_of :arguments_256.0_220.0_827.0 .
+:arguments_256.0_220.0_827.0 :nAryPred :interval_586 .
+:interval_586 :nAryPred :g4;
+      :from 3.2925582556E10 ;
+      :to 3.2925582593E10 ;
+      a :Interval.
+
+:entity_680.0 :argument_1_of :arguments_680.0_617.0_16.0 .
+:entity_617.0 :argument_2_of :arguments_680.0_617.0_16.0 .
+:entity_16.0 :argument_3_of :arguments_680.0_617.0_16.0 .
+:arguments_680.0_617.0_16.0 :nAryPred :interval_587 .
+:interval_587 :nAryPred :g4;
+      :from 7.760644596E9 ;
+      :to 7.760644651E9 ;
+      a :Interval.
+
+:entity_590.0 :argument_1_of :arguments_590.0_607.0_669.0 .
+:entity_607.0 :argument_2_of :arguments_590.0_607.0_669.0 .
+:entity_669.0 :argument_3_of :arguments_590.0_607.0_669.0 .
+:arguments_590.0_607.0_669.0 :nAryPred :interval_588 .
+:interval_588 :nAryPred :g4;
+      :from 5.8415197532E10 ;
+      :to 5.8415197583E10 ;
+      a :Interval.
+
+:entity_446.0 :argument_1_of :arguments_446.0_260.0_927.0 .
+:entity_260.0 :argument_2_of :arguments_446.0_260.0_927.0 .
+:entity_927.0 :argument_3_of :arguments_446.0_260.0_927.0 .
+:arguments_446.0_260.0_927.0 :nAryPred :interval_589 .
+:interval_589 :nAryPred :g4;
+      :from 3.5213375556E10 ;
+      :to 3.5213375609E10 ;
+      a :Interval.
+
+:entity_624.0 :argument_1_of :arguments_624.0_841.0_755.0 .
+:entity_841.0 :argument_2_of :arguments_624.0_841.0_755.0 .
+:entity_755.0 :argument_3_of :arguments_624.0_841.0_755.0 .
+:arguments_624.0_841.0_755.0 :nAryPred :interval_590 .
+:interval_590 :nAryPred :g4;
+      :from 1.8724762848E10 ;
+      :to 1.8724762922E10 ;
+      a :Interval.
+
+:entity_876.0 :argument_1_of :arguments_876.0_723.0_675.0 .
+:entity_723.0 :argument_2_of :arguments_876.0_723.0_675.0 .
+:entity_675.0 :argument_3_of :arguments_876.0_723.0_675.0 .
+:arguments_876.0_723.0_675.0 :nAryPred :interval_591 .
+:interval_591 :nAryPred :g4;
+      :from 2.743520056E10 ;
+      :to 2.7435200625E10 ;
+      a :Interval.
+
+:entity_380.0 :argument_1_of :arguments_380.0_753.0_827.0 .
+:entity_753.0 :argument_2_of :arguments_380.0_753.0_827.0 .
+:entity_827.0 :argument_3_of :arguments_380.0_753.0_827.0 .
+:arguments_380.0_753.0_827.0 :nAryPred :interval_592 .
+:interval_592 :nAryPred :g4;
+      :from 4.5561886865E10 ;
+      :to 4.5561886929E10 ;
+      a :Interval.
+
+:entity_97.0 :argument_1_of :arguments_97.0_213.0_352.0 .
+:entity_213.0 :argument_2_of :arguments_97.0_213.0_352.0 .
+:entity_352.0 :argument_3_of :arguments_97.0_213.0_352.0 .
+:arguments_97.0_213.0_352.0 :nAryPred :interval_593 .
+:interval_593 :nAryPred :g4;
+      :from 1.5710020242E10 ;
+      :to 1.5710020285E10 ;
+      a :Interval.
+
+:entity_283.0 :argument_1_of :arguments_283.0_701.0_274.0 .
+:entity_701.0 :argument_2_of :arguments_283.0_701.0_274.0 .
+:entity_274.0 :argument_3_of :arguments_283.0_701.0_274.0 .
+:arguments_283.0_701.0_274.0 :nAryPred :interval_594 .
+:interval_594 :nAryPred :g4;
+      :from 5.7926922188E10 ;
+      :to 5.7926922256E10 ;
+      a :Interval.
+
+:entity_66.0 :argument_1_of :arguments_66.0_426.0_390.0 .
+:entity_426.0 :argument_2_of :arguments_66.0_426.0_390.0 .
+:entity_390.0 :argument_3_of :arguments_66.0_426.0_390.0 .
+:arguments_66.0_426.0_390.0 :nAryPred :interval_595 .
+:interval_595 :nAryPred :g4;
+      :from 2.4281779515E10 ;
+      :to 2.4281779565E10 ;
+      a :Interval.
+
+:entity_523.0 :argument_1_of :arguments_523.0_721.0_152.0 .
+:entity_721.0 :argument_2_of :arguments_523.0_721.0_152.0 .
+:entity_152.0 :argument_3_of :arguments_523.0_721.0_152.0 .
+:arguments_523.0_721.0_152.0 :nAryPred :interval_596 .
+:interval_596 :nAryPred :g4;
+      :from 5.4098850386E10 ;
+      :to 5.409885044E10 ;
+      a :Interval.
+
+:entity_77.0 :argument_1_of :arguments_77.0_514.0_825.0 .
+:entity_514.0 :argument_2_of :arguments_77.0_514.0_825.0 .
+:entity_825.0 :argument_3_of :arguments_77.0_514.0_825.0 .
+:arguments_77.0_514.0_825.0 :nAryPred :interval_597 .
+:interval_597 :nAryPred :g4;
+      :from 4.1950103811E10 ;
+      :to 4.1950103864E10 ;
+      a :Interval.
+
+:entity_971.0 :argument_1_of :arguments_971.0_530.0_425.0 .
+:entity_530.0 :argument_2_of :arguments_971.0_530.0_425.0 .
+:entity_425.0 :argument_3_of :arguments_971.0_530.0_425.0 .
+:arguments_971.0_530.0_425.0 :nAryPred :interval_598 .
+:interval_598 :nAryPred :g4;
+      :from 5.30167148E8 ;
+      :to 5.30167217E8 ;
+      a :Interval.
+
+:entity_502.0 :argument_1_of :arguments_502.0_967.0_821.0 .
+:entity_967.0 :argument_2_of :arguments_502.0_967.0_821.0 .
+:entity_821.0 :argument_3_of :arguments_502.0_967.0_821.0 .
+:arguments_502.0_967.0_821.0 :nAryPred :interval_599 .
+:interval_599 :nAryPred :g4;
+      :from 1.1326865545E10 ;
+      :to 1.1326865597E10 ;
+      a :Interval.
+
+:entity_523.0 :argument_1_of :arguments_523.0_110.0_156.0 .
+:entity_110.0 :argument_2_of :arguments_523.0_110.0_156.0 .
+:entity_156.0 :argument_3_of :arguments_523.0_110.0_156.0 .
+:arguments_523.0_110.0_156.0 :nAryPred :interval_600 .
+:interval_600 :nAryPred :g4;
+      :from 5.879499905E10 ;
+      :to 5.879499911E10 ;
+      a :Interval.
+
+:entity_232.0 :argument_1_of :arguments_232.0_997.0_401.0 .
+:entity_997.0 :argument_2_of :arguments_232.0_997.0_401.0 .
+:entity_401.0 :argument_3_of :arguments_232.0_997.0_401.0 .
+:arguments_232.0_997.0_401.0 :nAryPred :interval_601 .
+:interval_601 :nAryPred :g4;
+      :from 4.5752126059E10 ;
+      :to 4.5752126113E10 ;
+      a :Interval.
+
+:entity_119.0 :argument_1_of :arguments_119.0_592.0_751.0 .
+:entity_592.0 :argument_2_of :arguments_119.0_592.0_751.0 .
+:entity_751.0 :argument_3_of :arguments_119.0_592.0_751.0 .
+:arguments_119.0_592.0_751.0 :nAryPred :interval_602 .
+:interval_602 :nAryPred :g4;
+      :from 4.1643594583E10 ;
+      :to 4.1643594638E10 ;
+      a :Interval.
+
+:entity_771.0 :argument_1_of :arguments_771.0_129.0_317.0 .
+:entity_129.0 :argument_2_of :arguments_771.0_129.0_317.0 .
+:entity_317.0 :argument_3_of :arguments_771.0_129.0_317.0 .
+:arguments_771.0_129.0_317.0 :nAryPred :interval_603 .
+:interval_603 :nAryPred :g4;
+      :from 4.5223897995E10 ;
+      :to 4.5223898045E10 ;
+      a :Interval.
+
+:entity_98.0 :argument_1_of :arguments_98.0_617.0_810.0 .
+:entity_617.0 :argument_2_of :arguments_98.0_617.0_810.0 .
+:entity_810.0 :argument_3_of :arguments_98.0_617.0_810.0 .
+:arguments_98.0_617.0_810.0 :nAryPred :interval_604 .
+:interval_604 :nAryPred :g4;
+      :from 6.0480472443E10 ;
+      :to 6.0480472497E10 ;
+      a :Interval.
+
+:entity_757.0 :argument_1_of :arguments_757.0_283.0_178.0 .
+:entity_283.0 :argument_2_of :arguments_757.0_283.0_178.0 .
+:entity_178.0 :argument_3_of :arguments_757.0_283.0_178.0 .
+:arguments_757.0_283.0_178.0 :nAryPred :interval_605 .
+:interval_605 :nAryPred :g4;
+      :from 4.4076045016E10 ;
+      :to 4.4076045081E10 ;
+      a :Interval.
+
+:entity_220.0 :argument_1_of :arguments_220.0_918.0_571.0 .
+:entity_918.0 :argument_2_of :arguments_220.0_918.0_571.0 .
+:entity_571.0 :argument_3_of :arguments_220.0_918.0_571.0 .
+:arguments_220.0_918.0_571.0 :nAryPred :interval_606 .
+:interval_606 :nAryPred :g4;
+      :from 1.8635324084E10 ;
+      :to 1.8635324131E10 ;
+      a :Interval.
+
+:entity_14.0 :argument_1_of :arguments_14.0_313.0_558.0 .
+:entity_313.0 :argument_2_of :arguments_14.0_313.0_558.0 .
+:entity_558.0 :argument_3_of :arguments_14.0_313.0_558.0 .
+:arguments_14.0_313.0_558.0 :nAryPred :interval_607 .
+:interval_607 :nAryPred :g4;
+      :from 5.056377732E10 ;
+      :to 5.0563777385E10 ;
+      a :Interval.
+
+:entity_651.0 :argument_1_of :arguments_651.0_693.0_629.0 .
+:entity_693.0 :argument_2_of :arguments_651.0_693.0_629.0 .
+:entity_629.0 :argument_3_of :arguments_651.0_693.0_629.0 .
+:arguments_651.0_693.0_629.0 :nAryPred :interval_608 .
+:interval_608 :nAryPred :g4;
+      :from 3.0436164578E10 ;
+      :to 3.0436164644E10 ;
+      a :Interval.
+
+:entity_877.0 :argument_1_of :arguments_877.0_440.0_342.0 .
+:entity_440.0 :argument_2_of :arguments_877.0_440.0_342.0 .
+:entity_342.0 :argument_3_of :arguments_877.0_440.0_342.0 .
+:arguments_877.0_440.0_342.0 :nAryPred :interval_609 .
+:interval_609 :nAryPred :g4;
+      :from 3.6137601174E10 ;
+      :to 3.6137601236E10 ;
+      a :Interval.
+
+:entity_50.0 :argument_1_of :arguments_50.0_629.0_800.0 .
+:entity_629.0 :argument_2_of :arguments_50.0_629.0_800.0 .
+:entity_800.0 :argument_3_of :arguments_50.0_629.0_800.0 .
+:arguments_50.0_629.0_800.0 :nAryPred :interval_610 .
+:interval_610 :nAryPred :g4;
+      :from 5.1794191677E10 ;
+      :to 5.1794191737E10 ;
+      a :Interval.
+
+:entity_880.0 :argument_1_of :arguments_880.0_831.0_134.0 .
+:entity_831.0 :argument_2_of :arguments_880.0_831.0_134.0 .
+:entity_134.0 :argument_3_of :arguments_880.0_831.0_134.0 .
+:arguments_880.0_831.0_134.0 :nAryPred :interval_611 .
+:interval_611 :nAryPred :g4;
+      :from 5.297455298E10 ;
+      :to 5.2974553042E10 ;
+      a :Interval.
+
+:entity_950.0 :argument_1_of :arguments_950.0_375.0_552.0 .
+:entity_375.0 :argument_2_of :arguments_950.0_375.0_552.0 .
+:entity_552.0 :argument_3_of :arguments_950.0_375.0_552.0 .
+:arguments_950.0_375.0_552.0 :nAryPred :interval_612 .
+:interval_612 :nAryPred :g4;
+      :from 2.3421618862E10 ;
+      :to 2.3421618925E10 ;
+      a :Interval.
+
+:entity_670.0 :argument_1_of :arguments_670.0_755.0_752.0 .
+:entity_755.0 :argument_2_of :arguments_670.0_755.0_752.0 .
+:entity_752.0 :argument_3_of :arguments_670.0_755.0_752.0 .
+:arguments_670.0_755.0_752.0 :nAryPred :interval_613 .
+:interval_613 :nAryPred :g4;
+      :from 1.236662383E9 ;
+      :to 1.236662449E9 ;
+      a :Interval.
+
+:entity_820.0 :argument_1_of :arguments_820.0_306.0_272.0 .
+:entity_306.0 :argument_2_of :arguments_820.0_306.0_272.0 .
+:entity_272.0 :argument_3_of :arguments_820.0_306.0_272.0 .
+:arguments_820.0_306.0_272.0 :nAryPred :interval_614 .
+:interval_614 :nAryPred :g4;
+      :from 1.3362382515E10 ;
+      :to 1.3362382584E10 ;
+      a :Interval.
+
+:entity_781.0 :argument_1_of :arguments_781.0_613.0_846.0 .
+:entity_613.0 :argument_2_of :arguments_781.0_613.0_846.0 .
+:entity_846.0 :argument_3_of :arguments_781.0_613.0_846.0 .
+:arguments_781.0_613.0_846.0 :nAryPred :interval_615 .
+:interval_615 :nAryPred :g4;
+      :from 5.0073084366E10 ;
+      :to 5.0073084429E10 ;
+      a :Interval.
+
+:entity_874.0 :argument_1_of :arguments_874.0_156.0_389.0 .
+:entity_156.0 :argument_2_of :arguments_874.0_156.0_389.0 .
+:entity_389.0 :argument_3_of :arguments_874.0_156.0_389.0 .
+:arguments_874.0_156.0_389.0 :nAryPred :interval_616 .
+:interval_616 :nAryPred :g4;
+      :from 4.0106810836E10 ;
+      :to 4.0106810881E10 ;
+      a :Interval.
+
+:entity_613.0 :argument_1_of :arguments_613.0_815.0_126.0 .
+:entity_815.0 :argument_2_of :arguments_613.0_815.0_126.0 .
+:entity_126.0 :argument_3_of :arguments_613.0_815.0_126.0 .
+:arguments_613.0_815.0_126.0 :nAryPred :interval_617 .
+:interval_617 :nAryPred :g4;
+      :from 2.879732263E9 ;
+      :to 2.879732331E9 ;
+      a :Interval.
+
+:entity_278.0 :argument_1_of :arguments_278.0_897.0_509.0 .
+:entity_897.0 :argument_2_of :arguments_278.0_897.0_509.0 .
+:entity_509.0 :argument_3_of :arguments_278.0_897.0_509.0 .
+:arguments_278.0_897.0_509.0 :nAryPred :interval_618 .
+:interval_618 :nAryPred :g4;
+      :from 4.9723139462E10 ;
+      :to 4.972313952E10 ;
+      a :Interval.
+
+:entity_53.0 :argument_1_of :arguments_53.0_89.0_617.0 .
+:entity_89.0 :argument_2_of :arguments_53.0_89.0_617.0 .
+:entity_617.0 :argument_3_of :arguments_53.0_89.0_617.0 .
+:arguments_53.0_89.0_617.0 :nAryPred :interval_619 .
+:interval_619 :nAryPred :g4;
+      :from 3.5775967459E10 ;
+      :to 3.5775967515E10 ;
+      a :Interval.
+
+:entity_137.0 :argument_1_of :arguments_137.0_416.0_130.0 .
+:entity_416.0 :argument_2_of :arguments_137.0_416.0_130.0 .
+:entity_130.0 :argument_3_of :arguments_137.0_416.0_130.0 .
+:arguments_137.0_416.0_130.0 :nAryPred :interval_620 .
+:interval_620 :nAryPred :g4;
+      :from 5.6475831736E10 ;
+      :to 5.647583181E10 ;
+      a :Interval.
+

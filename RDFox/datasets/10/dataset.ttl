@@ -1,0 +1,150 @@
+@prefix : <http://example.org/> .
+:g1 :hasArity 3.
+
+:entity_428.0 :argument_1_of :arguments_428.0_355.0_325.0 .
+:entity_355.0 :argument_2_of :arguments_428.0_355.0_325.0 .
+:entity_325.0 :argument_3_of :arguments_428.0_355.0_325.0 .
+:arguments_428.0_355.0_325.0 :nAryPred :interval_0 .
+:interval_0 :nAryPred :g1;
+      :from 1.1035591485E10 ;
+      :to 1.1035591528E10 ;
+      a :Interval.
+
+:entity_407.0 :argument_1_of :arguments_407.0_536.0_371.0 .
+:entity_536.0 :argument_2_of :arguments_407.0_536.0_371.0 .
+:entity_371.0 :argument_3_of :arguments_407.0_536.0_371.0 .
+:arguments_407.0_536.0_371.0 :nAryPred :interval_1 .
+:interval_1 :nAryPred :g1;
+      :from 2.5021146778E10 ;
+      :to 2.5021146831E10 ;
+      a :Interval.
+
+:entity_189.0 :argument_1_of :arguments_189.0_470.0_823.0 .
+:entity_470.0 :argument_2_of :arguments_189.0_470.0_823.0 .
+:entity_823.0 :argument_3_of :arguments_189.0_470.0_823.0 .
+:arguments_189.0_470.0_823.0 :nAryPred :interval_2 .
+:interval_2 :nAryPred :g1;
+      :from 2.606175255E9 ;
+      :to 2.606175318E9 ;
+      a :Interval.
+
+:entity_949.0 :argument_1_of :arguments_949.0_636.0_477.0 .
+:entity_636.0 :argument_2_of :arguments_949.0_636.0_477.0 .
+:entity_477.0 :argument_3_of :arguments_949.0_636.0_477.0 .
+:arguments_949.0_636.0_477.0 :nAryPred :interval_3 .
+:interval_3 :nAryPred :g1;
+      :from 3.0964291229E10 ;
+      :to 3.0964291325E10 ;
+      a :Interval.
+
+:entity_905.0 :argument_1_of :arguments_905.0_280.0_45.0 .
+:entity_280.0 :argument_2_of :arguments_905.0_280.0_45.0 .
+:entity_45.0 :argument_3_of :arguments_905.0_280.0_45.0 .
+:arguments_905.0_280.0_45.0 :nAryPred :interval_4 .
+:interval_4 :nAryPred :g1;
+      :from 0.0 ;
+      :to 51.0 ;
+      a :Interval.
+
+:entity_935.0 :argument_1_of :arguments_935.0_324.0_71.0 .
+:entity_324.0 :argument_2_of :arguments_935.0_324.0_71.0 .
+:entity_71.0 :argument_3_of :arguments_935.0_324.0_71.0 .
+:arguments_935.0_324.0_71.0 :nAryPred :interval_5 .
+:interval_5 :nAryPred :g1;
+      :from 3.0258825283E10 ;
+      :to 3.025882534E10 ;
+      a :Interval.
+
+:entity_375.0 :argument_1_of :arguments_375.0_429.0_109.0 .
+:entity_429.0 :argument_2_of :arguments_375.0_429.0_109.0 .
+:entity_109.0 :argument_3_of :arguments_375.0_429.0_109.0 .
+:arguments_375.0_429.0_109.0 :nAryPred :interval_6 .
+:interval_6 :nAryPred :g1;
+      :from 4.7795107687E10 ;
+      :to 4.7795107736E10 ;
+      a :Interval.
+
+:entity_812.0 :argument_1_of :arguments_812.0_781.0_70.0 .
+:entity_781.0 :argument_2_of :arguments_812.0_781.0_70.0 .
+:entity_70.0 :argument_3_of :arguments_812.0_781.0_70.0 .
+:arguments_812.0_781.0_70.0 :nAryPred :interval_7 .
+:interval_7 :nAryPred :g1;
+      :from 3.1050800925E10 ;
+      :to 3.1050800994E10 ;
+      a :Interval.
+
+:entity_720.0 :argument_1_of :arguments_720.0_420.0_121.0 .
+:entity_420.0 :argument_2_of :arguments_720.0_420.0_121.0 .
+:entity_121.0 :argument_3_of :arguments_720.0_420.0_121.0 .
+:arguments_720.0_420.0_121.0 :nAryPred :interval_8 .
+:interval_8 :nAryPred :g1;
+      :from 4.4669581053E10 ;
+      :to 4.4669581116E10 ;
+      a :Interval.
+
+:g2 a :BinaryPredicate .
+
+:entity_949.0 :g2 :interval_10 .
+:interval_10 :g2 :entity_636.0;
+      :from 3.0964291243E10 ;
+      :to 3.0964291325E10 ;
+      a :Interval.
+
+:g3 a :BinaryPredicate .
+
+:entity_229.0 :g3 :interval_12 .
+:interval_12 :g3 :entity_520.0;
+      :from 3.2231395675E10 ;
+      :to 3.2231395734E10 ;
+      a :Interval.
+
+:entity_949.0 :g3 :interval_13 .
+:interval_13 :g3 :entity_636.0;
+      :from 3.0964291237E10 ;
+      :to 3.0964291308E10 ;
+      a :Interval.
+
+:entity_953.0 :g3 :interval_14 .
+:interval_14 :g3 :entity_82.0;
+      :from 5.1013904913E10 ;
+      :to 5.1013904984E10 ;
+      a :Interval.
+
+:g4 a :BinaryPredicate .
+
+:entity_229.0 :g4 :interval_16 .
+:interval_16 :g4 :entity_520.0;
+      :from 3.2231395671E10 ;
+      :to 3.2231395732E10 ;
+      a :Interval.
+
+:entity_953.0 :g4 :interval_17 .
+:interval_17 :g4 :entity_82.0;
+      :from 5.1013904923E10 ;
+      :to 5.1013904979E10 ;
+      a :Interval.
+
+:entity_9.0 :g4 :interval_18 .
+:interval_18 :g4 :entity_207.0;
+      :from 3.9866326087E10 ;
+      :to 3.9866326133E10 ;
+      a :Interval.
+
+:entity_214.0 :g4 :interval_19 .
+:interval_19 :g4 :entity_223.0;
+      :from 3.0206016046E10 ;
+      :to 3.0206016093E10 ;
+      a :Interval.
+
+:entity_835.0 :g4 :interval_20 .
+:interval_20 :g4 :entity_142.0;
+      :from 3.426461562E10 ;
+      :to 3.4264615669E10 ;
+      a :Interval.
+
+:entity_113.0 :g4 :interval_21 .
+:interval_21 :g4 :entity_929.0;
+      :from 2.6457526606E10 ;
+      :to 2.6457526657E10 ;
+      a :Interval.
+

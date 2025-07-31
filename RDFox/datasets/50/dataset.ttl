@@ -1,0 +1,1173 @@
+@prefix : <http://example.org/> .
+:g1 a :UnaryPredicate .
+
+:entity_872.0 :unaryPred :interval_0 .
+:interval_0 :unaryPred :g1;
+      :from 4.576440971E9 ;
+      :to 4.576441085E9 ;
+      a :Interval.
+
+:entity_542.0 :unaryPred :interval_1 .
+:interval_1 :unaryPred :g1;
+      :from 4.6314715839E10 ;
+      :to 4.6314715943E10 ;
+      a :Interval.
+
+:entity_95.0 :unaryPred :interval_2 .
+:interval_2 :unaryPred :g1;
+      :from 1.5614803549E10 ;
+      :to 1.5614803657E10 ;
+      a :Interval.
+
+:entity_629.0 :unaryPred :interval_3 .
+:interval_3 :unaryPred :g1;
+      :from 3.4801729862E10 ;
+      :to 3.4801729974E10 ;
+      a :Interval.
+
+:entity_370.0 :unaryPred :interval_4 .
+:interval_4 :unaryPred :g1;
+      :from 6.145640979E10 ;
+      :to 6.1456409904E10 ;
+      a :Interval.
+
+:entity_506.0 :unaryPred :interval_5 .
+:interval_5 :unaryPred :g1;
+      :from 2.2853495935E10 ;
+      :to 2.2853496061E10 ;
+      a :Interval.
+
+:entity_488.0 :unaryPred :interval_6 .
+:interval_6 :unaryPred :g1;
+      :from 4.1793241179E10 ;
+      :to 4.1793241288E10 ;
+      a :Interval.
+
+:entity_761.0 :unaryPred :interval_7 .
+:interval_7 :unaryPred :g1;
+      :from 4.9537571279E10 ;
+      :to 4.953757137E10 ;
+      a :Interval.
+
+:entity_67.0 :unaryPred :interval_8 .
+:interval_8 :unaryPred :g1;
+      :from 4.2748505405E10 ;
+      :to 4.2748505514E10 ;
+      a :Interval.
+
+:entity_399.0 :unaryPred :interval_9 .
+:interval_9 :unaryPred :g1;
+      :from 8.50947779E8 ;
+      :to 8.50947912E8 ;
+      a :Interval.
+
+:entity_750.0 :unaryPred :interval_10 .
+:interval_10 :unaryPred :g1;
+      :from 2.1229200306E10 ;
+      :to 2.1229200417E10 ;
+      a :Interval.
+
+:entity_184.0 :unaryPred :interval_11 .
+:interval_11 :unaryPred :g1;
+      :from 1.3997798899E10 ;
+      :to 1.3997799029E10 ;
+      a :Interval.
+
+:entity_658.0 :unaryPred :interval_12 .
+:interval_12 :unaryPred :g1;
+      :from 4.3634614721E10 ;
+      :to 4.3634614834E10 ;
+      a :Interval.
+
+:entity_772.0 :unaryPred :interval_13 .
+:interval_13 :unaryPred :g1;
+      :from 5.9561425326E10 ;
+      :to 5.9561425427E10 ;
+      a :Interval.
+
+:entity_767.0 :unaryPred :interval_14 .
+:interval_14 :unaryPred :g1;
+      :from 5.8383052141E10 ;
+      :to 5.838305224E10 ;
+      a :Interval.
+
+:entity_168.0 :unaryPred :interval_15 .
+:interval_15 :unaryPred :g1;
+      :from 3.4827708903E10 ;
+      :to 3.4827709009E10 ;
+      a :Interval.
+
+:entity_794.0 :unaryPred :interval_16 .
+:interval_16 :unaryPred :g1;
+      :from 5.52496367E10 ;
+      :to 5.5249636799E10 ;
+      a :Interval.
+
+:entity_947.0 :unaryPred :interval_17 .
+:interval_17 :unaryPred :g1;
+      :from 2.6355843287E10 ;
+      :to 2.6355843418E10 ;
+      a :Interval.
+
+:entity_783.0 :unaryPred :interval_18 .
+:interval_18 :unaryPred :g1;
+      :from 1.004173251E9 ;
+      :to 1.00417337E9 ;
+      a :Interval.
+
+:entity_32.0 :unaryPred :interval_19 .
+:interval_19 :unaryPred :g1;
+      :from 5.6716777497E10 ;
+      :to 5.6716777615E10 ;
+      a :Interval.
+
+:entity_247.0 :unaryPred :interval_20 .
+:interval_20 :unaryPred :g1;
+      :from 3.526523462E10 ;
+      :to 3.5265234713E10 ;
+      a :Interval.
+
+:entity_352.0 :unaryPred :interval_21 .
+:interval_21 :unaryPred :g1;
+      :from 3.522203594E9 ;
+      :to 3.522203696E9 ;
+      a :Interval.
+
+:entity_402.0 :unaryPred :interval_22 .
+:interval_22 :unaryPred :g1;
+      :from 3.2380178566E10 ;
+      :to 3.2380178687E10 ;
+      a :Interval.
+
+:entity_911.0 :unaryPred :interval_23 .
+:interval_23 :unaryPred :g1;
+      :from 5.0617421903E10 ;
+      :to 5.0617422003E10 ;
+      a :Interval.
+
+:entity_124.0 :unaryPred :interval_24 .
+:interval_24 :unaryPred :g1;
+      :from 3.053798185E9 ;
+      :to 3.053798293E9 ;
+      a :Interval.
+
+:entity_369.0 :unaryPred :interval_25 .
+:interval_25 :unaryPred :g1;
+      :from 3.1560233214E10 ;
+      :to 3.1560233323E10 ;
+      a :Interval.
+
+:entity_284.0 :unaryPred :interval_26 .
+:interval_26 :unaryPred :g1;
+      :from 4.2869409231E10 ;
+      :to 4.2869409341E10 ;
+      a :Interval.
+
+:entity_947.0 :unaryPred :interval_27 .
+:interval_27 :unaryPred :g1;
+      :from 5.1916592278E10 ;
+      :to 5.1916592423E10 ;
+      a :Interval.
+
+:entity_990.0 :unaryPred :interval_28 .
+:interval_28 :unaryPred :g1;
+      :from 1.5170279154E10 ;
+      :to 1.5170279273E10 ;
+      a :Interval.
+
+:entity_658.0 :unaryPred :interval_29 .
+:interval_29 :unaryPred :g1;
+      :from 4.1093015982E10 ;
+      :to 4.1093016097E10 ;
+      a :Interval.
+
+:entity_78.0 :unaryPred :interval_30 .
+:interval_30 :unaryPred :g1;
+      :from 5.0352050512E10 ;
+      :to 5.0352050644E10 ;
+      a :Interval.
+
+:g2 a :BinaryPredicate .
+
+:entity_400.0 :g2 :interval_32 .
+:interval_32 :g2 :entity_658.0;
+      :from 4.1093016006E10 ;
+      :to 4.1093016069E10 ;
+      a :Interval.
+
+:entity_624.0 :g2 :interval_33 .
+:interval_33 :g2 :entity_878.0;
+      :from 1.8793008518E10 ;
+      :to 1.8793008619E10 ;
+      a :Interval.
+
+:entity_902.0 :g2 :interval_34 .
+:interval_34 :g2 :entity_498.0;
+      :from 4.3181004865E10 ;
+      :to 4.3181004956E10 ;
+      a :Interval.
+
+:entity_955.0 :g2 :interval_35 .
+:interval_35 :g2 :entity_859.0;
+      :from 2.1332202459E10 ;
+      :to 2.1332202555E10 ;
+      a :Interval.
+
+:entity_918.0 :g2 :interval_36 .
+:interval_36 :g2 :entity_402.0;
+      :from 3.2380178587E10 ;
+      :to 3.238017868E10 ;
+      a :Interval.
+
+:entity_369.0 :g2 :interval_37 .
+:interval_37 :g2 :entity_794.0;
+      :from 5.5249636708E10 ;
+      :to 5.5249636801E10 ;
+      a :Interval.
+
+:entity_99.0 :g2 :interval_38 .
+:interval_38 :g2 :entity_271.0;
+      :from 1.6765512616E10 ;
+      :to 1.6765512699E10 ;
+      a :Interval.
+
+:entity_896.0 :g2 :interval_39 .
+:interval_39 :g2 :entity_230.0;
+      :from 3.7734076568E10 ;
+      :to 3.773407668E10 ;
+      a :Interval.
+
+:entity_509.0 :g2 :interval_40 .
+:interval_40 :g2 :entity_184.0;
+      :from 1.3997798903E10 ;
+      :to 1.399779902E10 ;
+      a :Interval.
+
+:entity_346.0 :g2 :interval_41 .
+:interval_41 :g2 :entity_761.0;
+      :from 4.9537571289E10 ;
+      :to 4.9537571364E10 ;
+      a :Interval.
+
+:entity_458.0 :g2 :interval_42 .
+:interval_42 :g2 :entity_783.0;
+      :from 1.004173255E9 ;
+      :to 1.004173354E9 ;
+      a :Interval.
+
+:entity_730.0 :g2 :interval_43 .
+:interval_43 :g2 :entity_247.0;
+      :from 3.5265234625E10 ;
+      :to 3.526523471E10 ;
+      a :Interval.
+
+:entity_878.0 :g2 :interval_44 .
+:interval_44 :g2 :entity_78.0;
+      :from 5.0352050536E10 ;
+      :to 5.0352050624E10 ;
+      a :Interval.
+
+:entity_384.0 :g2 :interval_45 .
+:interval_45 :g2 :entity_990.0;
+      :from 1.5170279175E10 ;
+      :to 1.5170279257E10 ;
+      a :Interval.
+
+:entity_371.0 :g2 :interval_46 .
+:interval_46 :g2 :entity_393.0;
+      :from 1.6846445356E10 ;
+      :to 1.6846445433E10 ;
+      a :Interval.
+
+:entity_309.0 :g2 :interval_47 .
+:interval_47 :g2 :entity_204.0;
+      :from 3.1276494037E10 ;
+      :to 3.1276494124E10 ;
+      a :Interval.
+
+:entity_473.0 :g2 :interval_48 .
+:interval_48 :g2 :entity_448.0;
+      :from 5.254389274E9 ;
+      :to 5.254389371E9 ;
+      a :Interval.
+
+:entity_101.0 :g2 :interval_49 .
+:interval_49 :g2 :entity_772.0;
+      :from 5.9561425336E10 ;
+      :to 5.9561425424E10 ;
+      a :Interval.
+
+:entity_231.0 :g2 :interval_50 .
+:interval_50 :g2 :entity_764.0;
+      :from 5.0455931635E10 ;
+      :to 5.0455931725E10 ;
+      a :Interval.
+
+:entity_483.0 :g2 :interval_51 .
+:interval_51 :g2 :entity_767.0;
+      :from 5.8383052136E10 ;
+      :to 5.8383052234E10 ;
+      a :Interval.
+
+:entity_274.0 :g2 :interval_52 .
+:interval_52 :g2 :entity_658.0;
+      :from 4.3634614734E10 ;
+      :to 4.3634614833E10 ;
+      a :Interval.
+
+:entity_345.0 :g2 :interval_53 .
+:interval_53 :g2 :entity_414.0;
+      :from 4.9467749426E10 ;
+      :to 4.9467749508E10 ;
+      a :Interval.
+
+:entity_633.0 :g2 :interval_54 .
+:interval_54 :g2 :entity_750.0;
+      :from 2.1229200316E10 ;
+      :to 2.1229200404E10 ;
+      a :Interval.
+
+:entity_723.0 :g2 :interval_55 .
+:interval_55 :g2 :entity_67.0;
+      :from 4.2748505409E10 ;
+      :to 4.2748505505E10 ;
+      a :Interval.
+
+:entity_841.0 :g2 :interval_56 .
+:interval_56 :g2 :entity_540.0;
+      :from 3.7405923898E10 ;
+      :to 3.7405923991E10 ;
+      a :Interval.
+
+:entity_313.0 :g2 :interval_57 .
+:interval_57 :g2 :entity_124.0;
+      :from 3.053798198E9 ;
+      :to 3.05379828E9 ;
+      a :Interval.
+
+:entity_152.0 :g2 :interval_58 .
+:interval_58 :g2 :entity_808.0;
+      :from 4.9275856995E10 ;
+      :to 4.9275857069E10 ;
+      a :Interval.
+
+:entity_731.0 :g2 :interval_59 .
+:interval_59 :g2 :entity_32.0;
+      :from 5.6716777515E10 ;
+      :to 5.6716777609E10 ;
+      a :Interval.
+
+:entity_477.0 :g2 :interval_60 .
+:interval_60 :g2 :entity_947.0;
+      :from 2.6355843304E10 ;
+      :to 2.6355843405E10 ;
+      a :Interval.
+
+:entity_410.0 :g2 :interval_61 .
+:interval_61 :g2 :entity_799.0;
+      :from 3.7118584299E10 ;
+      :to 3.7118584392E10 ;
+      a :Interval.
+
+:entity_81.0 :g2 :interval_62 .
+:interval_62 :g2 :entity_911.0;
+      :from 5.0617421901E10 ;
+      :to 5.0617422E10 ;
+      a :Interval.
+
+:entity_904.0 :g2 :interval_63 .
+:interval_63 :g2 :entity_872.0;
+      :from 4.576440978E9 ;
+      :to 4.576441074E9 ;
+      a :Interval.
+
+:entity_913.0 :g2 :interval_64 .
+:interval_64 :g2 :entity_558.0;
+      :from 2.152222062E10 ;
+      :to 2.1522220713E10 ;
+      a :Interval.
+
+:entity_553.0 :g2 :interval_65 .
+:interval_65 :g2 :entity_369.0;
+      :from 3.1560233224E10 ;
+      :to 3.1560233321E10 ;
+      a :Interval.
+
+:entity_136.0 :g2 :interval_66 .
+:interval_66 :g2 :entity_352.0;
+      :from 3.522203599E9 ;
+      :to 3.522203674E9 ;
+      a :Interval.
+
+:g3 a :BinaryPredicate .
+
+:entity_216.0 :g3 :interval_68 .
+:interval_68 :g3 :entity_168.0;
+      :from 3.4827708907E10 ;
+      :to 3.4827709012E10 ;
+      a :Interval.
+
+:entity_748.0 :g3 :interval_69 .
+:interval_69 :g3 :entity_658.0;
+      :from 1.632645357E9 ;
+      :to 1.632645397E9 ;
+      a :Interval.
+
+:entity_587.0 :g3 :interval_70 .
+:interval_70 :g3 :entity_809.0;
+      :from 1.1738786295E10 ;
+      :to 1.1738786333E10 ;
+      a :Interval.
+
+:entity_866.0 :g3 :interval_71 .
+:interval_71 :g3 :entity_354.0;
+      :from 2.3448882066E10 ;
+      :to 2.3448882109E10 ;
+      a :Interval.
+
+:entity_874.0 :g3 :interval_72 .
+:interval_72 :g3 :entity_156.0;
+      :from 6.2567880753E10 ;
+      :to 6.2567880806E10 ;
+      a :Interval.
+
+:entity_408.0 :g3 :interval_73 .
+:interval_73 :g3 :entity_370.0;
+      :from 6.1456409795E10 ;
+      :to 6.1456409909E10 ;
+      a :Interval.
+
+:entity_793.0 :g3 :interval_74 .
+:interval_74 :g3 :entity_866.0;
+      :from 1.533288192E9 ;
+      :to 1.533288239E9 ;
+      a :Interval.
+
+:entity_426.0 :g3 :interval_75 .
+:interval_75 :g3 :entity_95.0;
+      :from 1.5614803554E10 ;
+      :to 1.5614803648E10 ;
+      a :Interval.
+
+:entity_878.0 :g3 :interval_76 .
+:interval_76 :g3 :entity_78.0;
+      :from 5.035205052E10 ;
+      :to 5.0352050635E10 ;
+      a :Interval.
+
+:entity_384.0 :g3 :interval_77 .
+:interval_77 :g3 :entity_990.0;
+      :from 1.5170279159E10 ;
+      :to 1.5170279277E10 ;
+      a :Interval.
+
+:entity_400.0 :g3 :interval_78 .
+:interval_78 :g3 :entity_658.0;
+      :from 4.1093015988E10 ;
+      :to 4.1093016101E10 ;
+      a :Interval.
+
+:entity_48.0 :g3 :interval_79 .
+:interval_79 :g3 :entity_805.0;
+      :from 5.5541100081E10 ;
+      :to 5.5541100119E10 ;
+      a :Interval.
+
+:entity_727.0 :g3 :interval_80 .
+:interval_80 :g3 :entity_410.0;
+      :from 8.834152667E9 ;
+      :to 8.834152725E9 ;
+      a :Interval.
+
+:entity_993.0 :g3 :interval_81 .
+:interval_81 :g3 :entity_975.0;
+      :from 1.6601665772E10 ;
+      :to 1.6601665814E10 ;
+      a :Interval.
+
+:entity_136.0 :g3 :interval_82 .
+:interval_82 :g3 :entity_352.0;
+      :from 3.522203594E9 ;
+      :to 3.522203694E9 ;
+      a :Interval.
+
+:entity_346.0 :g3 :interval_83 .
+:interval_83 :g3 :entity_761.0;
+      :from 4.9537571272E10 ;
+      :to 4.953757137E10 ;
+      a :Interval.
+
+:entity_447.0 :g3 :interval_84 .
+:interval_84 :g3 :entity_744.0;
+      :from 5.5973317661E10 ;
+      :to 5.5973317705E10 ;
+      a :Interval.
+
+:entity_596.0 :g3 :interval_85 .
+:interval_85 :g3 :entity_379.0;
+      :from 6.2024989318E10 ;
+      :to 6.2024989364E10 ;
+      a :Interval.
+
+:entity_731.0 :g3 :interval_86 .
+:interval_86 :g3 :entity_32.0;
+      :from 5.6716777499E10 ;
+      :to 5.6716777612E10 ;
+      a :Interval.
+
+:entity_509.0 :g3 :interval_87 .
+:interval_87 :g3 :entity_184.0;
+      :from 1.3997798892E10 ;
+      :to 1.3997799024E10 ;
+      a :Interval.
+
+:entity_723.0 :g3 :interval_88 .
+:interval_88 :g3 :entity_295.0;
+      :from 5.9544790429E10 ;
+      :to 5.9544790467E10 ;
+      a :Interval.
+
+:entity_884.0 :g3 :interval_89 .
+:interval_89 :g3 :entity_600.0;
+      :from 2.4803975E8 ;
+      :to 2.48039804E8 ;
+      a :Interval.
+
+:entity_594.0 :g3 :interval_90 .
+:interval_90 :g3 :entity_735.0;
+      :from 1.1636762784E10 ;
+      :to 1.1636762853E10 ;
+      a :Interval.
+
+:entity_267.0 :g3 :interval_91 .
+:interval_91 :g3 :entity_813.0;
+      :from 4.3930352718E10 ;
+      :to 4.3930352764E10 ;
+      a :Interval.
+
+:entity_200.0 :g3 :interval_92 .
+:interval_92 :g3 :entity_119.0;
+      :from 5.9752717334E10 ;
+      :to 5.9752717397E10 ;
+      a :Interval.
+
+:entity_357.0 :g3 :interval_93 .
+:interval_93 :g3 :entity_667.0;
+      :from 6.1573699887E10 ;
+      :to 6.1573699924E10 ;
+      a :Interval.
+
+:entity_1.0 :g3 :interval_94 .
+:interval_94 :g3 :entity_759.0;
+      :from 2.2967503623E10 ;
+      :to 2.2967503664E10 ;
+      a :Interval.
+
+:entity_310.0 :g3 :interval_95 .
+:interval_95 :g3 :entity_49.0;
+      :from 1.8260163337E10 ;
+      :to 1.8260163388E10 ;
+      a :Interval.
+
+:entity_23.0 :g3 :interval_96 .
+:interval_96 :g3 :entity_110.0;
+      :from 3.56311E7 ;
+      :to 3.5631137E7 ;
+      a :Interval.
+
+:entity_313.0 :g3 :interval_97 .
+:interval_97 :g3 :entity_124.0;
+      :from 3.053798184E9 ;
+      :to 3.05379829E9 ;
+      a :Interval.
+
+:entity_405.0 :g3 :interval_98 .
+:interval_98 :g3 :entity_543.0;
+      :from 4.5354440878E10 ;
+      :to 4.5354440936E10 ;
+      a :Interval.
+
+:entity_496.0 :g3 :interval_99 .
+:interval_99 :g3 :entity_938.0;
+      :from 5.5274977467E10 ;
+      :to 5.5274977526E10 ;
+      a :Interval.
+
+:entity_101.0 :g3 :interval_100 .
+:interval_100 :g3 :entity_772.0;
+      :from 5.9561425325E10 ;
+      :to 5.9561425436E10 ;
+      a :Interval.
+
+:entity_924.0 :g3 :interval_101 .
+:interval_101 :g3 :entity_842.0;
+      :from 3.5418842959E10 ;
+      :to 3.5418843009E10 ;
+      a :Interval.
+
+:entity_960.0 :g3 :interval_102 .
+:interval_102 :g3 :entity_22.0;
+      :from 3.6897431289E10 ;
+      :to 3.6897431338E10 ;
+      a :Interval.
+
+:entity_764.0 :g3 :interval_103 .
+:interval_103 :g3 :entity_499.0;
+      :from 4.7352561701E10 ;
+      :to 4.7352561748E10 ;
+      a :Interval.
+
+:entity_941.0 :g3 :interval_104 .
+:interval_104 :g3 :entity_700.0;
+      :from 4.4852101602E10 ;
+      :to 4.4852101661E10 ;
+      a :Interval.
+
+:entity_257.0 :g3 :interval_105 .
+:interval_105 :g3 :entity_34.0;
+      :from 5.4187053991E10 ;
+      :to 5.4187054054E10 ;
+      a :Interval.
+
+:entity_477.0 :g3 :interval_106 .
+:interval_106 :g3 :entity_947.0;
+      :from 2.6355843292E10 ;
+      :to 2.6355843417E10 ;
+      a :Interval.
+
+:entity_529.0 :g3 :interval_107 .
+:interval_107 :g3 :entity_171.0;
+      :from 4.6782708723E10 ;
+      :to 4.6782708776E10 ;
+      a :Interval.
+
+:entity_79.0 :g3 :interval_108 .
+:interval_108 :g3 :entity_174.0;
+      :from 2.5768237692E10 ;
+      :to 2.5768237752E10 ;
+      a :Interval.
+
+:entity_106.0 :g3 :interval_109 .
+:interval_109 :g3 :entity_947.0;
+      :from 3.198781359E10 ;
+      :to 3.1987813651E10 ;
+      a :Interval.
+
+:entity_764.0 :g3 :interval_110 .
+:interval_110 :g3 :entity_653.0;
+      :from 4.9300699173E10 ;
+      :to 4.9300699219E10 ;
+      a :Interval.
+
+:entity_542.0 :g3 :interval_111 .
+:interval_111 :g3 :entity_43.0;
+      :from 5.3722945092E10 ;
+      :to 5.3722945142E10 ;
+      a :Interval.
+
+:entity_369.0 :g3 :interval_112 .
+:interval_112 :g3 :entity_794.0;
+      :from 5.524963671E10 ;
+      :to 5.5249636799E10 ;
+      a :Interval.
+
+:entity_483.0 :g3 :interval_113 .
+:interval_113 :g3 :entity_767.0;
+      :from 5.8383052147E10 ;
+      :to 5.8383052239E10 ;
+      a :Interval.
+
+:entity_730.0 :g3 :interval_114 .
+:interval_114 :g3 :entity_247.0;
+      :from 3.5265234622E10 ;
+      :to 3.5265234727E10 ;
+      a :Interval.
+
+:entity_81.0 :g3 :interval_115 .
+:interval_115 :g3 :entity_911.0;
+      :from 5.0617421905E10 ;
+      :to 5.0617422003E10 ;
+      a :Interval.
+
+:entity_633.0 :g3 :interval_116 .
+:interval_116 :g3 :entity_750.0;
+      :from 2.1229200305E10 ;
+      :to 2.1229200409E10 ;
+      a :Interval.
+
+:entity_458.0 :g3 :interval_117 .
+:interval_117 :g3 :entity_783.0;
+      :from 1.004173247E9 ;
+      :to 1.004173366E9 ;
+      a :Interval.
+
+:entity_274.0 :g3 :interval_118 .
+:interval_118 :g3 :entity_658.0;
+      :from 4.3634614724E10 ;
+      :to 4.3634614834E10 ;
+      a :Interval.
+
+:entity_658.0 :g3 :interval_119 .
+:interval_119 :g3 :entity_247.0;
+      :from 3.0795520118E10 ;
+      :to 3.0795520174E10 ;
+      a :Interval.
+
+:entity_660.0 :g3 :interval_120 .
+:interval_120 :g3 :entity_506.0;
+      :from 2.285349594E10 ;
+      :to 2.2853496053E10 ;
+      a :Interval.
+
+:entity_655.0 :g3 :interval_121 .
+:interval_121 :g3 :entity_9.0;
+      :from 4.2584478421E10 ;
+      :to 4.2584478463E10 ;
+      a :Interval.
+
+:entity_737.0 :g3 :interval_122 .
+:interval_122 :g3 :entity_948.0;
+      :from 6.0275308149E10 ;
+      :to 6.0275308194E10 ;
+      a :Interval.
+
+:entity_50.0 :g3 :interval_123 .
+:interval_123 :g3 :entity_196.0;
+      :from 1.8094856163E10 ;
+      :to 1.8094856205E10 ;
+      a :Interval.
+
+:entity_55.0 :g3 :interval_124 .
+:interval_124 :g3 :entity_525.0;
+      :from 2.2113592991E10 ;
+      :to 2.211359305E10 ;
+      a :Interval.
+
+:entity_974.0 :g3 :interval_125 .
+:interval_125 :g3 :entity_374.0;
+      :from 3.6539404803E10 ;
+      :to 3.6539404851E10 ;
+      a :Interval.
+
+:entity_373.0 :g3 :interval_126 .
+:interval_126 :g3 :entity_542.0;
+      :from 4.6314715843E10 ;
+      :to 4.6314715944E10 ;
+      a :Interval.
+
+:entity_599.0 :g3 :interval_127 .
+:interval_127 :g3 :entity_399.0;
+      :from 8.50947781E8 ;
+      :to 8.50947917E8 ;
+      a :Interval.
+
+:entity_553.0 :g3 :interval_128 .
+:interval_128 :g3 :entity_369.0;
+      :from 3.1560233212E10 ;
+      :to 3.1560233325E10 ;
+      a :Interval.
+
+:entity_118.0 :g3 :interval_129 .
+:interval_129 :g3 :entity_947.0;
+      :from 5.1916592281E10 ;
+      :to 5.191659242E10 ;
+      a :Interval.
+
+:entity_725.0 :g3 :interval_130 .
+:interval_130 :g3 :entity_376.0;
+      :from 0.0 ;
+      :to 39.0 ;
+      a :Interval.
+
+:entity_518.0 :g3 :interval_131 .
+:interval_131 :g3 :entity_793.0;
+      :from 5.379760988E9 ;
+      :to 5.379761047E9 ;
+      a :Interval.
+
+:entity_904.0 :g3 :interval_132 .
+:interval_132 :g3 :entity_872.0;
+      :from 4.576440965E9 ;
+      :to 4.576441088E9 ;
+      a :Interval.
+
+:entity_329.0 :g3 :interval_133 .
+:interval_133 :g3 :entity_671.0;
+      :from 7.288897192E9 ;
+      :to 7.288897244E9 ;
+      a :Interval.
+
+:entity_157.0 :g3 :interval_134 .
+:interval_134 :g3 :entity_488.0;
+      :from 4.1793241182E10 ;
+      :to 4.179324129E10 ;
+      a :Interval.
+
+:entity_367.0 :g3 :interval_135 .
+:interval_135 :g3 :entity_205.0;
+      :from 2.8977520925E10 ;
+      :to 2.8977520974E10 ;
+      a :Interval.
+
+:entity_702.0 :g3 :interval_136 .
+:interval_136 :g3 :entity_284.0;
+      :from 4.2869409238E10 ;
+      :to 4.2869409345E10 ;
+      a :Interval.
+
+:entity_408.0 :g3 :interval_137 .
+:interval_137 :g3 :entity_649.0;
+      :from 5.881819659E10 ;
+      :to 5.8818196647E10 ;
+      a :Interval.
+
+:entity_723.0 :g3 :interval_138 .
+:interval_138 :g3 :entity_67.0;
+      :from 4.2748505397E10 ;
+      :to 4.2748505515E10 ;
+      a :Interval.
+
+:entity_188.0 :g3 :interval_139 .
+:interval_139 :g3 :entity_629.0;
+      :from 3.4801729867E10 ;
+      :to 3.4801729975E10 ;
+      a :Interval.
+
+:entity_838.0 :g3 :interval_140 .
+:interval_140 :g3 :entity_430.0;
+      :from 6.766543186E9 ;
+      :to 6.76654323E9 ;
+      a :Interval.
+
+:entity_897.0 :g3 :interval_141 .
+:interval_141 :g3 :entity_964.0;
+      :from 9.280133146E9 ;
+      :to 9.280133205E9 ;
+      a :Interval.
+
+:entity_918.0 :g3 :interval_142 .
+:interval_142 :g3 :entity_402.0;
+      :from 3.2380178563E10 ;
+      :to 3.2380178691E10 ;
+      a :Interval.
+
+:entity_466.0 :g3 :interval_143 .
+:interval_143 :g3 :entity_373.0;
+      :from 3.869145196E9 ;
+      :to 3.869145243E9 ;
+      a :Interval.
+
+:entity_541.0 :g3 :interval_144 .
+:interval_144 :g3 :entity_73.0;
+      :from 1.6854257219E10 ;
+      :to 1.6854257275E10 ;
+      a :Interval.
+
+:entity_670.0 :g3 :interval_145 .
+:interval_145 :g3 :entity_556.0;
+      :from 1.0655021854E10 ;
+      :to 1.06550219E10 ;
+      a :Interval.
+
+:entity_321.0 :g3 :interval_146 .
+:interval_146 :g3 :entity_756.0;
+      :from 4.2105245463E10 ;
+      :to 4.2105245513E10 ;
+      a :Interval.
+
+:g4 a :BinaryPredicate .
+
+:entity_313.0 :g4 :interval_148 .
+:interval_148 :g4 :entity_124.0;
+      :from 3.053798198E9 ;
+      :to 3.053798265E9 ;
+      a :Interval.
+
+:entity_473.0 :g4 :interval_149 .
+:interval_149 :g4 :entity_448.0;
+      :from 5.254389294E9 ;
+      :to 5.254389362E9 ;
+      a :Interval.
+
+:entity_371.0 :g4 :interval_150 .
+:interval_150 :g4 :entity_393.0;
+      :from 1.6846445356E10 ;
+      :to 1.6846445424E10 ;
+      a :Interval.
+
+:entity_408.0 :g4 :interval_151 .
+:interval_151 :g4 :entity_370.0;
+      :from 6.1456409813E10 ;
+      :to 6.1456409884E10 ;
+      a :Interval.
+
+:entity_896.0 :g4 :interval_152 .
+:interval_152 :g4 :entity_230.0;
+      :from 3.7734076583E10 ;
+      :to 3.7734076665E10 ;
+      a :Interval.
+
+:entity_477.0 :g4 :interval_153 .
+:interval_153 :g4 :entity_947.0;
+      :from 2.6355843318E10 ;
+      :to 2.6355843398E10 ;
+      a :Interval.
+
+:entity_373.0 :g4 :interval_154 .
+:interval_154 :g4 :entity_542.0;
+      :from 4.6314715851E10 ;
+      :to 4.6314715928E10 ;
+      a :Interval.
+
+:entity_624.0 :g4 :interval_155 .
+:interval_155 :g4 :entity_878.0;
+      :from 1.8793008527E10 ;
+      :to 1.8793008624E10 ;
+      a :Interval.
+
+:entity_346.0 :g4 :interval_156 .
+:interval_156 :g4 :entity_761.0;
+      :from 4.9537571297E10 ;
+      :to 4.9537571358E10 ;
+      a :Interval.
+
+:entity_188.0 :g4 :interval_157 .
+:interval_157 :g4 :entity_629.0;
+      :from 3.4801729898E10 ;
+      :to 3.4801729964E10 ;
+      a :Interval.
+
+:entity_378.0 :g4 :interval_158 .
+:interval_158 :g4 :entity_610.0;
+      :from 7.39277956E9 ;
+      :to 7.392779634E9 ;
+      a :Interval.
+
+:entity_904.0 :g4 :interval_159 .
+:interval_159 :g4 :entity_872.0;
+      :from 4.576440998E9 ;
+      :to 4.576441061E9 ;
+      a :Interval.
+
+:entity_216.0 :g4 :interval_160 .
+:interval_160 :g4 :entity_168.0;
+      :from 3.4827708906E10 ;
+      :to 3.4827708984E10 ;
+      a :Interval.
+
+:entity_274.0 :g4 :interval_161 .
+:interval_161 :g4 :entity_658.0;
+      :from 4.3634614746E10 ;
+      :to 4.3634614808E10 ;
+      a :Interval.
+
+:entity_553.0 :g4 :interval_162 .
+:interval_162 :g4 :entity_369.0;
+      :from 3.1560233241E10 ;
+      :to 3.1560233314E10 ;
+      a :Interval.
+
+:entity_633.0 :g4 :interval_163 .
+:interval_163 :g4 :entity_750.0;
+      :from 2.1229200317E10 ;
+      :to 2.1229200407E10 ;
+      a :Interval.
+
+:entity_689.0 :g4 :interval_164 .
+:interval_164 :g4 :entity_140.0;
+      :from 5.9973641339E10 ;
+      :to 5.9973641403E10 ;
+      a :Interval.
+
+:entity_118.0 :g4 :interval_165 .
+:interval_165 :g4 :entity_947.0;
+      :from 5.1916592322E10 ;
+      :to 5.19165924E10 ;
+      a :Interval.
+
+:entity_902.0 :g4 :interval_166 .
+:interval_166 :g4 :entity_498.0;
+      :from 4.3181004872E10 ;
+      :to 4.3181004937E10 ;
+      a :Interval.
+
+:entity_509.0 :g4 :interval_167 .
+:interval_167 :g4 :entity_184.0;
+      :from 1.3997798904E10 ;
+      :to 1.3997798997E10 ;
+      a :Interval.
+
+:entity_309.0 :g4 :interval_168 .
+:interval_168 :g4 :entity_204.0;
+      :from 3.1276494041E10 ;
+      :to 3.1276494117E10 ;
+      a :Interval.
+
+:entity_924.0 :g4 :interval_169 .
+:interval_169 :g4 :entity_907.0;
+      :from 1.4875423447E10 ;
+      :to 1.4875423534E10 ;
+      a :Interval.
+
+:entity_702.0 :g4 :interval_170 .
+:interval_170 :g4 :entity_284.0;
+      :from 4.2869409252E10 ;
+      :to 4.2869409312E10 ;
+      a :Interval.
+
+:entity_410.0 :g4 :interval_171 .
+:interval_171 :g4 :entity_799.0;
+      :from 3.7118584307E10 ;
+      :to 3.7118584376E10 ;
+      a :Interval.
+
+:entity_136.0 :g4 :interval_172 .
+:interval_172 :g4 :entity_352.0;
+      :from 3.522203609E9 ;
+      :to 3.522203668E9 ;
+      a :Interval.
+
+:entity_599.0 :g4 :interval_173 .
+:interval_173 :g4 :entity_399.0;
+      :from 8.50947798E8 ;
+      :to 8.50947889E8 ;
+      a :Interval.
+
+:entity_886.0 :g4 :interval_174 .
+:interval_174 :g4 :entity_817.0;
+      :from 2.294537251E10 ;
+      :to 2.2945372585E10 ;
+      a :Interval.
+
+:entity_426.0 :g4 :interval_175 .
+:interval_175 :g4 :entity_95.0;
+      :from 1.5614803572E10 ;
+      :to 1.5614803635E10 ;
+      a :Interval.
+
+:entity_458.0 :g4 :interval_176 .
+:interval_176 :g4 :entity_783.0;
+      :from 1.004173268E9 ;
+      :to 1.004173351E9 ;
+      a :Interval.
+
+:entity_157.0 :g4 :interval_177 .
+:interval_177 :g4 :entity_488.0;
+      :from 4.1793241192E10 ;
+      :to 4.1793241265E10 ;
+      a :Interval.
+
+:entity_841.0 :g4 :interval_178 .
+:interval_178 :g4 :entity_540.0;
+      :from 3.7405923909E10 ;
+      :to 3.7405923977E10 ;
+      a :Interval.
+
+:entity_660.0 :g4 :interval_179 .
+:interval_179 :g4 :entity_506.0;
+      :from 2.2853495961E10 ;
+      :to 2.2853496036E10 ;
+      a :Interval.
+
+:entity_913.0 :g4 :interval_180 .
+:interval_180 :g4 :entity_558.0;
+      :from 2.1522220634E10 ;
+      :to 2.1522220719E10 ;
+      a :Interval.
+
+:entity_81.0 :g4 :interval_181 .
+:interval_181 :g4 :entity_911.0;
+      :from 5.0617421917E10 ;
+      :to 5.0617421985E10 ;
+      a :Interval.
+
+:entity_400.0 :g4 :interval_182 .
+:interval_182 :g4 :entity_658.0;
+      :from 4.109301601E10 ;
+      :to 4.1093016065E10 ;
+      a :Interval.
+
+:entity_723.0 :g4 :interval_183 .
+:interval_183 :g4 :entity_67.0;
+      :from 4.2748505425E10 ;
+      :to 4.274850549E10 ;
+      a :Interval.
+
+:entity_918.0 :g4 :interval_184 .
+:interval_184 :g4 :entity_402.0;
+      :from 3.2380178601E10 ;
+      :to 3.238017866E10 ;
+      a :Interval.
+
+:entity_99.0 :g4 :interval_185 .
+:interval_185 :g4 :entity_271.0;
+      :from 1.6765512629E10 ;
+      :to 1.6765512707E10 ;
+      a :Interval.
+
+:entity_731.0 :g4 :interval_186 .
+:interval_186 :g4 :entity_32.0;
+      :from 5.6716777539E10 ;
+      :to 5.6716777591E10 ;
+      a :Interval.
+
+:entity_483.0 :g4 :interval_187 .
+:interval_187 :g4 :entity_767.0;
+      :from 5.838305216E10 ;
+      :to 5.8383052219E10 ;
+      a :Interval.
+
+:entity_231.0 :g4 :interval_188 .
+:interval_188 :g4 :entity_764.0;
+      :from 5.0455931646E10 ;
+      :to 5.0455931714E10 ;
+      a :Interval.
+
+:entity_384.0 :g4 :interval_189 .
+:interval_189 :g4 :entity_990.0;
+      :from 1.517027918E10 ;
+      :to 1.517027926E10 ;
+      a :Interval.
+
+:entity_152.0 :g4 :interval_190 .
+:interval_190 :g4 :entity_808.0;
+      :from 4.9275856988E10 ;
+      :to 4.9275857058E10 ;
+      a :Interval.
+
+:entity_878.0 :g4 :interval_191 .
+:interval_191 :g4 :entity_78.0;
+      :from 5.0352050532E10 ;
+      :to 5.0352050605E10 ;
+      a :Interval.
+
+:entity_345.0 :g4 :interval_192 .
+:interval_192 :g4 :entity_414.0;
+      :from 4.9467749416E10 ;
+      :to 4.9467749495E10 ;
+      a :Interval.
+
+:entity_369.0 :g4 :interval_193 .
+:interval_193 :g4 :entity_794.0;
+      :from 5.5249636714E10 ;
+      :to 5.5249636775E10 ;
+      a :Interval.
+
+:entity_730.0 :g4 :interval_194 .
+:interval_194 :g4 :entity_247.0;
+      :from 3.526523464E10 ;
+      :to 3.5265234707E10 ;
+      a :Interval.
+
+:entity_955.0 :g4 :interval_195 .
+:interval_195 :g4 :entity_859.0;
+      :from 2.1332202456E10 ;
+      :to 2.1332202529E10 ;
+      a :Interval.
+
+:entity_101.0 :g4 :interval_196 .
+:interval_196 :g4 :entity_772.0;
+      :from 5.9561425348E10 ;
+      :to 5.9561425414E10 ;
+      a :Interval.
+
