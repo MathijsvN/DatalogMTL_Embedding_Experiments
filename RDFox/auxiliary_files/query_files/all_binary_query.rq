@@ -1,0 +1,10 @@
+SELECT ?s ?p ?o ?start ?end 
+WHERE {
+     ?p a :BinaryPredicate.
+    ?s ?p ?interval .
+    ?interval ?p ?o .
+    ?interval a :Interval;
+        :from ?start;
+        :to ?end;
+} 
+ORDER BY ASC(?p) ASC(?start) ASC(?end)

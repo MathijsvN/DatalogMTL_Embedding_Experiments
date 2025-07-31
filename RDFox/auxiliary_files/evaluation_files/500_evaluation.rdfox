@@ -1,0 +1,26 @@
+# Output RDFox's response to the terminal.
+set output out
+
+# Start the endpoint (to enable API calls).
+endpoint start
+
+# Create a data store called 'default'.
+dstore create default
+
+# 500 evaluation
+
+# Clear the datastore to ensure we are starting with a blank slate
+clear force
+
+# Import our data
+import +p AdvancedWorkshop\iTemporal\Generated\data\500\dataset.ttl
+
+# Import our rules
+import AdvancedWorkshop\iTemporal\Generated\programs\500\rules_500.dlog
+
+# Add some visual padding
+echo 
+echo === Data and Program loaded ===
+echo
+evaluate AdvancedWorkshop\iTemporal\MagicSets\queries\all_interval_query.rq
+quit

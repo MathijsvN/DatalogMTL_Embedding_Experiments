@@ -1,0 +1,8 @@
+SELECT ?s ?p ?start ?end
+WHERE {
+    ?s :unaryPred ?interval .
+    ?interval :unaryPred ?p .
+    ?interval a :Interval;
+        :from ?start;
+        :to ?end;
+} ORDER BY ASC(?p) ASC(?s) ASC(?start)

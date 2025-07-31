@@ -1,0 +1,8 @@
+SELECT ?s ?p ?o ?start ?end ?interval
+WHERE {
+    ?s ?p ?interval .
+    ?interval ?p ?o .
+    ?interval a :Interval;
+        :from ?start;
+        :to ?end;
+} ORDER BY ASC(?s) ASC(?o) ASC(?p) ASC(?start)
