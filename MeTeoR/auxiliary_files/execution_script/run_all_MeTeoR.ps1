@@ -1,9 +1,25 @@
+Write-Output "Warm up MeTeoR_10^1"
+
+# Create an empty array to store timing results
+$results = @()
+
+# Run the command 5 times and measure each run
+for ($i = 1; $i -le 5; $i++) {
+    Write-Output $i
+    $time = Measure-Command {
+        python "C:\Users\Administrator\OneDrive - UGent\'22-'23\Research\MeTeoR\MeTeoR\meteor_reasoner\iTemporal\iTemporal_MagicSets\run_iTemporal.MagicSets.py" --input_data "C:\Users\Administrator\OneDrive - UGent\'22-'23\Research\MeTeoR\MeTeoR\meteor_reasoner\iTemporal\iTemporal_MagicSets\data\10^1\dataset.txt" --input_program "C:\Users\Administrator\OneDrive - UGent\'22-'23\Research\MeTeoR\MeTeoR\meteor_reasoner\iTemporal\iTemporal_MagicSets\program\iTemporal_program.txt"
+    }
+}
+
+# Closing message
+Write-Output "Warmed up on MeTeoR_10^1"
+
 Write-Output "Started MeTeoR_10^1"
 
 # Create an empty array to store timing results
 $results = @()
 
-# Run the command 100 times and measure each run
+# Run the command 5 times and measure each run
 for ($i = 1; $i -le 5; $i++) {
     Write-Output $i
     $time = Measure-Command {
@@ -31,7 +47,7 @@ Write-Output "Started MeTeoR_10^2"
 # Create an empty array to store timing results
 $results = @()
 
-# Run the command 100 times and measure each run
+# Run the command 5 times and measure each run
 for ($i = 1; $i -le 5; $i++) {
     Write-Output $i
     $time = Measure-Command {
@@ -59,7 +75,7 @@ Write-Output "Started MeTeoR_10^3"
 # Create an empty array to store timing results
 $results = @()
 
-# Run the command 100 times and measure each run
+# Run the command 5 times and measure each run
 for ($i = 1; $i -le 5; $i++) {
     Write-Output $i
     $time = Measure-Command {
@@ -87,7 +103,7 @@ Write-Output "Started MeTeoR_10^4"
 # Create an empty array to store timing results
 $results = @()
 
-# Run the command 100 times and measure each run
+# Run the command 5 times and measure each run
 for ($i = 1; $i -le 5; $i++) {
     Write-Output $i
     $time = Measure-Command {
@@ -115,7 +131,7 @@ Write-Output "Started MeTeoR_10^5"
 # Create an empty array to store timing results
 $results = @()
 
-# Run the command 100 times and measure each run
+# Run the command 5 times and measure each run
 for ($i = 1; $i -le 5; $i++) {
     Write-Output $i
     $time = Measure-Command {
